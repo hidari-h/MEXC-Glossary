@@ -2,35 +2,35 @@
   {
     "termo": "$100M Guardian Fund",
     "tradução": "Brand",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The fund specifically allocated to cover losses caused by platform issues, ensuring swift and full user protection.",
     "categoria": "1 亿美元守护基金"
   },
   {
     "termo": "0 fees",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A core MEXC value proposition referring to zero trading fees on eligible spot and futures trades, extended to specific trading pairs or event periods during campaigns.",
     "categoria": "0 手续费"
   },
   {
     "termo": "0-Fee Fest",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A recurring MEXC promotion offering 0% Maker and Taker fees on eligible Spot and Futures trading pairs.",
     "categoria": "零费率狂欢节"
   },
   {
     "termo": "AI Consultant",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Under MEXC-AI. Analyzes user's current asset portfolio and gives users some insights and suggestions.",
     "categoria": "AI 顾问"
   },
   {
     "termo": "AI Insights",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "AI-generated analysis section within the MEXC-AI interface.",
     "categoria": "AI 解析"
   },
@@ -44,56 +44,56 @@
   {
     "termo": "AI News Radar",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An AI-powered tool that continuously scans and analyzes the latest cryptocurrency market news from social media feeds and developments, providing real-time insights and updates relevant to traders.",
     "categoria": "AI 快讯"
   },
   {
     "termo": "AI Recommendation",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The entrance to the AI Recommendation List.",
     "categoria": "AI 推荐"
   },
   {
     "termo": "AI Select List",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A curated list of selected trading pairs recommended by the AI based on market trends, volatility, and trading potential, designed to help users identify promising investment opportunities.",
     "categoria": "AI 榜单"
   },
   {
     "termo": "AI Signal",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An AI-driven trade technical indicator signal alert system that pushes timely notifications about potential buy/sell opportunities, market anomalies, or risk warnings to help users make informed trading decisions. This is a feature under AI Analysis.",
     "categoria": "AI 盯盘"
   },
   {
     "termo": "AI Toolbox",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "AI Toolbox is a centralized hub where users can access all AI-powered features and tools across MEXC in one place.",
     "categoria": "AI 百宝箱"
   },
   {
     "termo": "API broker",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Platforms or services integrated with MEXC's API for copy trading, bots, or asset management, earning commissions on user trades.",
     "categoria": "API 经纪商"
   },
   {
     "termo": "API key",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An API key is a unique code that allows external applications to securely access your account and interact with MEXC services according to the permissions you grant.",
     "categoria": "API Key"
   },
   {
     "termo": "API market makers",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Institutional users on MEXC using APIs for high-frequency trading, benefiting from interest-free loans, higher rate limits, and liquidity incentives.",
     "categoria": "API 做市商"
   },
@@ -114,7 +114,7 @@
   {
     "termo": "Account asset modes",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Under this section, select asset/margin modes available for managing account assets.",
     "categoria": "账户资产模式"
   },
@@ -156,28 +156,28 @@
   {
     "termo": "Active order",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a section label in the orders tab. An order that is currently open and not yet completed or cancelled.",
     "categoria": "活跃订单"
   },
   {
     "termo": "Add margin",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The action of depositing additional funds into a position to increase its margin and reduce liquidation risk.",
     "categoria": "追加保证金"
   },
   {
     "termo": "Additional verification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Extra security measures, such as additional codes or documents, required for sensitive operations to confirm user identity and prevent fraud.",
     "categoria": "补充认证"
   },
   {
     "termo": "Advanced KYC",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Higher-tier identity verification requiring additional documents for full access to platform features and higher limits.",
     "categoria": "高级身份认证"
   },
@@ -219,35 +219,35 @@
   {
     "termo": "Airdrop",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A reward distributed as free tokens directly to a user's account.",
     "categoria": "空投"
   },
   {
     "termo": "Airdrop+",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A MEXC campaign where users earn crypto rewards by completing simple deposit and trading tasks across hundreds of projects.",
     "categoria": "Airdrop+"
   },
   {
     "termo": "Alpha",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The Alpha trading zone platform for trading promising on-chain projects before mainstream markets.",
     "categoria": "Alpha"
   },
   {
     "termo": "Alpha Strategy",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Alpha Strategy mode: responses provide more professional analysis. It is a feature under MEXC-AI.",
     "categoria": "Alpha 策略"
   },
   {
     "termo": "Altcoin",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Any cryptocurrency other than Bitcoin.",
     "categoria": "替代币"
   },
@@ -261,7 +261,7 @@
   {
     "termo": "Anti-phishing code",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A user-set code included in legitimate platform emails to help identify and avoid phishing attempts.",
     "categoria": "防钓鱼码"
   },
@@ -303,7 +303,7 @@
   {
     "termo": "Authenticator app",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A mobile application that generates time-based one-time passwords (TOTPs) for two-factor authentication (2FA).",
     "categoria": "身份验证器"
   },
@@ -317,7 +317,7 @@
   {
     "termo": "Auto-Earn",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Feature that automatically stakes idle assets into Flexible Savings to earn returns.",
     "categoria": "自动理财"
   },
@@ -331,7 +331,7 @@
   {
     "termo": "Automated market maker (AMM)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A decentralized trading protocol that uses algorithms and liquidity pools to determine asset prices instead of traditional order books.",
     "categoria": "自动化做市商（AMM）"
   },
@@ -359,14 +359,14 @@
   {
     "termo": "Average close price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The weighted average price of multiple closing trades for a position.",
     "categoria": "平仓均价"
   },
   {
     "termo": "Average entry price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The weighted average price of multiple entries into the same position direction.",
     "categoria": "开仓均价"
   },
@@ -394,21 +394,21 @@
   {
     "termo": "Bankruptcy price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The price at which a position's equity becomes zero after exhausting all margin, triggering potential auto-deleveraging if the position cannot be liquidated profitably.",
     "categoria": "破产价格"
   },
   {
     "termo": "Base APR",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The base interest rate of a MEXC Earn product when it consists of a base interest rate and a bonus APR.",
     "categoria": "基础 APR"
   },
   {
     "termo": "Base crypto",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The cryptocurrency being bought or sold in a trading pair, with its price quoted in another currency.",
     "categoria": "标的币种"
   },
@@ -436,14 +436,14 @@
   {
     "termo": "Bonus APR",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The bonus APR of a MEXC Earn product when it consists of a base interest rate and a bonus APR.",
     "categoria": "补贴年利率"
   },
   {
     "termo": "Broker sub-account",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A sub-account managed or linked to a broker for facilitating trades, often used in copy trading or managed investment services on crypto platforms.",
     "categoria": "经纪商子账户"
   },
@@ -464,14 +464,14 @@
   {
     "termo": "Call",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A contract or position that gives the holder the right (but not the obligation) to buy an asset at a specified price within a certain time period.",
     "categoria": "看涨"
   },
   {
     "termo": "Candlestick chart",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A chart composed of multiple candlesticks arranged over time to display price trends and market behavior.",
     "categoria": "K线"
   },
@@ -499,14 +499,14 @@
   {
     "termo": "Chase limit order",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order type that automatically adjusts the limit price to chase the market price within a specified range, improving order fill probability.",
     "categoria": "追逐限价委托"
   },
   {
     "termo": "Check-in",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A daily action where users complete a required activity to claim rewards, with consecutive check-ins forming a streak that unlocks greater rewards.",
     "categoria": "打卡"
   },
@@ -520,7 +520,7 @@
   {
     "termo": "Circulating supply",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The amount of a token currently available and circulating in the market.",
     "categoria": "流通总量"
   },
@@ -529,12 +529,12 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Initiates the action of collecting an available reward or incentive.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Close",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The action of exiting an open position by placing an opposing trade, realizing PNL.",
     "categoria": "平仓"
   },
@@ -548,28 +548,28 @@
   {
     "termo": "Close long",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An action to sell and close an existing long position. Sometimes shown as \"Close Long (Sell)\".",
     "categoria": "平多"
   },
   {
     "termo": "Close position",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The process of offsetting an open position to exit the trade and realize PNL.",
     "categoria": "平仓"
   },
   {
     "termo": "Close price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The price at which a position is closed, determining the final realized PNL.",
     "categoria": "平仓价格"
   },
   {
     "termo": "Close short",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An action to buy and close an existing short position. Sometimes shown as \"Close Short (Buy)\".",
     "categoria": "平空"
   },
@@ -583,14 +583,14 @@
   {
     "termo": "Coin-M",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Coin-Margined. Inverse perpetual futures margined in the base cryptocurrency, with PNL in the coin.",
     "categoria": "币本位"
   },
   {
     "termo": "Collateral",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An asset pledged to secure a loan or leveraged position, which may be liquidated if obligations are not met.",
     "categoria": "抵押品"
   },
@@ -611,21 +611,21 @@
   {
     "termo": "Commodities",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Physical assets, such as gold, silver, or oil, that can be traded on crypto platforms using digital assets as collateral.",
     "categoria": "大宗商品"
   },
   {
     "termo": "Compare",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Feature name. Select and compare multiple crypto tokens side by side.",
     "categoria": "币种PK"
   },
   {
     "termo": "Contract (cont.)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The standard unit of a futures contract on MEXC, representing a fixed value (e.g., 1 cont = 0.0001 BTC for BTC futures), used to measure position size.",
     "categoria": "笔"
   },
@@ -646,7 +646,7 @@
   {
     "termo": "Contract size",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The nominal value of one contract unit, e.g., 1 cont = fixed USD or coin amount, defining position scale.",
     "categoria": "合约面值"
   },
@@ -716,21 +716,21 @@
   {
     "termo": "Cross-chain",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Technology that enables interaction, asset transfer, or communication between different blockchain networks.",
     "categoria": "跨链"
   },
   {
     "termo": "Cross-region arbitrage",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Cross-region arbitrage is the practice of profiting from price differences for the same asset across markets in different geographic regions.",
     "categoria": "跨区套利"
   },
   {
     "termo": "Crypto",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The type of cryptocurrency asset involved in the conversion.",
     "categoria": "币种"
   },
@@ -758,7 +758,7 @@
   {
     "termo": "Current tokens",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a data field in the comparison view. The tokens currently selected and included in the comparison.",
     "categoria": "当前币种"
   },
@@ -786,7 +786,7 @@
   {
     "termo": "Customer Service",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Support services available to assist users with platform and account-related questions.",
     "categoria": "在线客服"
   },
@@ -800,14 +800,14 @@
   {
     "termo": "DEX+",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Official name of the MEXC decentralized exchange or DEX+ platform.",
     "categoria": "DEX+"
   },
   {
     "termo": "Daily PNL (USDT)",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a data field in the trading interface. The profit or loss achieved by the user in a single day, measured in USDT.",
     "categoria": "当日盈亏 (USDT)"
   },
@@ -828,21 +828,21 @@
   {
     "termo": "Decentralized application (DApp)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An application that runs on a blockchain or decentralized network rather than centralized servers.",
     "categoria": "去中心化应用（DApp）"
   },
   {
     "termo": "Decentralized exchange (DEX)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Trading platforms that allow users to exchange cryptocurrencies directly from their wallets without intermediaries.",
     "categoria": "去中心化交易所（DEX）"
   },
   {
     "termo": "Delist",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The process of removing a cryptocurrency or token from an exchange's trading pairs.",
     "categoria": "下架"
   },
@@ -850,7 +850,7 @@
     "termo": "Demo Trading",
     "tradução": "Trade",
     "contexto": "Futures",
-    "descrição": "Simulated trading environment using virtual funds to practice strategies without real financial risk, available on MEXC for futures and spot.",
+    "descrição": "Simulated trading environment using virtual funds to practice strategies without real finullcial risk, available on MEXC for futures and spot.",
     "categoria": "模拟盘"
   },
   {
@@ -858,7 +858,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Initiates the action of depositing assets into the user's account.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Diamond chest",
@@ -870,14 +870,14 @@
   {
     "termo": "Digital eRupee",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "India's central bank digital currency (CBDC), a blockchain-based digital version of the Indian Rupee for secure, efficient transactions.",
     "categoria": "数字电子卢比"
   },
   {
     "termo": "Digital eRupee wallet",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A digital wallet specifically for holding, transacting, and managing India's central bank digital currency (CBDC), the eRupee, enabling seamless digital payments.",
     "categoria": "数字电子卢比钱包"
   },
@@ -905,7 +905,7 @@
   {
     "termo": "Dollar cost averaging (DCA)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An investment strategy where a fixed amount is invested at regular intervals, reducing the impact of price volatility over time.",
     "categoria": "平均成本法（定投）"
   },
@@ -933,7 +933,7 @@
   {
     "termo": "Early settlement",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Platform’s mechanism to close or adjust positions ahead of corporate events like splits or dividends.",
     "categoria": "提前交割"
   },
@@ -941,8 +941,8 @@
     "termo": "Earn Now",
     "tradução": "UI Element",
     "contexto": "Button",
-    "descrição": NaN,
-    "categoria": NaN
+    "descrição": null,
+    "categoria": null
   },
   {
     "termo": "Effective margin",
@@ -961,28 +961,28 @@
   {
     "termo": "Email verification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A higher-tier prize pool in Flip Fest for participants who meet higher criteria than the Rising Pool.",
     "categoria": "邮箱验证"
   },
   {
     "termo": "Enrollment",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Confirmation of email address ownership by sending and entering a code or clicking a link.",
     "categoria": "加入"
   },
   {
     "termo": "Entire position",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The action of initiating interest accrual on a Hold and Earn product.",
     "categoria": "全部仓位"
   },
   {
     "termo": "Entry price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Refers to the full size of an open position, as opposed to a partial portion.",
     "categoria": "开仓价格"
   },
@@ -1017,21 +1017,21 @@
   {
     "termo": "Estimated APR (Est. APR)",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Short for 'Estimated.' The period at the end (Est.) is part of the standard abbreviation and should always be included.",
     "categoria": "预估 APR"
   },
   {
     "termo": "Estimated PNL (Est. PNL)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The projected annual return on a MEXC Earn product.",
     "categoria": "预估盈亏额"
   },
   {
     "termo": "Estimated Payoff (Est. Payoff)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The projected profit or loss on an open position, calculated in real time based on current market prices.",
     "categoria": "预估收益"
   },
@@ -1045,42 +1045,42 @@
   {
     "termo": "Event Futures",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The projected profit expected from each grid interval in a grid trading strategy or bot operation.",
     "categoria": "事件合约"
   },
   {
     "termo": "Exchange rate",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Derivative contracts that allow users to speculate on the outcome of specific real-world events (e.g., economic reports or sports) using a simplified \"Yes/No\" mechanic, where settlement is based on whether the predicted event occurs.",
     "categoria": "兑换价格"
   },
   {
     "termo": "Expected PNL",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The rate at which one currency is exchanged for another in interest distribution or repayment.",
     "categoria": "预期盈亏"
   },
   {
     "termo": "FAQ",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Expected PNL involves expectations, should be used in prediction related trading that needs to factor in risk adjustment.",
     "categoria": "常见问题"
   },
   {
     "termo": "Face ID",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Frequently Asked Questions. A section providing answers to common user queries. Always use the abbreviation FAQ — do not spell out the full form or use alternative shortenings.",
     "categoria": "面容识别"
   },
   {
     "termo": "Facial recognition",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Advanced biometric authentication using facial recognition technology for quick and secure access to accounts and features.",
     "categoria": "人脸认证"
   },
@@ -1094,14 +1094,14 @@
   {
     "termo": "Fair price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Error message shown when content cannot be retrieved. (Standard term; do not use 'Loading failed'.).",
     "categoria": "合理价"
   },
   {
     "termo": "Favorites",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The calculated real-time price based on index and market data, used for PNL and liquidations to prevent manipulation. Used in place of mark price.",
     "categoria": "自选"
   },
@@ -1122,21 +1122,21 @@
   {
     "termo": "Fee voucher",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A prioritized listing that appears at the top of search results for greater visibility. Featured ads may require a fee, special merchant status, or be granted through promotions.",
     "categoria": "手续费抵扣券"
   },
   {
     "termo": "Fiat",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A voucher that can be applied to offset trading fees.",
     "categoria": "法币"
   },
   {
     "termo": "Fill price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Government-issued currency that is not backed by a physical commodity but derives value from trust and regulation (e.g., USD, EUR). Title case when referring to a MEXC product or zone; sentence case in general editorial use.",
     "categoria": "成交价"
   },
@@ -1150,7 +1150,7 @@
   {
     "termo": "First in market",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order that must be executed in its entirety immediately; if not fully fillable, it is canceled completely.",
     "categoria": "首发上线"
   },
@@ -1164,7 +1164,7 @@
   {
     "termo": "Fixed Savings",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A loan with a fixed loan duration where the interest rate is locked for the full term.",
     "categoria": "定期理财"
   },
@@ -1178,7 +1178,7 @@
   {
     "termo": "Flash Close",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An ad in which the advertiser sets a fixed price for cryptocurrency that remains unchanged regardless of market fluctuations.",
     "categoria": "闪电平仓"
   },
@@ -1213,28 +1213,28 @@
   {
     "termo": "Flexible Savings",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A loan with no fixed loan term. Users can borrow and repay at any time and the interest is calculated hourly.",
     "categoria": "活期理财"
   },
   {
     "termo": "Flexible redemption",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A MEXC Earn product with no fixed lockup period; assets remain tradable and withdrawable anytime.",
     "categoria": "灵活赎回"
   },
   {
     "termo": "Flip Fest",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Users can redeem partial or full stakes at any time without lockup restrictions.",
     "categoria": "MEXC 翻牌乐"
   },
   {
     "termo": "Flipping",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A trading event that uses a card-flipping mechanism; users earn flip opportunities by completing trading tasks.",
     "categoria": "倒货"
   },
@@ -1248,7 +1248,7 @@
   {
     "termo": "Floor price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An ad whose price is linked to the market rate.",
     "categoria": "地板价"
   },
@@ -1276,14 +1276,14 @@
   {
     "termo": "Forex",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The unique identification number or code assigned to a Follower in the system.",
     "categoria": "外汇"
   },
   {
     "termo": "Forex Perpetual Futures",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The global market for trading national fiat currencies (e.g., USD, EUR, JPY).",
     "categoria": "外汇永续合约"
   },
@@ -1297,14 +1297,14 @@
   {
     "termo": "Fully diluted valuation (FDV)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Tokens can be frozen by authorized functions.",
     "categoria": "完全稀释估值"
   },
   {
     "termo": "Fully staked",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The total value of a cryptocurrency calculated by multiplying the current price by the maximum possible supply of tokens, assuming all tokens are in circulation.",
     "categoria": "已售罄"
   },
@@ -1318,29 +1318,29 @@
   {
     "termo": "Funding rate",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Payments based on funding rate and position size, settled every 8 hours on MEXC, positive rate means longs pay shorts.",
     "categoria": "资金费率"
   },
   {
     "termo": "FutureProof",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A periodic fee exchanged between long and short positions in leveraged token trading, influencing the cost of holding positions.",
     "categoria": "FutureProof"
   },
   {
     "termo": "Futures",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The MEXC Foundation's flagship global academic initiative, building long-term partnerships with universities and research institutions through funding, education, and innovation programs.",
     "categoria": "合约"
   },
   {
     "termo": "Futures Earn",
     "tradução": "Earn",
-    "contexto": NaN,
-    "descrição": "A type of financial derivative that allows users to trade the future price of an asset. Title case when referring to a MEXC product or zone; sentence case in general editorial use.",
+    "contexto": null,
+    "descrição": "A type of finullcial derivative that allows users to trade the future price of an asset. Title case when referring to a MEXC product or zone; sentence case in general editorial use.",
     "categoria": "合约赚币"
   },
   {
@@ -1353,28 +1353,28 @@
   {
     "termo": "Futures Grid AI",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The name of the Futures grid trading feature on MEXC and its entrance on the platform. The feature enables automated grid trading strategies on Futures markets.",
     "categoria": "AI 网格策略"
   },
   {
     "termo": "Futures Insurance Fund",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "AI leverages in-depth analysis of historical market data and real-time price trends for a given trading pair. It intelligently and automatically sets the optimal price range, number of grids, and leverage multiplier for the user.",
     "categoria": "合约保险基金"
   },
   {
     "termo": "Futures Leaderboard",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A dedicated insurance fund providing protection to futures traders during periods of extreme market volatility or unexpected losses.",
     "categoria": "合约风云榜"
   },
   {
     "termo": "Futures M-Day",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An ongoing MEXC Futures trading event that ranks participants by daily PNL and trading volume. Top-ranked users share daily prize pools, with rewards distributed across daily, weekly, and monthly periods.",
     "categoria": "M-Day 合约专场"
   },
@@ -1418,7 +1418,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Generally displayed as a button. Directs users to customer support or assistance resources.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Gold chest",
@@ -1430,7 +1430,7 @@
   {
     "termo": "Golden Cross",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Copy Trade Showdown's level-4 treasure chest reward.",
     "categoria": "金叉"
   },
@@ -1444,28 +1444,28 @@
   {
     "termo": "Goodie bag",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order that remains active until fully filled or manually canceled by the user, without an expiration time.",
     "categoria": "福袋"
   },
   {
     "termo": "Google Authentication",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A bundle of tokens in varying amounts, e.g., 88 ABC; 8,888 CDE; 66,666 EFG.",
     "categoria": "谷歌验证"
   },
   {
     "termo": "Google Authenticator",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Two-factor authentication using Google Authenticator or similar services for secure account access.",
     "categoria": "谷歌验证器"
   },
   {
     "termo": "Gradient",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An app for generating 2FA codes, providing an extra layer of security beyond passwords.",
     "categoria": "梯度"
   },
@@ -1521,14 +1521,14 @@
   {
     "termo": "Grid trading",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Historical logs showing profitable exit trades executed by grid bot.",
     "categoria": "网格交易"
   },
   {
     "termo": "Guaranteed stop-loss (Guaranteed SL)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An automated trading bot that places buy and sell orders at preset price intervals within a defined range, profiting from market fluctuations without manual intervention.",
     "categoria": "保证止损功能"
   },
@@ -1542,21 +1542,21 @@
   {
     "termo": "Haptic feedback",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A ranking system in Flip Fest that assigns point values to card hands based on their combination, ranging from C+ (lowest) to S (highest). Higher-ranked hands earn more points and a greater share of the prize pool.",
     "categoria": "触觉反馈"
   },
   {
     "termo": "Hard fork",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Subtle vibrations or tactile responses when you interact with the app, confirming actions through touch.",
     "categoria": "硬分叉"
   },
   {
     "termo": "Hash rate",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A significant blockchain protocol change that creates a permanent split, resulting in two separate chains if not universally adopted.",
     "categoria": "哈希率"
   },
@@ -1591,7 +1591,7 @@
   {
     "termo": "Hold and Earn",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a risk status label on token or contract pages. Token or contract assessed to have high risk levels.",
     "categoria": "持仓赚币"
   },
@@ -1612,7 +1612,7 @@
   {
     "termo": "Hot Futures Challenge",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A token that has restrictions preventing holders from selling, indicating potential scam.",
     "categoria": "热币合约挑战赛"
   },
@@ -1640,7 +1640,7 @@
   {
     "termo": "Impermanent loss",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order that executes immediately for whatever quantity is available; any unfilled portion is cancelled at once.",
     "categoria": "无常损失"
   },
@@ -1682,14 +1682,14 @@
   {
     "termo": "Initial listing",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The amount of capital, denominated in USDT or any other units, initially allocated to the bot when creating the grid trading strategy.",
     "categoria": "首发"
   },
   {
     "termo": "Initial margin",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Replaced with: First in Market. The first official listing of a new token on the trading platform, marking its market debut.",
     "categoria": "初始保证金"
   },
@@ -1710,7 +1710,7 @@
   {
     "termo": "Institutional sub-accounts",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A Convert order type where the order is filled immediately.",
     "categoria": "机构子账号"
   },
@@ -1731,7 +1731,7 @@
   {
     "termo": "Interest",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A reserve fund used by the exchange to cover losses from liquidations that fail to close at bankruptcy price, preventing ADL.",
     "categoria": "利息"
   },
@@ -1780,28 +1780,28 @@
   {
     "termo": "Interest summary",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Records of past interest settlements on liabilities or borrowed funds.",
     "categoria": "收益详情"
   },
   {
     "termo": "Interest-bearing amount",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Detailed log of interest distributions.",
     "categoria": "生息数量"
   },
   {
     "termo": "Interest-bearing principal",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The portion of your staked asset currently generating interest.",
     "categoria": "生息本金"
   },
   {
     "termo": "Intraday price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The principal used for interest calculation is the average value based on multiple snapshots taken during the interest accrual period, ensuring a fair and consistent calculation.",
     "categoria": "盘内价格"
   },
@@ -1817,7 +1817,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "The investment allocation for each asset. Total percentage must be 100%.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Invitee",
@@ -1859,19 +1859,19 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Margin mode where each position has its own independent margin.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "KYC verification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Initiates the action of enrolling in a campaign or program.",
     "categoria": "身份认证"
   },
   {
     "termo": "Kickstarter",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The process of verifying a user's identity to comply with regulatory requirements.",
     "categoria": "阳光普照"
   },
@@ -1885,21 +1885,21 @@
   {
     "termo": "Last price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Loan-to-Value ratio on MEXC, calculated as outstanding principal and interest divided by collateral value, determining liquidation risk.",
     "categoria": "最新价"
   },
   {
     "termo": "Launchpad",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The most recent executed trade price of an asset.",
     "categoria": "Launchpad"
   },
   {
     "termo": "Launchpool",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A MEXC token subscription platform that gives users early access to promising new projects and established tokens at favorable prices.",
     "categoria": "Launchpool"
   },
@@ -1955,21 +1955,21 @@
   {
     "termo": "Limit order",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A Convert order type where the order is filled when the fair price reaches the set limit price.",
     "categoria": "限价委托"
   },
   {
     "termo": "Limit price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order to buy or sell at a specified price or better, which may not execute immediately if the market doesn't reach that price.",
     "categoria": "限价"
   },
   {
     "termo": "Liquidation",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The specified price at which a limit order is set to execute, ensuring the trade occurs at that price or better.",
     "categoria": "强平"
   },
@@ -1977,7 +1977,7 @@
     "termo": "Liquidation LTV",
     "tradução": "Earn",
     "contexto": "Loans",
-    "descrição": "Forced closure of a position when margin falls below maintenance level, to prevent further losses.",
+    "descrição": "Forced closure of a position when margin falls below maintenullce level, to prevent further losses.",
     "categoria": "强平质押率"
   },
   {
@@ -1997,7 +1997,7 @@
   {
     "termo": "Liquidity provider",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Pool of tokens providing liquidity for trading pairs on the DEX+.",
     "categoria": "流动性提供者"
   },
@@ -2011,7 +2011,7 @@
   {
     "termo": "Lite App",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a status label on token listing pages. Tokens officially listed and available for trading on the platform.",
     "categoria": "轻应用"
   },
@@ -2039,7 +2039,7 @@
   {
     "termo": "Lockup system",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The ratio of your borrowed amount to the value of your collateral, expressed as a percentage.",
     "categoria": "锁仓制"
   },
@@ -2109,7 +2109,7 @@
   {
     "termo": "M-Day",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A user-defined price level below which the bot will stop trading to limit losses or lock in profits.",
     "categoria": "M-Day"
   },
@@ -2123,35 +2123,35 @@
   {
     "termo": "MEXC AI",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Protection mechanism mitigating Miner Extractable Value (MEV) attacks during trades.",
     "categoria": "MEXC AI"
   },
   {
     "termo": "MEXC Affiliate Program",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The overarching master AI feature of the MEXC exchange, integrating AI capabilities to enhance trading, market analysis, and user experience.",
     "categoria": "MEXC 代理计划"
   },
   {
     "termo": "MEXC Earn",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "MEXC Affiliate Program is designed for those who want to monetize their influence by promoting MEXC. Affiliates earn competitive commissions every time someone they refer signs up and trades, with earnings that scale as their network grows.",
     "categoria": "MEXC 理财"
   },
   {
     "termo": "MEXC Event Center",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A suite of savings products that allows users to earn interest on their crypto assets.",
     "categoria": "MEXC 活动中心"
   },
   {
     "termo": "MEXC Global Ambassador Program",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The Event Center is a dedicated page on MEXC where users can browse current, upcoming, and past events by tradução, as well as view the events they have registered for.",
     "categoria": "MEXC 全球推荐官计划"
   },
@@ -2165,14 +2165,14 @@
   {
     "termo": "MEXC Learn",
     "tradução": "Brand",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A debit card issued by MEXC designed to make crypto more accessible for everyday spending, targeting users who are less familiar with crypto.",
     "categoria": "MEXC 学院"
   },
   {
     "termo": "MEXC Learn UGC Creator Program",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "MEXC Learn is the platform's educational hub, offering articles, guides, and resources to help users understand cryptocurrency, trading, and blockchain concepts.",
     "categoria": "MEXC 学院 UGC 创作者计划"
   },
@@ -2193,49 +2193,49 @@
   {
     "termo": "MEXC Referral Ambassador Program",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Allows users to become verified P2P merchants, facilitating crypto trades and earning commissions.",
     "categoria": "MEXC 推荐官计划"
   },
   {
     "termo": "MEXC Referral Program",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The MEXC Referral Ambassador Program allows any user to earn commissions by referring friends to the platform. Ambassadors are organized into three tiers, Rising, Elite, and Champion, based on referral activity, with each tier corresponding to different commission rates and benefits.",
     "categoria": "MEXC 推荐计划"
   },
   {
     "termo": "MEXC VIP",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The MEXC Referral Program rewards users for growing the MEXC community. Users share their unique referral link or code, earn when the people they bring in deposit and trade, and keep earning as those users stay active on the platform.",
     "categoria": "MEXC VIP"
   },
   {
     "termo": "MEXC-AI",
     "tradução": "MEXC AI",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A tiered membership program for high-volume traders. VIP levels are automatically assigned based on total trading volume over the past 30 days and come with exclusive benefits including reduced trading fees and dedicated account managers.",
     "categoria": "MEXC-AI"
   },
   {
     "termo": "MEXCer",
     "tradução": "Brand",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The exchange's proprietary AI chatbot designed to assist users by answering questions, providing trading guidance, and offering personalized support within MEXC.",
     "categoria": "MEXCer"
   },
   {
     "termo": "MEXCmize Your Opportunities",
     "tradução": "Brand",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A term for members of the MEXC user community.",
     "categoria": "MEXC 盈满未来"
   },
   {
     "termo": "MX Point",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Current MEXC brand slogan.",
     "categoria": "MX Point"
   },
@@ -2249,33 +2249,33 @@
   {
     "termo": "MXSOL",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A dedicated MEXC page where users can explore the full range of MX token holder benefits.",
     "categoria": "MXSOL"
   },
   {
     "termo": "Main account",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "MEXC's liquid staking token representing staked SOL on the platform; redeemable for SOL plus rewards.",
     "categoria": "主账户"
   },
   {
     "termo": "Mainnet merge",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A user's primary account, used to manage assets, sub-accounts, and platform features.",
     "categoria": "主网合并"
   },
   {
-    "termo": "Maintenance margin",
+    "termo": "Maintenullce margin",
     "tradução": "Trade",
     "contexto": "Futures",
     "descrição": "The process of combining or upgrading blockchain networks, often involving transitioning consensus mechanisms or infrastructure.",
     "categoria": "维持保证金"
   },
   {
-    "termo": "Maintenance margin rate (MMR)",
+    "termo": "Maintenullce margin rate (MMR)",
     "tradução": "Trade",
     "contexto": "Futures",
     "descrição": "The minimum equity needed to keep a position open; falling below triggers liquidation.",
@@ -2285,7 +2285,7 @@
     "termo": "Manual release",
     "tradução": "Trade",
     "contexto": "P2P",
-    "descrição": "Percentage indicating account risk level, calculated as (Position maintenance margin + Liability maintenance margin) / Effective margin.",
+    "descrição": "Percentage indicating account risk level, calculated as (Position maintenullce margin + Liability maintenullce margin) / Effective margin.",
     "categoria": "人工放币"
   },
   {
@@ -2305,35 +2305,35 @@
   {
     "termo": "Margin ratio",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A predefined LTV threshold that triggers a warning, prompting users to add more collateral or repay part of the loan to avoid liquidation.",
     "categoria": "保证金比例"
   },
   {
     "termo": "Mark price",
     "tradução": "Trade",
-    "contexto": NaN,
-    "descrição": "The ratio of maintenance margin to total account margin in a leveraged position, indicating how close a position is to liquidation. The higher the ratio, the greater the liquidation risk.",
+    "contexto": null,
+    "descrição": "The ratio of maintenullce margin to total account margin in a leveraged position, indicating how close a position is to liquidation. The higher the ratio, the greater the liquidation risk.",
     "categoria": "标记价格"
   },
   {
     "termo": "Market cap",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Displayed as Fair price on MEXC. The reference price used for calculating unrealized PNL and determining liquidations, derived from index and market prices to prevent price manipulation.",
     "categoria": "市值"
   },
   {
     "termo": "Market cap change over {time}",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The total market value of a token, calculated as price multiplied by circulating supply.",
     "categoria": "{时间} 市值波动"
   },
   {
     "termo": "Market maker",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The percentage or absolute change in market cap over the specified time.",
     "categoria": "做市商"
   },
@@ -2354,21 +2354,21 @@
   {
     "termo": "Markets",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order to buy or sell immediately at the current market price.",
     "categoria": "行情"
   },
   {
     "termo": "Master account",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Markets has long been the name of a main page on both the App and the Web. Recently, there was a change in the Chinese version, but it should not affect the existing name for Markets.",
     "categoria": "主账户"
   },
   {
     "termo": "Masters of Prediction",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A primary account that controls or manages multiple sub-accounts, often used for consolidated trading or fund management.",
     "categoria": "预测大师"
   },
@@ -2382,28 +2382,28 @@
   {
     "termo": "Matched orders",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Profit or loss from trade pairs (buy followed by sell) successfully completed by the bot.",
     "categoria": "对敲"
   },
   {
     "termo": "Maturity date",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Pre-Market orders paired with opposing orders and confirmed for execution when trading conditions are met, or opposing positions (e.g., long and short) that are internally paired to reduce exposure and system risk during liquidation or risk management processes.",
     "categoria": "到期时间"
   },
   {
     "termo": "Max.",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The date when the savings product or staking period reaches its full term and the principal becomes available for withdrawal.",
     "categoria": "最大"
   },
   {
     "termo": "Maximum drawdown (Max. drawdown)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The standard abbreviation for the maximum allowable value or amount.",
     "categoria": "最大回撤"
   },
@@ -2417,7 +2417,7 @@
   {
     "termo": "Maximum supply (Max. supply)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Limits on the maximum portion of tokens a holder can sell at once.",
     "categoria": "最大供应量"
   },
@@ -2438,7 +2438,7 @@
   {
     "termo": "Meme+",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a risk status label on token or contract pages. Token or contract assessed to have moderate risk levels.",
     "categoria": "Meme+"
   },
@@ -2452,28 +2452,28 @@
   {
     "termo": "Merkle tree",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A dedicated dashboard where merchants manage their listings, account settings, and trading activity.",
     "categoria": "默克尔树"
   },
   {
     "termo": "MetaMask",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A Merkle tree is a cryptographic data structure that securely summarizes large amounts of data by hashing them into a single root value, enabling efficient verification of data integrity without revealing the underlying details.",
     "categoria": "MetaMask"
   },
   {
     "termo": "Metals",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "MetaMask is a digital wallet that allows users to store cryptocurrencies, interact with blockchain applications, and manage assets on Ethereum and other compatible networks.",
     "categoria": "金属"
   },
   {
     "termo": "Metaverse",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Precious metal assets such as gold and silver, available for trading on MEXC via both Spot and Futures markets. When used as a market zone header, written in title case as \"Metals\".",
     "categoria": "元宇宙"
   },
@@ -2494,7 +2494,7 @@
   {
     "termo": "Mobile sign-up",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Token contract feature enabling new token supply to be minted.",
     "categoria": "手机注册"
   },
@@ -2508,7 +2508,7 @@
   {
     "termo": "Momentum indicator",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Whether contract owner can modify token balances arbitrarily.",
     "categoria": "势头指标"
   },
@@ -2517,19 +2517,19 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "A technical analysis tool that measures the speed and strength of price movements to help identify trends or potential reversals.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Move to Earn",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Directs users to additional information or content.",
     "categoria": "边跑边赚"
   },
   {
     "termo": "Multi-account operation",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A blockchain-based model where users earn rewards by performing physical activities such as walking or exercising.",
     "categoria": "多账户操作"
   },
@@ -2557,35 +2557,35 @@
   {
     "termo": "Multi-signature wallet",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A margin mode allowing multiple asset types to be used as collateral and share margin across positions.",
     "categoria": "多重签名钱包"
   },
   {
     "termo": "My holdings",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A crypto wallet that requires multiple private keys to authorize a transaction, increasing security.",
     "categoria": "我的持仓"
   },
   {
     "termo": "Negative balance",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Amount of crypto currently staked.",
     "categoria": "穿仓"
   },
   {
     "termo": "Negative funding rate",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A situation where losses exceed the initial margin or account balance, resulting in a negative equity position that the trader owes to the platform.",
     "categoria": "负费率"
   },
   {
     "termo": "Net transfer",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A funding rate condition where short position holders pay funding fees to long position holders.",
     "categoria": "净转入"
   },
@@ -2599,14 +2599,14 @@
   {
     "termo": "No lock-up period",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A trading stance where the bot operates without a directional bias, often placing both buy and sell orders symmetrically within the grid.",
     "categoria": "无锁仓期"
   },
   {
     "termo": "Nominal value",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Staked tokens are not locked, allowing anytime redemption or transfer.",
     "categoria": "名义价值"
   },
@@ -2620,7 +2620,7 @@
   {
     "termo": "Non-fungible token (NFT)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Indicates that tokens cannot be frozen by any contract function.",
     "categoria": "非同质化代币（NFT）"
   },
@@ -2634,7 +2634,7 @@
   {
     "termo": "Non-lockup system",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Payment methods that require processing time.",
     "categoria": "非锁仓制"
   },
@@ -2648,14 +2648,14 @@
   {
     "termo": "On-Chain Earn",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Tokens that cannot be freshly minted by contract owners.",
     "categoria": "链上赚币"
   },
   {
     "termo": "One-Cancels-the-Other (OCO)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A MEXC Earn product that allows users to stake crypto and participate in DeFi protocols directly on-chain, offering high-yield opportunities.",
     "categoria": "选择性委托（OCO）"
   },
@@ -2676,14 +2676,14 @@
   {
     "termo": "Open long",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Pending limit orders placed by the grid bot within the defined price grids.",
     "categoria": "开多"
   },
   {
     "termo": "Open order",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An action to buy and open a long position, anticipating that the asset price will rise. Sometimes shown as \"Open Long (Buy).",
     "categoria": "当前委托"
   },
@@ -2697,7 +2697,7 @@
   {
     "termo": "Open short",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An active futures holding that has been entered but not yet closed, viewable in the positions tab.",
     "categoria": "开空"
   },
@@ -2725,14 +2725,14 @@
   {
     "termo": "Overbought",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The remaining unpaid principal and accrued interest on a MEXC loan, tracked in the user's loan dashboard.",
     "categoria": "超买"
   },
   {
     "termo": "Oversold",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A market condition where an asset's price has risen too quickly and may be due for a correction or pullback.",
     "categoria": "超卖"
   },
@@ -2753,14 +2753,14 @@
   {
     "termo": "PNL",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Short for peer-to-peer; a trading model where users buy and sell crypto directly with each other without using a centralized order book.",
     "categoria": "盈亏额"
   },
   {
     "termo": "PNL margin",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Used instead of PnL, P&L.",
     "categoria": "滚仓"
   },
@@ -2774,21 +2774,21 @@
   {
     "termo": "Palm recognition",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Profit and loss expressed as a percentage of initial capital or position size.",
     "categoria": "掌纹认证"
   },
   {
     "termo": "Partial position",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Uses the device's camera to verify user identity by scanning the unique features of the user's palm for secure authentication.",
     "categoria": "部分仓位"
   },
   {
     "termo": "Passkey",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Refers to a portion of an open position, used when closing or adjusting only part of a trade.",
     "categoria": "通行密钥"
   },
@@ -2823,28 +2823,28 @@
   {
     "termo": "Personal remaining quota",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Aggregate data summarizing the bot's trading performance, including profit/loss, number of executed trades, fees paid, and other related statistics.",
     "categoria": "个人剩余额度"
   },
   {
     "termo": "Phishing",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The maximum staking allowance a user currently has available based on quota left.",
     "categoria": "网络钓鱼"
   },
   {
     "termo": "Photo identification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A type of cyberattack where attackers impersonate trusted entities to trick users into revealing sensitive information such as passwords or private keys.",
     "categoria": "手持认证"
   },
   {
     "termo": "Play to Earn",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Submission of a government-issued photo ID for identity verification during KYC or account setup processes.",
     "categoria": "边玩边赚"
   },
@@ -2907,7 +2907,7 @@
   {
     "termo": "Position size",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A Futures setting that determines how positions are managed — either hedge mode (long and short simultaneously) or one-way mode (one direction only).",
     "categoria": "持仓数量"
   },
@@ -2921,14 +2921,14 @@
   {
     "termo": "Positive funding rate",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a data field in the trading interface. The current total market value of held positions.",
     "categoria": "正费率"
   },
   {
     "termo": "Post-only",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A funding rate condition where long position holders pay funding fees to short position holders.",
     "categoria": "只做 Maker"
   },
@@ -2956,7 +2956,7 @@
   {
     "termo": "Predict BTC & ETH Moves",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The temporary addition of funds to your account before the deposit process is fully completed or confirmed.",
     "categoria": "预测 BTC 及 ETH 走勢"
   },
@@ -2984,7 +2984,7 @@
   {
     "termo": "Price quote",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A feature that rejects TP/SL or trigger orders when the difference between the last price and the fair price exceeds a preset threshold, protecting users from executing at abnormal prices.",
     "categoria": "报价"
   },
@@ -2998,7 +2998,7 @@
   {
     "termo": "Primary KYC",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The lower and upper price boundaries within which the bot places limit orders as part of the grid strategy.",
     "categoria": "初级身份认证"
   },
@@ -3012,7 +3012,7 @@
   {
     "termo": "Principal",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A mid-level tier in the MEXC P2P Merchant Program for merchants who have met specific performance criteria, including minimum completion rate, trading volume, and order count.",
     "categoria": "本金"
   },
@@ -3026,28 +3026,28 @@
   {
     "termo": "Proof of Stake (PoS)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The percentage of profits allocated between the Trader and Followers in copy trading.",
     "categoria": "权益证明（PoS）"
   },
   {
     "termo": "Proof of Trust (PoT)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A consensus mechanism where validators stake cryptocurrency to participate in transaction validation and earn rewards.",
     "categoria": "信任凭证（PoT）"
   },
   {
     "termo": "Proof of Work (PoW)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A certification or guarantee indicating the platform's commitment to asset security, backed by transparent reserve holdings.",
     "categoria": "工作量证明（PoW）"
   },
   {
     "termo": "Protocol",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A blockchain consensus mechanism where miners solve complex computational problems to validate transactions and secure the network.",
     "categoria": "协议"
   },
@@ -3061,14 +3061,14 @@
   {
     "termo": "Public chain",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Smart contract utilizing a proxy pattern allowing upgradability.",
     "categoria": "公链"
   },
   {
     "termo": "Public sale",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A blockchain network that is open to anyone to participate in, without centralized control.",
     "categoria": "公开发售"
   },
@@ -3082,7 +3082,7 @@
   {
     "termo": "Put",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a data field in order details. Price paid per token during purchase.",
     "categoria": "看跌"
   },
@@ -3096,7 +3096,7 @@
   {
     "termo": "Quick Commit",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a data field in order and trade details. Number of tokens involved in a trade or order.",
     "categoria": "一键投入"
   },
@@ -3110,28 +3110,28 @@
   {
     "termo": "Quick copy",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Feature allowing swift token purchase with 1-click.",
     "categoria": "快速跟单"
   },
   {
     "termo": "Quick stake",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A feature enabling fast and easy copying of a Trader’s trades with 1 click.",
     "categoria": "一键质押"
   },
   {
     "termo": "Quote unit",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "One-click staking with minimal user steps or complexity.",
     "categoria": "计价单位"
   },
   {
     "termo": "ROI",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The currency used to express the price of the base asset in a trading pair.",
     "categoria": "收益率"
   },
@@ -3145,22 +3145,22 @@
   {
     "termo": "Race to Zero",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An entry pass used in the MEXC Race to Zero event that grants one attempt at the countdown game. Earned by completing daily, leaderboard, or exclusive tasks.",
     "categoria": "抢零挑战"
   },
   {
     "termo": "Real-World Assets (RWA)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A shortened event name for Race to Zero: Win 1 BTC in 8 Seconds.",
     "categoria": "实体资产（RWA）"
   },
   {
     "termo": "Real-time principal",
     "tradução": "Earn",
-    "contexto": NaN,
-    "descrição": "Physical or traditional financial assets represented on the blockchain, enabling them to be traded, financed, or used within digital markets.",
+    "contexto": null,
+    "descrição": "Physical or traditional finullcial assets represented on the blockchain, enabling them to be traded, finullced, or used within digital markets.",
     "categoria": "实时本金"
   },
   {
@@ -3173,14 +3173,14 @@
   {
     "termo": "Rebate",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The actual profit or loss booked after closing a position or part of it, including fees and funding.",
     "categoria": "返佣"
   },
   {
     "termo": "Recommended products",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A partial refund of trading fees, distributed as a reward. On MEXC, rebates appear as broker rewards based on client trading activity or as campaign incentives.",
     "categoria": "推荐理财"
   },
@@ -3229,7 +3229,7 @@
   {
     "termo": "Reducible margin",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Timestamp of when a redemption occurred.",
     "categoria": "可退还的保证金"
   },
@@ -3238,7 +3238,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "The portion of margin that can be safely withdrawn or reduced without affecting the stability of an open position.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Referee",
@@ -3250,28 +3250,28 @@
   {
     "termo": "Referral code",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A user who signs up for MEXC using another user's referral code or link.",
     "categoria": "邀请码"
   },
   {
     "termo": "Referral link",
     "tradução": "Program",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A unique alphanumeric code assigned to each MEXC user that can be shared to invite others to sign up. New users enter this code during registration to link their account to the referrer.",
     "categoria": "邀请链接"
   },
   {
     "termo": "Referral reward",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A unique URL assigned to each MEXC user that automatically applies the referrer's code when clicked. New users who sign up via the link are automatically linked to the referrer.",
     "categoria": "邀请奖励"
   },
   {
     "termo": "Referral task",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Bonuses or commissions earned by inviting new users to join and trade on the platform.",
     "categoria": "邀请任务"
   },
@@ -3299,14 +3299,14 @@
   {
     "termo": "Reset security verification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The payment of the borrowed amount along with any accrued interest, either partially or in full.",
     "categoria": "安全项重置"
   },
   {
     "termo": "Resistance level",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Process to change or recover security settings, requiring verification to prevent unauthorized modifications.",
     "categoria": "压力位"
   },
@@ -3320,7 +3320,7 @@
   {
     "termo": "Reverse exchange",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The conversion rate showing the equivalence in the reverse direction (to-coin to from-coin).",
     "categoria": "反向兑换"
   },
@@ -3334,28 +3334,28 @@
   {
     "termo": "Reverse position protection",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A Futures action that closes the current position and simultaneously opens an opposite position of the same size at market price.",
     "categoria": "反手开仓保护"
   },
   {
     "termo": "Reverse splits",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Futures settings under Preferences. When enabled, if funds are insufficient to open the same quantity of reverse positions, the reverse order will not be filled.",
     "categoria": "并股"
   },
   {
     "termo": "Rewards Hub",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Corporate actions that reduce the number of outstanding shares by consolidating multiple shares into one, affecting futures contracts settlement.",
     "categoria": "福利中心"
   },
   {
     "termo": "Rewards and conversion rate",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The page where users can view their rewards, complete tasks, and discover events. (Formerly Rewards Center; term deprecated.)",
     "categoria": "奖励和兑换率"
   },
@@ -3404,21 +3404,21 @@
   {
     "termo": "SMS verification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Displays the number of active grid bots.",
     "categoria": "短信验证"
   },
   {
     "termo": "SMS-based dynamic verification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Identity confirmation via codes sent through text messages, commonly used for 2FA.",
     "categoria": "短信动态验证"
   },
   {
     "termo": "SOL staking",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A verification method sending one-time codes via SMS for login or transaction confirmation, enhancing account security.",
     "categoria": "SOL 质押"
   },
@@ -3432,7 +3432,7 @@
   {
     "termo": "SafePal sub-account",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A risk warning tag indicating that a trading pair does not meet the platform’s liquidity or listing requirements and may be subject to increased monitoring or potential delisting.",
     "categoria": "SafePal 子账号"
   },
@@ -3446,7 +3446,7 @@
   {
     "termo": "Seed phrase",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Funds temporarily frozen by the platform as a safeguard against rule violations. It may be required from merchants or users and can be forfeited for misconduct.",
     "categoria": "助记词"
   },
@@ -3572,7 +3572,7 @@
   {
     "termo": "Smart contract",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Under Smart Candles. An AI-enhanced chart view that overlays market-moving events and signals to help interpret price action more effectively.",
     "categoria": "智能合约"
   },
@@ -3593,14 +3593,14 @@
   {
     "termo": "Smart ratio",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Wallets or entities known for informed or large-volume trading activities on-chain.",
     "categoria": "智能比例"
   },
   {
     "termo": "Snapshot",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An option to place orders using the same funding ratio as the Trader you follow, ensuring proportional trade scaling.",
     "categoria": "快照"
   },
@@ -3621,14 +3621,14 @@
   {
     "termo": "Spot",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Arrangement of items based on a chosen criterion, e.g., price or volume.",
     "categoria": "现货"
   },
   {
     "termo": "Spot DCA",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A primary trading product where assets are bought or sold for immediate settlement. Usually displayed in Title Case.",
     "categoria": "现货定投"
   },
@@ -3656,14 +3656,14 @@
   {
     "termo": "Spread",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A trading bot within the Spot Grid feature that executes grid trading strategies on Spot assets, capturing profits by placing buy and sell orders within a predefined grid.",
     "categoria": "价差"
   },
   {
     "termo": "Stablecoin",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The difference between the buying price (bid) and selling price (ask) of an asset in the market.",
     "categoria": "稳定币"
   },
@@ -3672,7 +3672,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "A type of cryptocurrency designed to maintain a stable value, usually pegged to fiat currency or other assets.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Staked amount",
@@ -3706,7 +3706,7 @@
     "termo": "Staking pool",
     "tradução": "Earn",
     "contexto": "Earn",
-    "descrição": "Temporary halt on staking activity due to updates or maintenance.",
+    "descrição": "Temporary halt on staking activity due to updates or maintenullce.",
     "categoria": "质押池"
   },
   {
@@ -3740,7 +3740,7 @@
   {
     "termo": "Standard sub-account",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The entry-level tier in the MEXC P2P Merchant Program for users who have not applied for merchant verification.",
     "categoria": "普通子账户"
   },
@@ -3761,28 +3761,28 @@
   {
     "termo": "Stock splits",
     "tradução": "Trade",
-    "contexto": NaN,
-    "descrição": "Stock Futures are a type of financial derivative offered by MEXC that link U.S. stocks (shares of companies listed in the United States) with the cryptocurrency market. They allow investors to use cryptocurrencies—such as USDT—as margin to trade on the price movements of U.S. stocks without actually owning the underlying shares.",
+    "contexto": null,
+    "descrição": "Stock Futures are a type of finullcial derivative offered by MEXC that link U.S. stocks (shares of companies listed in the United States) with the cryptocurrency market. They allow investors to use cryptocurrencies—such as USDT—as margin to trade on the price movements of U.S. stocks without actually owning the underlying shares.",
     "categoria": "拆股"
   },
   {
     "termo": "Stocks",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Corporate actions that alter the number of outstanding shares, affecting futures contracts settlement.",
     "categoria": "股票"
   },
   {
     "termo": "Stop-limit order",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Shares of US-listed companies available for trading on MEXC, primarily as perpetual futures pairs. When used as a market zone header, written in title case as \"Stocks\".",
     "categoria": "限价止盈止损委托"
   },
   {
     "termo": "Stop-loss (SL)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A stop order that, when triggered, places a limit order at a specified price for controlled execution.",
     "categoria": "止损"
   },
@@ -3796,7 +3796,7 @@
   {
     "termo": "Strategy sub-account",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Indicates that a bot or trading strategy has been halted or is no longer active.",
     "categoria": "策略子账号"
   },
@@ -3817,14 +3817,14 @@
   {
     "termo": "Super X-Game",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A referral relationship between two affiliates, where the sub-affiliate was recruited by another affiliate and generates additional commission for the original affiliate.",
     "categoria": "Super X-Game"
   },
   {
     "termo": "Support level",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A recurring weekly MEXC Futures trading event where users compete for a share of a prize pool by trading with 21x leverage or higher.",
     "categoria": "支撑位"
   },
@@ -3838,28 +3838,28 @@
   {
     "termo": "Tail digit",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Copy Trade Showdown's level-6 treasure chest reward.",
     "categoria": "尾号"
   },
   {
     "termo": "Take-profit (TP)",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The last digit of a ticket number or transaction ID used in MEXC lottery-style events to determine winners through matching with a drawn digit.",
     "categoria": "止盈"
   },
   {
     "termo": "Tax burn",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A conditional order to close a position at a specified price to lock in profits when the market moves in the trader's favor.",
     "categoria": "税率燃烧"
   },
   {
     "termo": "Term",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A mechanism where a portion of transaction fees or tokens is permanently removed from circulation to reduce supply.",
     "categoria": "投资期"
   },
@@ -3873,28 +3873,28 @@
   {
     "termo": "Threshold",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A button or action that ends or cancels a service, account status, or active process.",
     "categoria": "阈值"
   },
   {
     "termo": "Ticket",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A predefined value or level that, when reached or crossed, triggers a signal, action, or change in market interpretation.",
     "categoria": "券"
   },
   {
     "termo": "Ticket tier",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A virtual credential earned by completing tasks, trading, or referrals, used to join lucky draws, claim rewards, or share prize pools. Commonly used in M-Day and Launchpad events.",
     "categoria": "签数档位"
   },
   {
     "termo": "Tie-breaker",
     "tradução": "Campaign",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Different levels or categories of tickets in MEXC events, corresponding to varying reward values or probabilities, such as basic vs. premium.",
     "categoria": "次要排名依据"
   },
@@ -3908,7 +3908,7 @@
   {
     "termo": "To be committed",
     "tradução": "UI Element",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The date and time when a trade or transaction occurred.",
     "categoria": "未投入"
   },
@@ -3922,28 +3922,28 @@
   {
     "termo": "Token migration",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Generally displayed as a data field in the loan dashboard. The total amount, including principal and interest, that a user must repay to close a loan on MEXC and release collateral.",
     "categoria": "代币迁移"
   },
   {
     "termo": "Token swap",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The process on MEXC of updating a token to a new network or contract, often involving deposit suspension and automatic swaps for users.",
     "categoria": "代币置换"
   },
   {
     "termo": "Token voucher",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An exchange of old tokens for new ones during migrations on MEXC, typically at a 1:1 ratio, to support project upgrades.",
     "categoria": "代币券"
   },
   {
     "termo": "Tokenomics",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A voucher redeemable for a designated cryptocurrency, valid for 14 days from issue.",
     "categoria": "代币经济学"
   },
@@ -3999,7 +3999,7 @@
   {
     "termo": "Total value locked (TVL)",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The total current value of assets held by the grid bot, including unrealized profits and losses.",
     "categoria": "总锁定价值"
   },
@@ -4007,13 +4007,13 @@
     "termo": "Total withdrawals",
     "tradução": "UI Element",
     "contexto": "Grid trading",
-    "descrição": "The total value of assets deposited in a decentralized finance (DeFi) protocol, typically used to measure its size and activity.",
+    "descrição": "The total value of assets deposited in a decentralized finullce (DeFi) protocol, typically used to measure its size and activity.",
     "categoria": "累计提取资金"
   },
   {
     "termo": "Touch ID",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The total amount of funds withdrawn from the grid bot during its operation.",
     "categoria": "指纹识别"
   },
@@ -4022,7 +4022,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Biometric authentication using fingerprint scanning for secure login and transaction approvals on compatible devices.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Trade amount",
@@ -4083,7 +4083,7 @@
   {
     "termo": "Trailing delta",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The price distance or percentage retracement from the market high/low that triggers a trailing stop order to execute.",
     "categoria": "跟踪幅度"
   },
@@ -4111,28 +4111,28 @@
   {
     "termo": "Trigger order",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Ability for contract owner to pause token transfers.",
     "categoria": "计划委托"
   },
   {
     "termo": "Trigger price",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "An order that is automatically placed when the market reaches a specified trigger price, using a pre-set order price and quantity. Margin and positions are not frozen until the order is activated.",
     "categoria": "触发价格"
   },
   {
     "termo": "Trigger-limit",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The predefined market price that activates a conditional order, such as TP/SL or trailing stop, to execute.",
     "categoria": "计划限价"
   },
   {
     "termo": "Trigger-market",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A conditional order that places a limit order when a trigger price is reached, combining trigger and limit functionalities.",
     "categoria": "计划市价"
   },
@@ -4146,7 +4146,7 @@
   {
     "termo": "U.S. stocks",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Unique transaction hash on the blockchain for a trade or transfer.",
     "categoria": "美股"
   },
@@ -4244,21 +4244,21 @@
   {
     "termo": "VPA",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A user-defined price level above which the bot will stop trading to limit losses or lock in profits.",
     "categoria": "VPA"
   },
   {
     "termo": "Value date",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Virtual Payment Address, a unique identifier used in digital payment systems like UPI for seamless fund transfers without sharing bank details.",
     "categoria": "起息日"
   },
   {
     "termo": "Verification code",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The date when funds are considered officially available or applied to the user account.",
     "categoria": "验证码"
   },
@@ -4272,7 +4272,7 @@
   {
     "termo": "Video identification",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The first verified tier in the MEXC P2P Merchant Program, with a higher ad posting limit than Standard Account.",
     "categoria": "视频认证"
   },
@@ -4281,12 +4281,12 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Real-time or recorded video submission for identity verification, often used in advanced KYC processes.",
-    "categoria": NaN
+    "categoria": null
   },
   {
     "termo": "Virtual payment address",
     "tradução": "Account",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Expands or navigates to a full list or additional content beyond what is currently shown.",
     "categoria": "虚拟付款网址"
   },
@@ -4300,7 +4300,7 @@
   {
     "termo": "Voucher Center",
     "tradução": "Reward",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Voice input allows you to ask questions using your voice instead of typing. MEXC AI converts your speech into text and provides instant, AI-generated answers.",
     "categoria": "卡券中心"
   },
@@ -4321,7 +4321,7 @@
   {
     "termo": "Win rate",
     "tradução": "Trade",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A list of approved addresses, users, or entities that are granted specific permissions or access.",
     "categoria": "总胜率"
   },
@@ -4342,35 +4342,35 @@
   {
     "termo": "Yesterday's Interest",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Multiple or sequential withdrawal processes, often referring to batch processing or repeated attempts in crypto transactions.",
     "categoria": "昨日收益"
   },
   {
     "termo": "Yield farming",
     "tradução": "Generic",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Total interest distributed to user's Spot account from 16:00 (UTC) yesterday to 15:59 (UTC) today.",
     "categoria": "流动性挖矿"
   },
   {
     "termo": "Yield rate",
     "tradução": "Earn",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "A DeFi strategy where users provide liquidity to protocols in exchange for rewards, often in the form of tokens or interest.",
     "categoria": "收益率"
   },
   {
     "termo": "Your Easiest Way to Crypto",
     "tradução": "Brand",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "The annualized return or interest rate earned on staked, loaned, or saved assets on MEXC, often expressed as APY in savings or lending products.",
     "categoria": "MEXC 交易，轻松便利"
   },
   {
     "termo": "Your Zero-Fee Gateway to Infinite Opportunities",
     "tradução": "Brand",
-    "contexto": NaN,
+    "contexto": null,
     "descrição": "Former MEXC brand slogan.",
     "categoria": "通往无限机遇的零手续费门户"
   }
