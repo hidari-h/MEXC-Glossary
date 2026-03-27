@@ -4374,11 +4374,95 @@
     "descrição": "Former MEXC brand slogan.",
     "categoria": "Seu portal com taxa zero para oportunidades infinitas"
   },
-  {
-    "termo": null,
-    "tradução": null,
+{
+    "termo": "View More",
+    "tradução": "Brand",
     "contexto": null,
-    "descrição": "Current MEXC brand position.",
-    "categoria": "Seu portal com taxa zero para oportunidades infinitas"
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Ver mais"
+  },
+  {
+    "termo": "Deposit",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Depositar"
+  },
+{
+    "termo": "Invite",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Convidar"
+  },
+{
+    "termo": "Refer",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Recomendar"
+  },
+{
+    "termo": "Go",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Ir"
+  },
+{
+    "termo": "Stake",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Fazer staking"
+  },
+{
+    "termo": "Trade",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Negociar"
+  },
+{
+    "termo": "Earn Now",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Ganhe agora"
+  },
+{
+    "termo": "Claim",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Resgate agora"
+  },
+{
+    "termo": "Join Now",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Participe agora"
+  },
+{
+    "termo": "More",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Mais"
+  },
+{
+    "termo": "MEXC Card",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "Cartão MEXC"
+  },
+{
+    "termo": "TradFi",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "TradFi"
   }
 ]
