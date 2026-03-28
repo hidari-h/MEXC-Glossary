@@ -10,11 +10,6 @@
         "note": "Lorem impsum"
     },
     {
-        "term": "announcement",
-        "translation": "comunicado",
-        "note": "IAP"
-    },
-    {
         "term": "user",
         "translation": "usuário",
         "note": "evitar 'utilizador'"
