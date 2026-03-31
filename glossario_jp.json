@@ -1,0 +1,4377 @@
+[
+  {
+    "termo": "$100M Guardian Fund",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "The fund specifically allocated to cover losses caused by platform issues, ensuring swift and full user protection.",
+    "categoria": "$1億ガーディアンファンド"
+  },
+  {
+    "termo": "0 fees",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A core MEXC value proposition referring to zero trading fees on eligible spot and futures trades, extended to specific trading pairs or event periods during campaigns.",
+    "categoria": "手数料0"
+  },
+  {
+    "termo": "0-Fee Fest",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A recurring MEXC promotion offering 0% Maker and Taker fees on eligible Spot and Futures trading pairs.",
+    "categoria": "手数料0祭"
+  },
+  {
+    "termo": "AI Consultant",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "Under MEXC-AI. Analyzes user's current asset portfolio and gives users some insights and suggestions.",
+    "categoria": "AIコンサルタント"
+  },
+  {
+    "termo": "AI Insights",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "AI-generated analysis section within the MEXC-AI interface.",
+    "categoria": "AI分析"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A copy trading feature powered by AI models that automatically generates and executes trading strategies based on algorithmic analysis.",
+    "categoria": "AIモデルコピートレード"
+  },
+  {
+    "termo": "AI News Radar",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "An AI-powered tool that continuously scans and analyzes the latest cryptocurrency market news from social media feeds and developments, providing real-time insights and updates relevant to traders.",
+    "categoria": "AIニュースレーダー"
+  },
+  {
+    "termo": "AI Recommendation",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "The entrance to the AI Recommendation List.",
+    "categoria": "AIによる推奨"
+  },
+  {
+    "termo": "AI Select List",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "A curated list of selected trading pairs recommended by the AI based on market trends, volatility, and trading potential, designed to help users identify promising investment opportunities.",
+    "categoria": "AIセレクトリスト"
+  },
+  {
+    "termo": "AI Signal",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "An AI-driven trade technical indicator signal alert system that pushes timely notifications about potential buy/sell opportunities, market anomalies, or risk warnings to help users make informed trading decisions. This is a feature under AI Analysis.",
+    "categoria": "AIシグナル"
+  },
+  {
+    "termo": "AI Toolbox",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "AI Toolbox is a centralized hub where users can access all AI-powered features and tools across MEXC in one place.",
+    "categoria": "AIツールボックス"
+  },
+  {
+    "termo": "API broker",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Platforms or services integrated with MEXC's API for copy trading, bots, or asset management, earning commissions on user trades.",
+    "categoria": "APIブローカー"
+  },
+  {
+    "termo": "API key",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "An API key is a unique code that allows external applications to securely access your account and interact with MEXC services according to the permissions you grant.",
+    "categoria": "APIキー"
+  },
+  {
+    "termo": "API market makers",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Institutional users on MEXC using APIs for high-frequency trading, benefiting from interest-free loans, higher rate limits, and liquidity incentives.",
+    "categoria": "APIマーケットメイカー"
+  },
+  {
+    "termo": "APR booster",
+    "tradução": "Reward",
+    "contexto": "Earn",
+    "descrição": "A reward voucher that increases the annual interest rate on eligible Flexible Savings or Futures Earn products. Sometimes referred to as Earn APR booster.",
+    "categoria": "APRブースター券"
+  },
+  {
+    "termo": "Access restricted",
+    "tradução": "UI Element",
+    "contexto": "Error / toast message",
+    "descrição": "An error message displayed when a user attempts to access a feature or page they are not eligible for, such as due to regional restrictions or incomplete verification.",
+    "categoria": "アクセス制限"
+  },
+  {
+    "termo": "Account asset modes",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "Under this section, select asset/margin modes available for managing account assets.",
+    "categoria": "アカウントアセットモード"
+  },
+  {
+    "termo": "Accurate",
+    "tradução": "UI Element",
+    "contexto": "Event Futures",
+    "descrição": "Status indicating a prediction was correct.",
+    "categoria": "予測的中"
+  },
+  {
+    "termo": "Activate",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "A button or action that enables a feature, account status, or service.",
+    "categoria": "有効化"
+  },
+  {
+    "termo": "Activation price",
+    "tradução": "Trade",
+    "contexto": "Grid bot",
+    "descrição": "The trigger price at which a conditional order becomes active and starts executing.",
+    "categoria": "起動価格"
+  },
+  {
+    "termo": "Activation successful",
+    "tradução": "UI Element",
+    "contexto": "System feedback/toast message",
+    "descrição": "A confirmation message displayed when a feature, service, or account has been successfully activated.",
+    "categoria": "有効になりました"
+  },
+  {
+    "termo": "Activation time",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "The timestamp when the grid bot was activated.",
+    "categoria": "起動時間"
+  },
+  {
+    "termo": "Active order",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "Generally displayed as a section label in the orders tab. An order that is currently open and not yet completed or cancelled.",
+    "categoria": "有効な注文"
+  },
+  {
+    "termo": "Add margin",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The action of depositing additional funds into a position to increase its margin and reduce liquidation risk.",
+    "categoria": "証拠金を追加"
+  },
+  {
+    "termo": "Additional verification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Extra security measures, such as additional codes or documents, required for sensitive operations to confirm user identity and prevent fraud.",
+    "categoria": "追加認証"
+  },
+  {
+    "termo": "Advanced KYC",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Higher-tier identity verification requiring additional documents for full access to platform features and higher limits.",
+    "categoria": "上級KYC認証"
+  },
+  {
+    "termo": "Advanced Mode",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A leverage mode that allows different leverage and margin settings to be configured independently for long and short positions.",
+    "categoria": "アドバンスモード"
+  },
+  {
+    "termo": "Advanced TP/SL",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A Futures feature that lets traders set customized take-profit and stop-loss levels for more precise risk management.",
+    "categoria": "利確/損切り (上級)"
+  },
+  {
+    "termo": "Advertisement (Ad)",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Often shortened to \"ad.\" A listing created by a P2P seller to buy or sell cryptocurrency.",
+    "categoria": "広告"
+  },
+  {
+    "termo": "Advertiser",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A user who posts a buy/sell offer on the P2P platform.",
+    "categoria": "広告主"
+  },
+  {
+    "termo": "Aggressive",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A label to describe the Trader's style: Trading approach involves higher risk and larger position sizes in pursuit of greater potential returns.",
+    "categoria": "積極的"
+  },
+  {
+    "termo": "Airdrop",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "A reward distributed as free tokens directly to a user's account.",
+    "categoria": "エアドロップ"
+  },
+  {
+    "termo": "Airdrop+",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A MEXC campaign where users earn crypto rewards by completing simple deposit and trading tasks across hundreds of projects.",
+    "categoria": "Airdrop+"
+  },
+  {
+    "termo": "Alpha",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The Alpha trading zone platform for trading promising on-chain projects before mainstream markets.",
+    "categoria": "Alpha"
+  },
+  {
+    "termo": "Alpha Strategy",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "Alpha Strategy mode: responses provide more professional analysis. It is a feature under MEXC-AI.",
+    "categoria": "Alpha戦略"
+  },
+  {
+    "termo": "Altcoin",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Any cryptocurrency other than Bitcoin.",
+    "categoria": "アルトコイン"
+  },
+  {
+    "termo": "Analysis",
+    "tradução": "MEXC AI",
+    "contexto": "MEXC AI. [Product: AI Analysis | UI: Analysis]",
+    "descrição": "A comprehensive technical analysis module powered by AI that interprets various technical indicators and chart patterns to generate actionable market insights for traders. Official product name is \"AI Analysis,\" but displayed as \"Analysis\" in the UI.",
+    "categoria": "分析"
+  },
+  {
+    "termo": "Anti-phishing code",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A user-set code included in legitimate platform emails to help identify and avoid phishing attempts.",
+    "categoria": "フィッシング対策コード"
+  },
+  {
+    "termo": "Appeal",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A formal request submitted to MEXC Customer Service to resolve a trade issue, where agents review evidence and determine an outcome.",
+    "categoria": "申し立て"
+  },
+  {
+    "termo": "Appellant",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "The party who initiates an appeal to request platform intervention in a disputed transaction.",
+    "categoria": "申立人"
+  },
+  {
+    "termo": "Appellee",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "The party responding to an appeal in a disputed transaction.",
+    "categoria": "被申立人"
+  },
+  {
+    "termo": "Arithmetic",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Refers to arithmetic progression or evenly spaced intervals.",
+    "categoria": "等差"
+  },
+  {
+    "termo": "Ask1",
+    "tradução": "Trade",
+    "contexto": "Order Book",
+    "descrição": "The lowest sell price currently available in the order book, representing the best ask from sellers.",
+    "categoria": "最良売り気配"
+  },
+  {
+    "termo": "Authenticator app",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A mobile application that generates time-based one-time passwords (TOTPs) for two-factor authentication (2FA).",
+    "categoria": "認証アプリ"
+  },
+  {
+    "termo": "Auto margin addition",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A feature that automatically transfers available margin to an isolated position when it approaches the liquidation threshold.",
+    "categoria": "自動証拠金追加"
+  },
+  {
+    "termo": "Auto-Earn",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Feature that automatically stakes idle assets into Flexible Savings to earn returns.",
+    "categoria": "自動Earn"
+  },
+  {
+    "termo": "Auto-deleveraging (ADL)",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "When abbreviated, always written as ADL (all caps). A mechanism where, after liquidation, remaining positions are taken over by the exchange's system.",
+    "categoria": "自動デレバレッジ (ADL)"
+  },
+  {
+    "termo": "Automated market maker (AMM)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A decentralized trading protocol that uses algorithms and liquidity pools to determine asset prices instead of traditional order books.",
+    "categoria": "自動マーケットメイカー (AMM)"
+  },
+  {
+    "termo": "Automatic",
+    "tradução": "Trade",
+    "contexto": "Parameter setting (Slippage)",
+    "descrição": "System-managed setting automatically adjusting parameters such as slippage.",
+    "categoria": "自動"
+  },
+  {
+    "termo": "Available",
+    "tradução": "UI Element",
+    "contexto": "User balance available for use",
+    "descrição": "Amount of tokens available for trading or withdrawal.",
+    "categoria": "利用可能"
+  },
+  {
+    "termo": "Available margin",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The amount of funds remaining in an account that can be used to open new positions or support existing ones.",
+    "categoria": "利用可能な証拠金"
+  },
+  {
+    "termo": "Average close price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The weighted average price of multiple closing trades for a position.",
+    "categoria": "平均決済価格"
+  },
+  {
+    "termo": "Average entry price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The weighted average price of multiple entries into the same position direction.",
+    "categoria": "平均オープン価格"
+  },
+  {
+    "termo": "Average purchase value",
+    "tradução": "UI Element",
+    "contexto": "Trading performance metric",
+    "descrição": "Generally displayed as a data field in holdings. Average price at which tokens were bought in held positions.",
+    "categoria": "平均購入価値"
+  },
+  {
+    "termo": "BIZ Merchant",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "An institutional tier in the MEXC P2P Merchant Program for business-focused entities.",
+    "categoria": "BIZ加盟店"
+  },
+  {
+    "termo": "Balance",
+    "tradução": "Account",
+    "contexto": "User asset level",
+    "descrição": "The amount of tokens or assets currently held in an account or wallet.",
+    "categoria": "残高"
+  },
+  {
+    "termo": "Bankruptcy price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The price at which a position's equity becomes zero after exhausting all margin, triggering potential auto-deleveraging if the position cannot be liquidated profitably.",
+    "categoria": "破産価格"
+  },
+  {
+    "termo": "Base APR",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "The base interest rate of a MEXC Earn product when it consists of a base interest rate and a bonus APR.",
+    "categoria": "基本APR"
+  },
+  {
+    "termo": "Base crypto",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The cryptocurrency being bought or sold in a trading pair, with its price quoted in another currency.",
+    "categoria": "基軸暗号資産"
+  },
+  {
+    "termo": "Bid1",
+    "tradução": "Trade",
+    "contexto": "Order Book",
+    "descrição": "The highest buy price currently available in the order book, representing the best bid from buyers.",
+    "categoria": "最良買い気配"
+  },
+  {
+    "termo": "Blacklist",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "Contract feature restricting certain addresses from transactions.",
+    "categoria": "ブラックリスト"
+  },
+  {
+    "termo": "Bonus",
+    "tradução": "Reward",
+    "contexto": "Futures",
+    "descrição": "A non-withdrawable type of reward, specifically a Futures bonus used only for opening positions.",
+    "categoria": "ボーナス"
+  },
+  {
+    "termo": "Bonus APR",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "The bonus APR of a MEXC Earn product when it consists of a base interest rate and a bonus APR.",
+    "categoria": "ボーナスAPR"
+  },
+  {
+    "termo": "Broker sub-account",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "A sub-account managed or linked to a broker for facilitating trades, often used in copy trading or managed investment services on crypto platforms.",
+    "categoria": "ブローカーサブアカウント"
+  },
+  {
+    "termo": "Bronze chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade Showdown",
+    "descrição": "Copy Trade Showdown's level-2 treasure chest reward.",
+    "categoria": "ブロンズチェスト"
+  },
+  {
+    "termo": "Buy price",
+    "tradução": "UI Element",
+    "contexto": "Order detail",
+    "descrição": "Generally displayed as a data field in order details. Price at which tokens were bought.",
+    "categoria": "購入価格"
+  },
+  {
+    "termo": "Call",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A contract or position that gives the holder the right (but not the obligation) to buy an asset at a specified price within a certain time period.",
+    "categoria": "コール"
+  },
+  {
+    "termo": "Candlestick chart",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A chart composed of multiple candlesticks arranged over time to display price trends and market behavior.",
+    "categoria": "ローソク足チャート"
+  },
+  {
+    "termo": "Cash Deposit to Bank",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Indicates that payment is made by depositing physical cash directly into the seller's bank account at a bank branch or deposit machine.",
+    "categoria": "銀行への現金入金"
+  },
+  {
+    "termo": "Cash Zone",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A dedicated section within MEXC P2P for cash-in-person trades, accessible under the VND market.",
+    "categoria": "キャッシュゾーン"
+  },
+  {
+    "termo": "Cash in Person",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Indicates that payment is made face-to-face using physical cash rather than through electronic transfer.",
+    "categoria": "対面での現金支払い"
+  },
+  {
+    "termo": "Chase limit order",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An order type that automatically adjusts the limit price to chase the market price within a specified range, improving order fill probability.",
+    "categoria": "追跡指値注文"
+  },
+  {
+    "termo": "Check-in",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A daily action where users complete a required activity to claim rewards, with consecutive check-ins forming a streak that unlocks greater rewards.",
+    "categoria": "チェックイン"
+  },
+  {
+    "termo": "Chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade Showdown, M-day",
+    "descrição": "A reward box earned based on trading achievements or competition performance. Commonly seen in M-Day and Copy Trade Showdown events.",
+    "categoria": "チェスト"
+  },
+  {
+    "termo": "Circulating supply",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The amount of a token currently available and circulating in the market.",
+    "categoria": "循環供給量"
+  },
+  {
+    "termo": "Claim",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Initiates the action of collecting an available reward or incentive.",
+    "categoria": null
+  },
+  {
+    "termo": "Close",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The action of exiting an open position by placing an opposing trade, realizing PNL.",
+    "categoria": "決済"
+  },
+  {
+    "termo": "Close All",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Generally displayed as an action button. Action to simultaneously close all open positions at the current market price.",
+    "categoria": "すべて決済"
+  },
+  {
+    "termo": "Close long",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An action to sell and close an existing long position. Sometimes shown as \"Close Long (Sell)\".",
+    "categoria": "ロングを決済"
+  },
+  {
+    "termo": "Close position",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The process of offsetting an open position to exit the trade and realize PNL.",
+    "categoria": "ポジションを決済"
+  },
+  {
+    "termo": "Close price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The price at which a position is closed, determining the final realized PNL.",
+    "categoria": "決済価格"
+  },
+  {
+    "termo": "Close short",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An action to buy and close an existing short position. Sometimes shown as \"Close Short (Buy)\".",
+    "categoria": "ショートを決済"
+  },
+  {
+    "termo": "Closing PNL",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The realized profit or loss calculated upon closing a position, including trading fees, funding fees, and the difference between entry and exit prices.",
+    "categoria": "決済損益"
+  },
+  {
+    "termo": "Coin-M",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Coin-Margined. Inverse perpetual futures margined in the base cryptocurrency, with PNL in the coin.",
+    "categoria": "Coin-M"
+  },
+  {
+    "termo": "Collateral",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An asset pledged to secure a loan or leveraged position, which may be liquidated if obligations are not met.",
+    "categoria": "担保資産"
+  },
+  {
+    "termo": "Commission",
+    "tradução": "Program",
+    "contexto": "Referral, affiliate",
+    "descrição": "A percentage of a referred user's trading fees earned by the referrer. Primarily used in the MEXC Referral Program and Affiliate Program.",
+    "categoria": "キャッシュバック"
+  },
+  {
+    "termo": "Committed",
+    "tradução": "Campaign",
+    "contexto": "Launchpad",
+    "descrição": "The amount of funds pledged toward a Launchpad subscription during the commitment period.",
+    "categoria": "投票済み"
+  },
+  {
+    "termo": "Commodities",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Physical assets, such as gold, silver, or oil, that can be traded on crypto platforms using digital assets as collateral.",
+    "categoria": "コモディティ"
+  },
+  {
+    "termo": "Compare",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "Feature name. Select and compare multiple crypto tokens side by side.",
+    "categoria": "比較"
+  },
+  {
+    "termo": "Contract (cont.)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The standard unit of a futures contract on MEXC, representing a fixed value (e.g., 1 cont = 0.0001 BTC for BTC futures), used to measure position size.",
+    "categoria": "枚"
+  },
+  {
+    "termo": "Contract amount",
+    "tradução": "UI Element",
+    "contexto": "Event Futures",
+    "descrição": "Generally displayed as a data field in Event Futures. The total monetary value of Event Futures contracts traded or held.",
+    "categoria": "先物金額"
+  },
+  {
+    "termo": "Contract settlement",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "For perpetual futures, no expiry; instead, funding fees are settled periodically to anchor prices.",
+    "categoria": "先物取引決済"
+  },
+  {
+    "termo": "Contract size",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The nominal value of one contract unit, e.g., 1 cont = fixed USD or coin amount, defining position scale.",
+    "categoria": "先物サイズ"
+  },
+  {
+    "termo": "Contract verified",
+    "tradução": "UI Element",
+    "contexto": "Security/Audit status",
+    "descrição": "Verification status confirming the token’s smart contract source code is valid.",
+    "categoria": "コントラクト検証済み"
+  },
+  {
+    "termo": "Contracts",
+    "tradução": "UI Element",
+    "contexto": "Event Futures",
+    "descrição": "The total number of Event Futures contracts held or traded.",
+    "categoria": "コントラクト数"
+  },
+  {
+    "termo": "Conversion rate",
+    "tradução": "UI Element",
+    "contexto": "Convert",
+    "descrição": "Generally displayed as a data field in Convert. The current exchange rate between the from-coin and to-coin used for the conversion calculation.",
+    "categoria": "変換レート"
+  },
+  {
+    "termo": "Convert",
+    "tradução": "Trade",
+    "contexto": "Convert",
+    "descrição": "A feature that allows users to quickly convert one cryptocurrency to another instantly without order book matching.",
+    "categoria": "変換"
+  },
+  {
+    "termo": "Copy Trade",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A trading feature allowing Followers to automatically copy the trades of a Trader in real time.",
+    "categoria": "コピートレード"
+  },
+  {
+    "termo": "Copy Trade Showdown",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A competition event where Traders and Followers compete based on trade volume and performance.",
+    "categoria": "コピートレード対決"
+  },
+  {
+    "termo": "Copy trade bonus",
+    "tradução": "Reward",
+    "contexto": "Copy Trade",
+    "descrição": "A special type of trial fund designated exclusively for copy trading. Once claimed, it can be used to participate in Futures copy trading.",
+    "categoria": "コピートレードボーナス"
+  },
+  {
+    "termo": "Create bot",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "Button for generating a new trading bot with user defined parameters, such as investment amount, grid size, and price range.",
+    "categoria": "ボットを作成"
+  },
+  {
+    "termo": "Cross margin mode",
+    "tradução": "Trade",
+    "contexto": "Futures margin mode",
+    "descrição": "Margin mode where all positions share margin balance collectively.",
+    "categoria": "クロスマージンモード"
+  },
+  {
+    "termo": "Cross-chain",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Technology that enables interaction, asset transfer, or communication between different blockchain networks.",
+    "categoria": "クロスチェーン"
+  },
+  {
+    "termo": "Cross-region arbitrage",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Cross-region arbitrage is the practice of profiting from price differences for the same asset across markets in different geographic regions.",
+    "categoria": "地域間裁定"
+  },
+  {
+    "termo": "Crypto",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "The type of cryptocurrency asset involved in the conversion.",
+    "categoria": "暗号資産"
+  },
+  {
+    "termo": "Current market cap",
+    "tradução": "UI Element",
+    "contexto": "Token metric",
+    "descrição": "Generally displayed as a data field on token pages. The latest market capitalization value of a token.",
+    "categoria": "現在の時価総額"
+  },
+  {
+    "termo": "Current market price",
+    "tradução": "UI Element",
+    "contexto": "Asset pricing",
+    "descrição": "Generally displayed as a data field on token pages. The last traded price or prevailing market price of a token.",
+    "categoria": "現在の市場価格"
+  },
+  {
+    "termo": "Current positions",
+    "tradução": "UI Element",
+    "contexto": "Open trade management",
+    "descrição": "Generally displayed as a section label in the trading interface. Open token positions currently held by the trader.",
+    "categoria": "現在のポジション"
+  },
+  {
+    "termo": "Current tokens",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "Generally displayed as a data field in the comparison view. The tokens currently selected and included in the comparison.",
+    "categoria": "現在のトークン"
+  },
+  {
+    "termo": "Custom",
+    "tradução": "UI Element",
+    "contexto": "Parameter setting",
+    "descrição": "Generally displayed as a parameter setting label. User-defined setting allowing customization of trading parameters.",
+    "categoria": "カスタム"
+  },
+  {
+    "termo": "Custom buy quantity (%)",
+    "tradução": "UI Element",
+    "contexto": "Trading settings",
+    "descrição": "Generally displayed as a parameter setting label. User-defined percentage quantity to buy in an order.",
+    "categoria": "カスタム購入数量 (%)"
+  },
+  {
+    "termo": "Custom sell quantity (%)",
+    "tradução": "UI Element",
+    "contexto": "Trading settings",
+    "descrição": "Generally displayed as a parameter setting label. User-defined percentage quantity to sell in an order.",
+    "categoria": "カスタム売却数量 (%)"
+  },
+  {
+    "termo": "Customer Service",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Support services available to assist users with platform and account-related questions.",
+    "categoria": "カスタマーサービス"
+  },
+  {
+    "termo": "DCA plan",
+    "tradução": "Trade",
+    "contexto": "Spot DCA",
+    "descrição": "A Spot DCA plan automatically buys a set amount of cryptocurrency at regular intervals within a user-defined price range and schedule.",
+    "categoria": "DCAプラン"
+  },
+  {
+    "termo": "DEX+",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Official name of the MEXC decentralized exchange or DEX+ platform.",
+    "categoria": "DEX+"
+  },
+  {
+    "termo": "Daily PNL (USDT)",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "Generally displayed as a data field in the trading interface. The profit or loss achieved by the user in a single day, measured in USDT.",
+    "categoria": "日次損益 (USDT)"
+  },
+  {
+    "termo": "Daily interest rate",
+    "tradução": "Earn",
+    "contexto": "Loans — Fixed Loans",
+    "descrição": "The daily cost of borrowing for Fixed Loans, applied to the outstanding loan amount. Any period less than one full day is counted as a full day.",
+    "categoria": "日利"
+  },
+  {
+    "termo": "Daily picks",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "Top Traders selected for the Followers.",
+    "categoria": "本日の厳選"
+  },
+  {
+    "termo": "Decentralized application (DApp)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "An application that runs on a blockchain or decentralized network rather than centralized servers.",
+    "categoria": "分散型アプリケーション(DApp)"
+  },
+  {
+    "termo": "Decentralized exchange (DEX)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Trading platforms that allow users to exchange cryptocurrencies directly from their wallets without intermediaries.",
+    "categoria": "分散型取引所 (DEX)"
+  },
+  {
+    "termo": "Delist",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "The process of removing a cryptocurrency or token from an exchange's trading pairs.",
+    "categoria": "上場廃止"
+  },
+  {
+    "termo": "Demo Trading",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Simulated trading environment using virtual funds to practice strategies without real financial risk, available on MEXC for futures and spot.",
+    "categoria": "デモ取引"
+  },
+  {
+    "termo": "Deposit",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Initiates the action of depositing assets into the user's account.",
+    "categoria": null
+  },
+  {
+    "termo": "Diamond chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade Showdown",
+    "descrição": "Copy Trade Showdown's level-5 treasure chest reward.",
+    "categoria": "ダイヤモンドチェスト"
+  },
+  {
+    "termo": "Digital eRupee",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "India's central bank digital currency (CBDC), a blockchain-based digital version of the Indian Rupee for secure, efficient transactions.",
+    "categoria": "デジタル・ルピー"
+  },
+  {
+    "termo": "Digital eRupee wallet",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A digital wallet specifically for holding, transacting, and managing India's central bank digital currency (CBDC), the eRupee, enabling seamless digital payments.",
+    "categoria": "デジタル・ルピーウォレット"
+  },
+  {
+    "termo": "Direct referral",
+    "tradução": "Program",
+    "contexto": "Referral, affiliate",
+    "descrição": "A user or affiliate directly invited by an existing member, representing the first level in a referral or affiliate hierarchy, from which commissions are earned.",
+    "categoria": "直接招待した友達"
+  },
+  {
+    "termo": "Direction",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The trading bias or strategy direction (e.g., long or short), indicating the expected market move.",
+    "categoria": "方向"
+  },
+  {
+    "termo": "Dispute",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A disagreement between buyer and seller requiring intervention.",
+    "categoria": "紛争"
+  },
+  {
+    "termo": "Dollar cost averaging (DCA)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An investment strategy where a fixed amount is invested at regular intervals, reducing the impact of price volatility over time.",
+    "categoria": "ドルコスト平均法 (DCA)"
+  },
+  {
+    "termo": "Down",
+    "tradução": "UI Element",
+    "contexto": "Event Futures",
+    "descrição": "A prediction that the underlying asset's price will decrease during the contract period.",
+    "categoria": "下落"
+  },
+  {
+    "termo": "Down payout",
+    "tradução": "Trade",
+    "contexto": "Event Futures",
+    "descrição": "The rate of return a trader receives if the asset price goes down and their prediction in Event Futures is correct.",
+    "categoria": "下落賞金率"
+  },
+  {
+    "termo": "Early access",
+    "tradução": "Generic",
+    "contexto": "Specific benefit/incentive provided by the Alpha program",
+    "descrição": "Access to trade tokens in Alpha before they become widely available.",
+    "categoria": "早期アクセス"
+  },
+  {
+    "termo": "Early settlement",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Platform’s mechanism to close or adjust positions ahead of corporate events like splits or dividends.",
+    "categoria": "早期決済"
+  },
+  {
+    "termo": "Earn Now",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": null,
+    "categoria": null
+  },
+  {
+    "termo": "Effective margin",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Navigates the user to an Earn product.",
+    "categoria": "有効保証金"
+  },
+  {
+    "termo": "Elite Pool",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "The current account assets available as margin for opening Futures positions, valued in USD.",
+    "categoria": "エリートプール"
+  },
+  {
+    "termo": "Email verification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A higher-tier prize pool in Flip Fest for participants who meet higher criteria than the Rising Pool.",
+    "categoria": "メールアドレス認証"
+  },
+  {
+    "termo": "Enrollment",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Confirmation of email address ownership by sending and entering a code or clicking a link.",
+    "categoria": "登録"
+  },
+  {
+    "termo": "Entire position",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The action of initiating interest accrual on a Hold and Earn product.",
+    "categoria": "ポジション全体"
+  },
+  {
+    "termo": "Entry price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Refers to the full size of an open position, as opposed to a partial portion.",
+    "categoria": "オープン価格"
+  },
+  {
+    "termo": "Equity",
+    "tradução": "UI Element",
+    "contexto": "Account balances",
+    "descrição": "The price at which a position was opened, used for PNL calculations.",
+    "categoria": "資産"
+  },
+  {
+    "termo": "Equity value",
+    "tradução": "Trade",
+    "contexto": "Wallet valuation",
+    "descrição": "The total value of assets in the account, including unrealized profit and loss.",
+    "categoria": "アカウント総資産"
+  },
+  {
+    "termo": "Escrow",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Displayed on Wallets page in App. Total valuation of assets held within the DEX+ account.",
+    "categoria": "エスクロー"
+  },
+  {
+    "termo": "Est.",
+    "tradução": "UI Element",
+    "contexto": "Abbreviation",
+    "descrição": "A security mechanism that holds the seller's crypto in trust until the buyer's payment is confirmed, protecting both parties.",
+    "categoria": "推定"
+  },
+  {
+    "termo": "Estimated APR (Est. APR)",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Short for 'Estimated.' The period at the end (Est.) is part of the standard abbreviation and should always be included.",
+    "categoria": "推定APR"
+  },
+  {
+    "termo": "Estimated PNL (Est. PNL)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The projected annual return on a MEXC Earn product.",
+    "categoria": "推定損益"
+  },
+  {
+    "termo": "Estimated Payoff (Est. Payoff)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The projected profit or loss on an open position, calculated in real time based on current market prices.",
+    "categoria": "推定ペイオフ"
+  },
+  {
+    "termo": "Estimated profit per grid (Est. profit per grid)",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The projected profit or loss calculated based on current market conditions and position parameters.",
+    "categoria": "グリッドあたりの推定利益"
+  },
+  {
+    "termo": "Event Futures",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The projected profit expected from each grid interval in a grid trading strategy or bot operation.",
+    "categoria": "イベント先物"
+  },
+  {
+    "termo": "Exchange rate",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Derivative contracts that allow users to speculate on the outcome of specific real-world events (e.g., economic reports or sports) using a simplified \"Yes/No\" mechanic, where settlement is based on whether the predicted event occurs.",
+    "categoria": "レート"
+  },
+  {
+    "termo": "Expected PNL",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The rate at which one currency is exchanged for another in interest distribution or repayment.",
+    "categoria": "推定損益"
+  },
+  {
+    "termo": "FAQ",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "Expected PNL involves expectations, should be used in prediction related trading that needs to factor in risk adjustment.",
+    "categoria": "よくある質問"
+  },
+  {
+    "termo": "Face ID",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Frequently Asked Questions. A section providing answers to common user queries. Always use the abbreviation FAQ — do not spell out the full form or use alternative shortenings.",
+    "categoria": "Face ID"
+  },
+  {
+    "termo": "Facial recognition",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Advanced biometric authentication using facial recognition technology for quick and secure access to accounts and features.",
+    "categoria": "顔認証"
+  },
+  {
+    "termo": "Failed to load",
+    "tradução": "UI Element",
+    "contexto": "Toast message",
+    "descrição": "A biometric authentication method that verifies user identity by scanning facial features.",
+    "categoria": "読み込みにしました"
+  },
+  {
+    "termo": "Fair price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Error message shown when content cannot be retrieved. (Standard term; do not use 'Loading failed'.).",
+    "categoria": "公正価格"
+  },
+  {
+    "termo": "Favorites",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The calculated real-time price based on index and market data, used for PNL and liquidations to prevent manipulation. Used in place of mark price.",
+    "categoria": "お気に入り"
+  },
+  {
+    "termo": "Featured",
+    "tradução": "UI Element",
+    "contexto": "MEXC AI",
+    "descrição": "A user-curated list of preferred or watched tokens.",
+    "categoria": "注目"
+  },
+  {
+    "termo": "Featured ad",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Highlights of selected content / trading pairs presented to users in the interface.",
+    "categoria": "注目の広告"
+  },
+  {
+    "termo": "Fee voucher",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "A prioritized listing that appears at the top of search results for greater visibility. Featured ads may require a fee, special merchant status, or be granted through promotions.",
+    "categoria": "手数料バウチャー"
+  },
+  {
+    "termo": "Fiat",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A voucher that can be applied to offset trading fees.",
+    "categoria": "法定通貨"
+  },
+  {
+    "termo": "Fill price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Government-issued currency that is not backed by a physical commodity but derives value from trust and regulation (e.g., USD, EUR). Title case when referring to a MEXC product or zone; sentence case in general editorial use.",
+    "categoria": "約定価格"
+  },
+  {
+    "termo": "Fill-Or-Kill (FOK)",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The final, actual price at which a trade is executed.",
+    "categoria": "Fill-Or-Kill (FOK)"
+  },
+  {
+    "termo": "First in market",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An order that must be executed in its entirety immediately; if not fully fillable, it is canceled completely.",
+    "categoria": "世界初上場"
+  },
+  {
+    "termo": "Fixed Loans",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "The first official listing of a new token on the trading platform, marking its market debut.",
+    "categoria": "固定ローン"
+  },
+  {
+    "termo": "Fixed Savings",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A loan with a fixed loan duration where the interest rate is locked for the full term.",
+    "categoria": "固定セービング"
+  },
+  {
+    "termo": "Fixed-price advertisement",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A MEXC Earn product with a fixed lockup duration, during which assets are frozen and cannot be withdrawn or traded.",
+    "categoria": "固定価格広告"
+  },
+  {
+    "termo": "Flash Close",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An ad in which the advertiser sets a fixed price for cryptocurrency that remains unchanged regardless of market fluctuations.",
+    "categoria": "フラッシュクローズ"
+  },
+  {
+    "termo": "Flash Trading",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A feature that closes a position quickly by matching against the best 30 available bid prices. Any unfilled portion is automatically converted into a limit order.",
+    "categoria": "フラッシュトレード"
+  },
+  {
+    "termo": "Flex Now",
+    "tradução": "UI Element",
+    "contexto": "Affiliate, button",
+    "descrição": "A Futures feature that lets traders open positions directly on the candlestick chart using market orders, without switching to the order panel.",
+    "categoria": "今すぐ共有"
+  },
+  {
+    "termo": "Flex Strategy",
+    "tradução": "Program",
+    "contexto": "Affiliate",
+    "descrição": "The action of sharing an affiliate's Flex Strategy.",
+    "categoria": "ストラテジーを共有"
+  },
+  {
+    "termo": "Flexible Loans",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "A feature that allows affiliates to select and automatically share their trading strategies with their group.",
+    "categoria": "フレキシブルローン"
+  },
+  {
+    "termo": "Flexible Savings",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A loan with no fixed loan term. Users can borrow and repay at any time and the interest is calculated hourly.",
+    "categoria": "フレキシブルセービング"
+  },
+  {
+    "termo": "Flexible redemption",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A MEXC Earn product with no fixed lockup period; assets remain tradable and withdrawable anytime.",
+    "categoria": "フレキシブル償還"
+  },
+  {
+    "termo": "Flip Fest",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "Users can redeem partial or full stakes at any time without lockup restrictions.",
+    "categoria": "フリップ祭"
+  },
+  {
+    "termo": "Flipping",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A trading event that uses a card-flipping mechanism; users earn flip opportunities by completing trading tasks.",
+    "categoria": "めくる"
+  },
+  {
+    "termo": "Floating-price ad",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Buying an asset with the intention of selling it quickly for a short-term profit, typically driven by rapid price movements.",
+    "categoria": "変動価格広告"
+  },
+  {
+    "termo": "Floor price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An ad whose price is linked to the market rate.",
+    "categoria": "フロア価格"
+  },
+  {
+    "termo": "Follow trade",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "The lowest price at which an asset, commonly an NFT, is currently available for sale in the market.",
+    "categoria": "取引をフォロー"
+  },
+  {
+    "termo": "Follower",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "The act or order of copying a Trader's position or trade in the copy trading system.",
+    "categoria": "フォロワー"
+  },
+  {
+    "termo": "Follower ID",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A user who replicates or copies the trades of a designated Trader in a copy trading system.",
+    "categoria": "フォロワーID"
+  },
+  {
+    "termo": "Forex",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The unique identification number or code assigned to a Follower in the system.",
+    "categoria": "外国為替"
+  },
+  {
+    "termo": "Forex Perpetual Futures",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The global market for trading national fiat currencies (e.g., USD, EUR, JPY).",
+    "categoria": "外国為替無期限先物"
+  },
+  {
+    "termo": "Freezable",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "Specialized derivative contracts on MEXC that allow users to speculate on the price movements of major national currencies (such as EUR, GBP, and JPY) using crypto as collateral.",
+    "categoria": "凍結可能"
+  },
+  {
+    "termo": "Fully diluted valuation (FDV)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Tokens can be frozen by authorized functions.",
+    "categoria": "完全希薄後時価総額"
+  },
+  {
+    "termo": "Fully staked",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "The total value of a cryptocurrency calculated by multiplying the current price by the maximum possible supply of tokens, assuming all tokens are in circulation.",
+    "categoria": "(FDV)"
+  },
+  {
+    "termo": "Funding fees",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Product is currently fully staked, no quota left.",
+    "categoria": "ステーキング枠満了"
+  },
+  {
+    "termo": "Funding rate",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Payments based on funding rate and position size, settled every 8 hours on MEXC, positive rate means longs pay shorts.",
+    "categoria": "資金調達手数料"
+  },
+  {
+    "termo": "FutureProof",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "A periodic fee exchanged between long and short positions in leveraged token trading, influencing the cost of holding positions.",
+    "categoria": "資金調達率"
+  },
+  {
+    "termo": "Futures",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The MEXC Foundation's flagship global academic initiative, building long-term partnerships with universities and research institutions through funding, education, and innovation programs.",
+    "categoria": "FutureProof"
+  },
+  {
+    "termo": "Futures Earn",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A type of financial derivative that allows users to trade the future price of an asset. Title case when referring to a MEXC product or zone; sentence case in general editorial use.",
+    "categoria": "先物"
+  },
+  {
+    "termo": "Futures Grid",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "An Earn product for users who hold eligible assets in their Futures account to automatically earn daily interest.",
+    "categoria": "先物Earn"
+  },
+  {
+    "termo": "Futures Grid AI",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The name of the Futures grid trading feature on MEXC and its entrance on the platform. The feature enables automated grid trading strategies on Futures markets.",
+    "categoria": "先物グリッド"
+  },
+  {
+    "termo": "Futures Insurance Fund",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "AI leverages in-depth analysis of historical market data and real-time price trends for a given trading pair. It intelligently and automatically sets the optimal price range, number of grids, and leverage multiplier for the user.",
+    "categoria": "先物グリッドAI"
+  },
+  {
+    "termo": "Futures Leaderboard",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A dedicated insurance fund providing protection to futures traders during periods of extreme market volatility or unexpected losses.",
+    "categoria": "先物保険基金"
+  },
+  {
+    "termo": "Futures M-Day",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "An ongoing MEXC Futures trading event that ranks participants by daily PNL and trading volume. Top-ranked users share daily prize pools, with rewards distributed across daily, weekly, and monthly periods.",
+    "categoria": "先物リーダーボード"
+  },
+  {
+    "termo": "Futures grid bot",
+    "tradução": "Trade",
+    "contexto": "Futures grid trading",
+    "descrição": "Also referred to as M-Day. A special, futures-focused themed event day on the MEXC platform, featuring exclusive trading sessions, limited-time missions, leaderboard competitions, and bonus rewards centered on futures trading.",
+    "categoria": "先物M-Day"
+  },
+  {
+    "termo": "GEO Pay",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A trading bot within the Futures Grid feature that executes grid trading strategies on Futures, capturing profits by placing buy and sell orders within a predefined grid.",
+    "categoria": "先物グリッドボット"
+  },
+  {
+    "termo": "Gas (usual)",
+    "tradução": "Trade",
+    "contexto": "Network fees for on-chain trades",
+    "descrição": "A multi-currency payment service facilitating P2P exchanges, cryptocurrency transactions, and conversions, often used for buying/selling assets like USDT at favorable rates.",
+    "categoria": "GEO Pay"
+  },
+  {
+    "termo": "Gem",
+    "tradução": "Reward",
+    "contexto": "M-day",
+    "descrição": "The expected network (gas) fee cost for executing an on-chain transaction.",
+    "categoria": "ガス (通常)"
+  },
+  {
+    "termo": "Get Help",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "A rare reward found inside chests during M-Day events. Uncovering a Gem entitles the user to substantial Futures bonus rewards.",
+    "categoria": "ジェム"
+  },
+  {
+    "termo": "Go",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Generally displayed as a button. Directs users to customer support or assistance resources.",
+    "categoria": "サポートを受ける"
+  },
+  {
+    "termo": "Gold chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade Showdown",
+    "descrição": "Navigates the user to a relevant page or next step.",
+    "categoria": null
+  },
+  {
+    "termo": "Golden Cross",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Copy Trade Showdown's level-4 treasure chest reward.",
+    "categoria": "ゴールドチェスト"
+  },
+  {
+    "termo": "Good-Till-Canceled (GTC)",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A bullish technical signal that occurs when a short-term moving average crosses above a long-term moving average, suggesting potential upward price momentum.",
+    "categoria": "ゴールデンクロス"
+  },
+  {
+    "termo": "Goodie bag",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "An order that remains active until fully filled or manually canceled by the user, without an expiration time.",
+    "categoria": "Good-Till-Cancelled (GTC)"
+  },
+  {
+    "termo": "Google Authentication",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A bundle of tokens in varying amounts, e.g., 88 ABC; 8,888 CDE; 66,666 EFG.",
+    "categoria": "福袋"
+  },
+  {
+    "termo": "Google Authenticator",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Two-factor authentication using Google Authenticator or similar services for secure account access.",
+    "categoria": "Google認証"
+  },
+  {
+    "termo": "Gradient",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An app for generating 2FA codes, providing an extra layer of security beyond passwords.",
+    "categoria": "Google Authenticator"
+  },
+  {
+    "termo": "Graduating",
+    "tradução": "UI Element",
+    "contexto": "Token listing status/progression",
+    "descrição": "A measure of the rate and direction of change, often used in data analysis or algorithmic trading to describe trends.",
+    "categoria": "勾配"
+  },
+  {
+    "termo": "Grid count",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Generally displayed as a status label on token listing pages. Tokens or projects nearing full launch or listing status.",
+    "categoria": "まもなく上場"
+  },
+  {
+    "termo": "Grid order ID",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The number of discrete price intervals (grids) inside the price range where buy and sell orders are placed.",
+    "categoria": "グリッド数"
+  },
+  {
+    "termo": "Grid parameters",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Unique identifier assigned to each grid order for tracking and management.",
+    "categoria": "グリッド注文 ID"
+  },
+  {
+    "termo": "Grid profit",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Settings for a grid bot strategy, including price range, number of grids, investment amount, leverage, stop prices, and activation price.",
+    "categoria": "グリッドパラメータ"
+  },
+  {
+    "termo": "Grid profit count",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Net profit realized from grid trading.",
+    "categoria": "グリッド利益"
+  },
+  {
+    "termo": "Grid profit history",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The number of completed profitable trades (buy low, sell high) made by the grid bot.",
+    "categoria": "グリッド利益数"
+  },
+  {
+    "termo": "Grid trading",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Historical logs showing profitable exit trades executed by grid bot.",
+    "categoria": "グリッド利益履歴"
+  },
+  {
+    "termo": "Guaranteed stop-loss (Guaranteed SL)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An automated trading bot that places buy and sell orders at preset price intervals within a defined range, profiting from market fluctuations without manual intervention.",
+    "categoria": "グリッド取引"
+  },
+  {
+    "termo": "Hand Rank",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "Also displayed as \"Guaranteed SL.\" A stop-loss order that guarantees position closure strictly at the trigger price, preventing additional losses from market slippage. An extra trading fee is charged upon successful execution.",
+    "categoria": "保証損切り"
+  },
+  {
+    "termo": "Haptic feedback",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A ranking system in Flip Fest that assigns point values to card hands based on their combination, ranging from C+ (lowest) to S (highest). Higher-ranked hands earn more points and a greater share of the prize pool.",
+    "categoria": "ハンドランク"
+  },
+  {
+    "termo": "Hard fork",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Subtle vibrations or tactile responses when you interact with the app, confirming actions through touch.",
+    "categoria": "触覚フィードバック"
+  },
+  {
+    "termo": "Hash rate",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A significant blockchain protocol change that creates a permanent split, resulting in two separate chains if not universally adopted.",
+    "categoria": "ハードフォーク"
+  },
+  {
+    "termo": "Hedge mode",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A measure of computational power used to process transactions and secure a blockchain network, typically expressed as hashes per second.",
+    "categoria": "ハッシュレート"
+  },
+  {
+    "termo": "Hide other pairs",
+    "tradução": "UI Element",
+    "contexto": "Filter setting",
+    "descrição": "A position mode permitting simultaneous long and short positions in the same trading pair.",
+    "categoria": "ヘッジモード"
+  },
+  {
+    "termo": "High frequency",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "Option to filter out or hide trading pairs not currently of interest.",
+    "categoria": "他の取引ペアを非表示にする"
+  },
+  {
+    "termo": "High risk",
+    "tradução": "UI Element",
+    "contexto": "Security/Risk label",
+    "descrição": "A label to describe the Trader's style: Trading strategy involves executing many trades within short timeframes, often aiming to profit from small price movements.",
+    "categoria": "高頻度"
+  },
+  {
+    "termo": "Hold and Earn",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Generally displayed as a risk status label on token or contract pages. Token or contract assessed to have high risk levels.",
+    "categoria": "高リスク"
+  },
+  {
+    "termo": "Holder",
+    "tradução": "UI Element",
+    "contexto": "On-chain data/Token metrics",
+    "descrição": "An earn product that allows users to generate interest on their crypto holdings.",
+    "categoria": "保有して獲得"
+  },
+  {
+    "termo": "Honeypot",
+    "tradução": "Trade",
+    "contexto": "Security/Risk (Scam type)",
+    "descrição": "Generally displayed as a data field on token detail pages. Number of wallets or addresses holding a particular token.",
+    "categoria": "保有者"
+  },
+  {
+    "termo": "Hot Futures Challenge",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A token that has restrictions preventing holders from selling, indicating potential scam.",
+    "categoria": "ハニーポット"
+  },
+  {
+    "termo": "Hot Searches",
+    "tradução": "UI Element",
+    "contexto": "Search/Discovery feature",
+    "descrição": "A trading event focused on specific trending or volatile cryptocurrency pairs in the futures market.",
+    "categoria": "人気先物チャレンジ"
+  },
+  {
+    "termo": "Hourly interest rate",
+    "tradução": "Earn",
+    "contexto": "Loans — Flexible Loans",
+    "descrição": "Frequently searched tokens or pairs.",
+    "categoria": "上位検索"
+  },
+  {
+    "termo": "Immediate-Or-Cancel (IOC)",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The hourly cost of borrowing for Flexible Loans, applied to the outstanding loan amount. Any period less than one full hour is counted as a full hour.",
+    "categoria": "1時間あたりの金利"
+  },
+  {
+    "termo": "Impermanent loss",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An order that executes immediately for whatever quantity is available; any unfilled portion is cancelled at once.",
+    "categoria": "Immediate-or-Cancel (IOC)"
+  },
+  {
+    "termo": "In negotiation",
+    "tradução": "UI Element",
+    "contexto": "P2P",
+    "descrição": "A temporary loss experienced by liquidity providers due to price fluctuations between assets in a liquidity pool.",
+    "categoria": "変動損失"
+  },
+  {
+    "termo": "Inaccurate",
+    "tradução": "UI Element",
+    "contexto": "Event Futures",
+    "descrição": "Generally displayed as an order status label in P2P. Indicates that the buyer and seller are communicating to resolve an issue or dispute before further action is taken.",
+    "categoria": "交渉中"
+  },
+  {
+    "termo": "Index price",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Status indicating a prediction was incorrect.",
+    "categoria": "予測的中せず"
+  },
+  {
+    "termo": "Initial LTV",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "A weighted average price from major exchanges, serving as a benchmark for fair price calculations in futures.",
+    "categoria": "インデックス価格"
+  },
+  {
+    "termo": "Initial investment amount",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The LTV at the time the loan is opened, calculated based on the borrowed amount and the collateral value when the loan starts.",
+    "categoria": "初期 LTV"
+  },
+  {
+    "termo": "Initial listing",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The amount of capital, denominated in USDT or any other units, initially allocated to the bot when creating the grid trading strategy.",
+    "categoria": "初期投資額"
+  },
+  {
+    "termo": "Initial margin",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Replaced with: First in Market. The first official listing of a new token on the trading platform, marking its market debut.",
+    "categoria": "世界初上場"
+  },
+  {
+    "termo": "Initial margin rate",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The minimum collateral required to open a position, determined by leverage and position value.",
+    "categoria": "初期証拠金"
+  },
+  {
+    "termo": "Instant Convert",
+    "tradução": "Trade",
+    "contexto": "Convert",
+    "descrição": "Percentage showing margin usage, calculated as Initial margin / Effective margin.",
+    "categoria": "初期証拠金率"
+  },
+  {
+    "termo": "Institutional sub-accounts",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A Convert order type where the order is filled immediately.",
+    "categoria": "即時変換"
+  },
+  {
+    "termo": "Insufficient balance",
+    "tradução": "UI Element",
+    "contexto": "Order error state",
+    "descrição": "Sub-accounts designed for institutional investors, offering advanced features like higher limits and segregated fund management.",
+    "categoria": "機関投資家向けサブアカウント"
+  },
+  {
+    "termo": "Insurance Fund",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Notification that user asset balance is not enough to complete a trade or fee payment.",
+    "categoria": "残高不足"
+  },
+  {
+    "termo": "Interest",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A reserve fund used by the exchange to cover losses from liquidations that fail to close at bankruptcy price, preventing ADL.",
+    "categoria": "保険基金"
+  },
+  {
+    "termo": "Interest accrued",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "The cost of borrowing funds or liabilities, or the earnings generated from staked assets, calculated over time.",
+    "categoria": "利息"
+  },
+  {
+    "termo": "Interest accrues on",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Total distributed interest from the MEXC Earn products.",
+    "categoria": "累計利息"
+  },
+  {
+    "termo": "Interest amount",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Current est. interest accrual time.",
+    "categoria": "利息の発生開始"
+  },
+  {
+    "termo": "Interest distributed",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Total rewards earned from staking.",
+    "categoria": "利息金額"
+  },
+  {
+    "termo": "Interest settlement",
+    "tradução": "Trade",
+    "contexto": "Interest and repayment",
+    "descrição": "Amount of interest credited/distributed.",
+    "categoria": "利息配布済み"
+  },
+  {
+    "termo": "Interest settlement history",
+    "tradução": "Trade",
+    "contexto": "Interest and repayment",
+    "descrição": "The process of calculating and settling interest on borrowed funds or liabilities.",
+    "categoria": "利息決済"
+  },
+  {
+    "termo": "Interest summary",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Records of past interest settlements on liabilities or borrowed funds.",
+    "categoria": "利息決済履歴"
+  },
+  {
+    "termo": "Interest-bearing amount",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Detailed log of interest distributions.",
+    "categoria": "利息の概要"
+  },
+  {
+    "termo": "Interest-bearing principal",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "The portion of your staked asset currently generating interest.",
+    "categoria": "利息付与対象額"
+  },
+  {
+    "termo": "Intraday price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The principal used for interest calculation is the average value based on multiple snapshots taken during the interest accrual period, ensuring a fair and consistent calculation.",
+    "categoria": "利息付与対象元本"
+  },
+  {
+    "termo": "Investment allocation",
+    "tradução": "Trade",
+    "contexto": "Spot DCA",
+    "descrição": "The price of an asset at any point during the current trading day.",
+    "categoria": "当日価格"
+  },
+  {
+    "termo": "Invite",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "The investment allocation for each asset. Total percentage must be 100%.",
+    "categoria": "投資配分"
+  },
+  {
+    "termo": "Invitee",
+    "tradução": "Program",
+    "contexto": "Affiliate program",
+    "descrição": "Initiates an invitation action, such as inviting users to join MEXC.",
+    "categoria": null
+  },
+  {
+    "termo": "Inviter",
+    "tradução": "Program",
+    "contexto": "Affiliate program",
+    "descrição": "Former term for a user who joins MEXC via a referral link or code. Replaced by Referee",
+    "categoria": "被招待者"
+  },
+  {
+    "termo": "Iron chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade Showdown",
+    "descrição": "Former term for a user who refers others to MEXC via a referral link or code. Replaced by Referrer.",
+    "categoria": "招待者"
+  },
+  {
+    "termo": "Isolated margin",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Copy Trade Showdown's level-1 treasure chest reward.",
+    "categoria": "アイアンチェスト"
+  },
+  {
+    "termo": "Isolated margin mode",
+    "tradução": "Trade",
+    "contexto": "Futures margin mode",
+    "descrição": "Mode allocating fixed margin to a specific position, limiting risk to that margin on liquidation.",
+    "categoria": "分離マージン"
+  },
+  {
+    "termo": "Join Now",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Margin mode where each position has its own independent margin.",
+    "categoria": "分離マージンモード"
+  },
+  {
+    "termo": "KYC verification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Initiates the action of enrolling in a campaign or program.",
+    "categoria": null
+  },
+  {
+    "termo": "Kickstarter",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "The process of verifying a user's identity to comply with regulatory requirements.",
+    "categoria": "KYC認証"
+  },
+  {
+    "termo": "LTV",
+    "tradução": "Earn",
+    "contexto": "Staking",
+    "descrição": "A MEXC pre-listing campaign where users commit MX tokens to vote for new projects and receive free token airdrops upon successful listing.",
+    "categoria": "Kickstarter"
+  },
+  {
+    "termo": "Last price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Loan-to-Value ratio on MEXC, calculated as outstanding principal and interest divided by collateral value, determining liquidation risk.",
+    "categoria": "LTV"
+  },
+  {
+    "termo": "Launchpad",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "The most recent executed trade price of an asset.",
+    "categoria": "直近価格"
+  },
+  {
+    "termo": "Launchpool",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A MEXC token subscription platform that gives users early access to promising new projects and established tokens at favorable prices.",
+    "categoria": "Launchpad"
+  },
+  {
+    "termo": "Lead Trade",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A MEXC airdrop platform where users stake supported tokens such as MX or USDT to earn free airdrops of trending or newly listed cryptocurrencies.",
+    "categoria": "Launchpool"
+  },
+  {
+    "termo": "Legacy Merchant",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "The original trade placed by a Trader that is copied by Followers.",
+    "categoria": "リードトレード"
+  },
+  {
+    "termo": "Leverage mode",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A higher tier in the MEXC P2P Merchant Program for merchants who have exceeded Prime Merchant thresholds in completion rate, trading volume, and completed orders.",
+    "categoria": "レガシー加盟店"
+  },
+  {
+    "termo": "Liability",
+    "tradução": "Trade",
+    "contexto": "Multi-asset mode",
+    "descrição": "A Futures setting that determines how leverage and margin are applied across positions. Choose between Simple Mode and Advanced Mode.",
+    "categoria": "レバレッジモード"
+  },
+  {
+    "termo": "Liability repayment (collection)",
+    "tradução": "Trade",
+    "contexto": "Multi-asset mode",
+    "descrição": "Outstanding debts or obligations in the account.",
+    "categoria": "負債"
+  },
+  {
+    "termo": "Liability repayment (payment)",
+    "tradução": "Trade",
+    "contexto": "Multi-asset mode",
+    "descrição": "Collection of funds to cover liabilities owed in the account.",
+    "categoria": "負債返済 (回収)"
+  },
+  {
+    "termo": "Limit Convert",
+    "tradução": "Trade",
+    "contexto": "Convert",
+    "descrição": "Payment made to repay outstanding liabilities in the account.",
+    "categoria": "負債返済 (支払い)"
+  },
+  {
+    "termo": "Limit order",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A Convert order type where the order is filled when the fair price reaches the set limit price.",
+    "categoria": "指値変換"
+  },
+  {
+    "termo": "Limit price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An order to buy or sell at a specified price or better, which may not execute immediately if the market doesn't reach that price.",
+    "categoria": "指値注文"
+  },
+  {
+    "termo": "Liquidation",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The specified price at which a limit order is set to execute, ensuring the trade occurs at that price or better.",
+    "categoria": "指値価格"
+  },
+  {
+    "termo": "Liquidation LTV",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "Forced closure of a position when margin falls below maintenance level, to prevent further losses.",
+    "categoria": "強制決済"
+  },
+  {
+    "termo": "Liquidity locked",
+    "tradução": "Trade",
+    "contexto": "Security status",
+    "descrição": "The LTV level at which user's collateral may be automatically sold to repay the loan if no action is taken after a margin call.",
+    "categoria": "強制決済 LTV"
+  },
+  {
+    "termo": "Liquidity pool",
+    "tradução": "Trade",
+    "contexto": "Feature",
+    "descrição": "Mostly used in DEX. A security status signifying liquidity funds are locked and cannot be withdrawn immediately.",
+    "categoria": "流動性ロック"
+  },
+  {
+    "termo": "Liquidity provider",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Pool of tokens providing liquidity for trading pairs on the DEX+.",
+    "categoria": "流動性プール"
+  },
+  {
+    "termo": "Listed",
+    "tradução": "UI Element",
+    "contexto": "Token availability status",
+    "descrição": "A user who supplies assets to a liquidity pool to facilitate trading on decentralized platforms and earn fees or rewards.",
+    "categoria": "流動性提供者"
+  },
+  {
+    "termo": "Lite App",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Generally displayed as a status label on token listing pages. Tokens officially listed and available for trading on the platform.",
+    "categoria": "上場済み"
+  },
+  {
+    "termo": "Live market pass",
+    "tradução": "Trade",
+    "contexto": "Stock",
+    "descrição": "MEXC App Lite, or Lite App is a streamlined version of the MEXC App designed for faster performance, simpler navigation, and essential trading features.",
+    "categoria": "Liteアプリ"
+  },
+  {
+    "termo": "Live trading",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A pass that grants access to real-time stock market data, helping users make informed trading decisions.",
+    "categoria": "ライブ市場パス"
+  },
+  {
+    "termo": "Loan-to-value ratio (LTV)",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "Real-time trading with actual funds on the exchange, as opposed to demo mode, involving genuine market risks and rewards.",
+    "categoria": "ライブ取引"
+  },
+  {
+    "termo": "Lockup system",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "The ratio of your borrowed amount to the value of your collateral, expressed as a percentage.",
+    "categoria": "Loan-to-value ratio (LTV)"
+  },
+  {
+    "termo": "Long",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A mechanism where users must lock their crypto assets for a specified period to participate in events, earn higher yields, or receive rewards, with assets unavailable for withdrawal during lockup.",
+    "categoria": "ロックアップシステム"
+  },
+  {
+    "termo": "Long-term volatility",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A trading stance on the price of an asset rising. The grid is optimized to benefit from upward price trends. Capitalize if it appears as a button.",
+    "categoria": "ロング"
+  },
+  {
+    "termo": "Long/short ratio",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Expected price fluctuations or market volatility over a long-term horizon, generally spanning 3–6 months or longer.",
+    "categoria": "長期的なボラティリティ"
+  },
+  {
+    "termo": "Loss coverage",
+    "tradução": "Reward",
+    "contexto": "Futures",
+    "descrição": "An indicator showing the proportion of open positions betting on the price going up (Long) versus going down (Short).",
+    "categoria": "ロング/ショート比率"
+  },
+  {
+    "termo": "Low frequency",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A protection mechanism that compensates users with a Futures bonus if a trade results in a loss, up to a specified coverage limit.",
+    "categoria": "損失補償"
+  },
+  {
+    "termo": "Low risk",
+    "tradução": "UI Element",
+    "contexto": "Security/Risk label",
+    "descrição": "A label to describe the Trader's style: Trading strategy that executes a small number of trades over a longer period, focusing on fewer but often larger opportunities.",
+    "categoria": "低頻度"
+  },
+  {
+    "termo": "Low-risk mode",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Generally displayed as a risk status label on token or contract pages. Token or contract assessed to have low risk levels.",
+    "categoria": "低リスク"
+  },
+  {
+    "termo": "Lower limit",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A bot setting that reduces investment requirements and manages risk exposure, possibly at the expense of reduced investment scalability.",
+    "categoria": "低リスクモード"
+  },
+  {
+    "termo": "Lower stop price",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Min. price level set by the user that defines the lower boundary of the grid trading range.",
+    "categoria": "下限"
+  },
+  {
+    "termo": "M-Day",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A user-defined price level below which the bot will stop trading to limit losses or lock in profits.",
+    "categoria": "下限ストップ価格"
+  },
+  {
+    "termo": "MEV defense",
+    "tradução": "Trade",
+    "contexto": "Order type",
+    "descrição": "Also referred to as Futures M-Day. A special, futures-focused themed event day on the MEXC platform, featuring exclusive trading sessions, limited-time missions, leaderboard competitions, and bonus rewards centered on futures trading.",
+    "categoria": "M-Day"
+  },
+  {
+    "termo": "MEXC AI",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "Protection mechanism mitigating Miner Extractable Value (MEV) attacks during trades.",
+    "categoria": "MEV ディフェンス"
+  },
+  {
+    "termo": "MEXC Affiliate Program",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "The overarching master AI feature of the MEXC exchange, integrating AI capabilities to enhance trading, market analysis, and user experience.",
+    "categoria": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Earn",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "MEXC Affiliate Program is designed for those who want to monetize their influence by promoting MEXC. Affiliates earn competitive commissions every time someone they refer signs up and trades, with earnings that scale as their network grows.",
+    "categoria": "MEXCアフィリエイトプログラム"
+  },
+  {
+    "termo": "MEXC Event Center",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A suite of savings products that allows users to earn interest on their crypto assets.",
+    "categoria": "MEXC Earn"
+  },
+  {
+    "termo": "MEXC Global Ambassador Program",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "The Event Center is a dedicated page on MEXC where users can browse current, upcoming, and past events by category, as well as view the events they have registered for.",
+    "categoria": "MEXCイベントセンター"
+  },
+  {
+    "termo": "MEXC Global Card",
+    "tradução": "Trade",
+    "contexto": "Payment",
+    "descrição": "MEXC Global Ambassador Program is a global network of traders, creators, and community builders who represent MEXC across three pillars—trading credibility, brand narrative, and community trust.",
+    "categoria": "MEXCグローバルアンバサダープログラム"
+  },
+  {
+    "termo": "MEXC Learn",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "A debit card issued by MEXC designed to make crypto more accessible for everyday spending, targeting users who are less familiar with crypto.",
+    "categoria": "MEXCグローバルカード"
+  },
+  {
+    "termo": "MEXC Learn UGC Creator Program",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "MEXC Learn is the platform's educational hub, offering articles, guides, and resources to help users understand cryptocurrency, trading, and blockchain concepts.",
+    "categoria": "MEXC 学ぶ"
+  },
+  {
+    "termo": "MEXC Loans",
+    "tradução": "Earn",
+    "contexto": "Earn",
+    "descrição": "MEXC Learn UGC Creator Program invites writers and researchers to contribute original crypto and Web3 content to MEXC Learn, MEXC's global knowledge platform, earning rewards based on content quality and readership performance.",
+    "categoria": "MEXC学ぶ UGCクリエイタープログラム"
+  },
+  {
+    "termo": "MEXC P2P Merchant Program",
+    "tradução": "Program",
+    "contexto": "P2P",
+    "descrição": "A MEXC Earn product that allows users to borrow USDT or USDC using crypto as collateral.",
+    "categoria": "MEXCローン"
+  },
+  {
+    "termo": "MEXC Referral Ambassador Program",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "Allows users to become verified P2P merchants, facilitating crypto trades and earning commissions.",
+    "categoria": "MEXC P2P加盟店プログラム"
+  },
+  {
+    "termo": "MEXC Referral Program",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "The MEXC Referral Ambassador Program allows any user to earn commissions by referring friends to the platform. Ambassadors are organized into three tiers, Rising, Elite, and Champion, based on referral activity, with each tier corresponding to different commission rates and benefits.",
+    "categoria": "MEXC招待アンバサダープログラム"
+  },
+  {
+    "termo": "MEXC VIP",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "The MEXC Referral Program rewards users for growing the MEXC community. Users share their unique referral link or code, earn when the people they bring in deposit and trade, and keep earning as those users stay active on the platform.",
+    "categoria": "MEXC招待プログラム"
+  },
+  {
+    "termo": "MEXC-AI",
+    "tradução": "MEXC AI",
+    "contexto": null,
+    "descrição": "A tiered membership program for high-volume traders. VIP levels are automatically assigned based on total trading volume over the past 30 days and come with exclusive benefits including reduced trading fees and dedicated account managers.",
+    "categoria": "MEXC VIP"
+  },
+  {
+    "termo": "MEXCer",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "The exchange's proprietary AI chatbot designed to assist users by answering questions, providing trading guidance, and offering personalized support within MEXC.",
+    "categoria": "MEXC-AI"
+  },
+  {
+    "termo": "MEXCmize Your Opportunities",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "A term for members of the MEXC user community.",
+    "categoria": "MEXCer"
+  },
+  {
+    "termo": "MX Point",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "Current MEXC brand slogan.",
+    "categoria": "あなたの機会をMEXCmizeしよう"
+  },
+  {
+    "termo": "MX Zone",
+    "tradução": "Brand",
+    "contexto": "MX",
+    "descrição": "A former MEXC reward currency redeemable for discounts or benefits, similar to a coupon.",
+    "categoria": "MXポイント"
+  },
+  {
+    "termo": "MXSOL",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A dedicated MEXC page where users can explore the full range of MX token holder benefits.",
+    "categoria": "MXゾーン"
+  },
+  {
+    "termo": "Main account",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "MEXC's liquid staking token representing staked SOL on the platform; redeemable for SOL plus rewards.",
+    "categoria": "MXSOL"
+  },
+  {
+    "termo": "Mainnet merge",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A user's primary account, used to manage assets, sub-accounts, and platform features.",
+    "categoria": "メインアカウント"
+  },
+  {
+    "termo": "Maintenance margin",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The process of combining or upgrading blockchain networks, often involving transitioning consensus mechanisms or infrastructure.",
+    "categoria": "メインネット統合"
+  },
+  {
+    "termo": "Maintenance margin rate (MMR)",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The minimum equity needed to keep a position open; falling below triggers liquidation.",
+    "categoria": "維持証拠金"
+  },
+  {
+    "termo": "Manual release",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Percentage indicating account risk level, calculated as (Position maintenance margin + Liability maintenance margin) / Effective margin.",
+    "categoria": "維持証拠金率 (MMR)"
+  },
+  {
+    "termo": "Manually create",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "Customer support releases crypto after dispute.",
+    "categoria": "手動リリース"
+  },
+  {
+    "termo": "Margin call LTV",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "The action of setting up a copy trade or trading bot by entering parameters manually instead of using AI recommendations.",
+    "categoria": "手動で作成"
+  },
+  {
+    "termo": "Margin ratio",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A predefined LTV threshold that triggers a warning, prompting users to add more collateral or repay part of the loan to avoid liquidation.",
+    "categoria": "マージンコールLTV"
+  },
+  {
+    "termo": "Mark price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The ratio of maintenance margin to total account margin in a leveraged position, indicating how close a position is to liquidation. The higher the ratio, the greater the liquidation risk.",
+    "categoria": "証拠金率"
+  },
+  {
+    "termo": "Market cap",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Displayed as Fair price on MEXC. The reference price used for calculating unrealized PNL and determining liquidations, derived from index and market prices to prevent price manipulation.",
+    "categoria": "マーク価格"
+  },
+  {
+    "termo": "Market cap change over {time}",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The total market value of a token, calculated as price multiplied by circulating supply.",
+    "categoria": "時価総額"
+  },
+  {
+    "termo": "Market maker",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The percentage or absolute change in market cap over the specified time.",
+    "categoria": "時価総額の変動 {time}"
+  },
+  {
+    "termo": "Market maker account",
+    "tradução": "Account",
+    "contexto": "Account type",
+    "descrição": "A user or entity that provides liquidity by placing continuous buy and sell orders on the platform.",
+    "categoria": "マーケットメイカー"
+  },
+  {
+    "termo": "Market order",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "An account type used by market makers.",
+    "categoria": "マーケットメイカーアカウント"
+  },
+  {
+    "termo": "Markets",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An order to buy or sell immediately at the current market price.",
+    "categoria": "成行注文"
+  },
+  {
+    "termo": "Master account",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Markets has long been the name of a main page on both the App and the Web. Recently, there was a change in the Chinese version, but it should not affect the existing name for Markets.",
+    "categoria": "市場"
+  },
+  {
+    "termo": "Masters of Prediction",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A primary account that controls or manages multiple sub-accounts, often used for consolidated trading or fund management.",
+    "categoria": "マスターアカウント"
+  },
+  {
+    "termo": "Matched PNL",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Event name. And also the honored title for top participants excelling in accurate price movement predictions on BTC and ETH.",
+    "categoria": "予測の達人"
+  },
+  {
+    "termo": "Matched orders",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Profit or loss from trade pairs (buy followed by sell) successfully completed by the bot.",
+    "categoria": "照合済み損益"
+  },
+  {
+    "termo": "Maturity date",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Pre-Market orders paired with opposing orders and confirmed for execution when trading conditions are met, or opposing positions (e.g., long and short) that are internally paired to reduce exposure and system risk during liquidation or risk management processes.",
+    "categoria": "約定済み注文"
+  },
+  {
+    "termo": "Max.",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "The date when the savings product or staking period reaches its full term and the principal becomes available for withdrawal.",
+    "categoria": "満期日"
+  },
+  {
+    "termo": "Maximum drawdown (Max. drawdown)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The standard abbreviation for the maximum allowable value or amount.",
+    "categoria": "最大"
+  },
+  {
+    "termo": "Maximum sell ratio restriction (Max. sell ratio restriction)",
+    "tradução": "Trade",
+    "contexto": "Security/Risk label",
+    "descrição": "Maximum drawdown is the largest peak-to-trough decline in an asset’s or portfolio’s value over a given period, measured as a percentage.",
+    "categoria": "最大ドローダウン"
+  },
+  {
+    "termo": "Maximum supply (Max. supply)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Limits on the maximum portion of tokens a holder can sell at once.",
+    "categoria": "最大売却比率の制限"
+  },
+  {
+    "termo": "Maybe Later",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "The maximum number of tokens that will ever be issued or mined.",
+    "categoria": "最大供給量"
+  },
+  {
+    "termo": "Medium risk",
+    "tradução": "UI Element",
+    "contexto": "Security/Contract attribute",
+    "descrição": "A dismissal option that defers a decision or action to a later time.",
+    "categoria": "また後で"
+  },
+  {
+    "termo": "Meme+",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Generally displayed as a risk status label on token or contract pages. Token or contract assessed to have moderate risk levels.",
+    "categoria": "中リスク"
+  },
+  {
+    "termo": "Merchant Portal",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A dedicated MEXC trading zone for early-stage and emerging memecoins.",
+    "categoria": "Meme+"
+  },
+  {
+    "termo": "Merkle tree",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A dedicated dashboard where merchants manage their listings, account settings, and trading activity.",
+    "categoria": "加盟店ポータル"
+  },
+  {
+    "termo": "MetaMask",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A Merkle tree is a cryptographic data structure that securely summarizes large amounts of data by hashing them into a single root value, enabling efficient verification of data integrity without revealing the underlying details.",
+    "categoria": "マークルツリー"
+  },
+  {
+    "termo": "Metals",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "MetaMask is a digital wallet that allows users to store cryptocurrencies, interact with blockchain applications, and manage assets on Ethereum and other compatible networks.",
+    "categoria": "MetaMask"
+  },
+  {
+    "termo": "Metaverse",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Precious metal assets such as gold and silver, available for trading on MEXC via both Spot and Futures markets. When used as a market zone header, written in title case as \"Metals\".",
+    "categoria": "金属"
+  },
+  {
+    "termo": "Mid-term volatility",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A virtual digital environment where users can interact, socialize, and transact using avatars and digital assets.",
+    "categoria": "メタバース"
+  },
+  {
+    "termo": "Mintable",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "Expected price fluctuations or market volatility over a mid-term period, often ranging from 1–2 months.",
+    "categoria": "中期的なボラティリティ"
+  },
+  {
+    "termo": "Mobile sign-up",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Token contract feature enabling new token supply to be minted.",
+    "categoria": "ミント可能"
+  },
+  {
+    "termo": "Modifiable balances",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "Registration process using a mobile phone number for account creation.",
+    "categoria": "電話番号で新規登録"
+  },
+  {
+    "termo": "Momentum indicator",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Whether contract owner can modify token balances arbitrarily.",
+    "categoria": "残高の変更が可能"
+  },
+  {
+    "termo": "More",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "A technical analysis tool that measures the speed and strength of price movements to help identify trends or potential reversals.",
+    "categoria": "モメンタム指標"
+  },
+  {
+    "termo": "Move to Earn",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Directs users to additional information or content.",
+    "categoria": null
+  },
+  {
+    "termo": "Multi-account operation",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A blockchain-based model where users earn rewards by performing physical activities such as walking or exercising.",
+    "categoria": "動いて稼ぐ"
+  },
+  {
+    "termo": "Multi-asset",
+    "tradução": "Trade",
+    "contexto": "Multi-asset mode",
+    "descrição": "The ability to manage and operate multiple accounts simultaneously, often for diversification or institutional fund management.",
+    "categoria": "複数アカウントの運用"
+  },
+  {
+    "termo": "Multi-asset margin",
+    "tradução": "Trade",
+    "contexto": "Multi-asset mode",
+    "descrição": "Assets pledged as collateral in multi-asset mode.",
+    "categoria": "マルチアセット"
+  },
+  {
+    "termo": "Multi-asset mode",
+    "tradução": "Trade",
+    "contexto": "Account asset modes",
+    "descrição": "The current account assets available as margin in multi-asset mode for opening positions, valued in USD.",
+    "categoria": "マルチアセットマージン"
+  },
+  {
+    "termo": "Multi-signature wallet",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A margin mode allowing multiple asset types to be used as collateral and share margin across positions.",
+    "categoria": "マルチアセットモード"
+  },
+  {
+    "termo": "My holdings",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A crypto wallet that requires multiple private keys to authorize a transaction, increasing security.",
+    "categoria": "マルチシグ・ウォレット"
+  },
+  {
+    "termo": "Negative balance",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Amount of crypto currently staked.",
+    "categoria": "私の保有量"
+  },
+  {
+    "termo": "Negative funding rate",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A situation where losses exceed the initial margin or account balance, resulting in a negative equity position that the trader owes to the platform.",
+    "categoria": "マイナス残高"
+  },
+  {
+    "termo": "Net transfer",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A funding rate condition where short position holders pay funding fees to long position holders.",
+    "categoria": "マイナスの資金調達率"
+  },
+  {
+    "termo": "Neutral",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The final difference between total assets transferred in and total assets transferred out of an account.",
+    "categoria": "純振替"
+  },
+  {
+    "termo": "No lock-up period",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A trading stance where the bot operates without a directional bias, often placing both buy and sell orders symmetrically within the grid.",
+    "categoria": "中立"
+  },
+  {
+    "termo": "Nominal value",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Staked tokens are not locked, allowing anytime redemption or transfer.",
+    "categoria": "ロックアップ期間なし"
+  },
+  {
+    "termo": "Non-freezable",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "The total value of a position or contract based on its size and price, also known as notional value.",
+    "categoria": "名目価値"
+  },
+  {
+    "termo": "Non-fungible token (NFT)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Indicates that tokens cannot be frozen by any contract function.",
+    "categoria": "凍結不可"
+  },
+  {
+    "termo": "Non-instant payment",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A unique digital asset stored on a blockchain that represents ownership of a specific item or content and cannot be exchanged one-to-one like cryptocurrencies.",
+    "categoria": "非代替性トークン (NFT)"
+  },
+  {
+    "termo": "Non-lockup system",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "Payment methods that require processing time.",
+    "categoria": "非即時決済"
+  },
+  {
+    "termo": "Non-mintable",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "A participation mechanism that does not require users to lock their assets, allowing normal use or transfer while still qualifying for event rewards. Commonly seen in MEXC Launchpool and Kickstarter events.",
+    "categoria": "非ロックアップシステム"
+  },
+  {
+    "termo": "On-Chain Earn",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Tokens that cannot be freshly minted by contract owners.",
+    "categoria": "ミント不可"
+  },
+  {
+    "termo": "One-Cancels-the-Other (OCO)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A MEXC Earn product that allows users to stake crypto and participate in DeFi protocols directly on-chain, offering high-yield opportunities.",
+    "categoria": "オンチェーンEarn"
+  },
+  {
+    "termo": "One-way mode",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A pair of linked orders where executing one order automatically cancels the other.",
+    "categoria": "One-Cancels-the-Other (OCO)"
+  },
+  {
+    "termo": "Open grid orders",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A position mode allowing only one direction (long or short) per trading pair at a time.",
+    "categoria": "ワンウェイモード"
+  },
+  {
+    "termo": "Open long",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Pending limit orders placed by the grid bot within the defined price grids.",
+    "categoria": "現在のグリッド注文"
+  },
+  {
+    "termo": "Open order",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An action to buy and open a long position, anticipating that the asset price will rise. Sometimes shown as \"Open Long (Buy).",
+    "categoria": "ロングをオープン"
+  },
+  {
+    "termo": "Open position",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "An order that has been placed but not yet filled or cancelled.",
+    "categoria": "未約定注文"
+  },
+  {
+    "termo": "Open short",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An active futures holding that has been entered but not yet closed, viewable in the positions tab.",
+    "categoria": "オープンポジション"
+  },
+  {
+    "termo": "Order functions",
+    "tradução": "Trade",
+    "contexto": "Trading features",
+    "descrição": "An action to sell and open a short position, anticipating that the asset price will fall. Sometimes shown as \"Open Short (Sell).",
+    "categoria": "ショートをオープン"
+  },
+  {
+    "termo": "Order history",
+    "tradução": "UI Element",
+    "contexto": "Record of past orders",
+    "descrição": "Features related to placing and managing trade orders.",
+    "categoria": "注文機能"
+  },
+  {
+    "termo": "Outstanding",
+    "tradução": "Earn",
+    "contexto": "Staking",
+    "descrição": "Generally displayed as a section label in the trading interface. Record of past placed orders, including completed and cancelled.",
+    "categoria": "注文履歴"
+  },
+  {
+    "termo": "Overbought",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The remaining unpaid principal and accrued interest on a MEXC loan, tracked in the user's loan dashboard.",
+    "categoria": "未払い"
+  },
+  {
+    "termo": "Oversold",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A market condition where an asset's price has risen too quickly and may be due for a correction or pullback.",
+    "categoria": "買われすぎ"
+  },
+  {
+    "termo": "Owner percentage",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "A market condition where an asset's price has fallen too sharply and may be due for a rebound.",
+    "categoria": "売られすぎ"
+  },
+  {
+    "termo": "P2P",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Proportion of total tokens held by the contract owner.",
+    "categoria": "所有者の割合"
+  },
+  {
+    "termo": "PNL",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Short for peer-to-peer; a trading model where users buy and sell crypto directly with each other without using a centralized order book.",
+    "categoria": "P2P"
+  },
+  {
+    "termo": "PNL margin",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Used instead of PnL, P&L.",
+    "categoria": "損益"
+  },
+  {
+    "termo": "PNL rate",
+    "tradução": "Trade",
+    "contexto": "Trading performance metric",
+    "descrição": "A Futures trading method where unrealized profits from open positions are used as margin to open or increase additional positions, without adding new capital. Also referred to as a rolling position strategy.",
+    "categoria": "損益証拠金"
+  },
+  {
+    "termo": "Palm recognition",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Profit and loss expressed as a percentage of initial capital or position size.",
+    "categoria": "損益率"
+  },
+  {
+    "termo": "Partial position",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Uses the device's camera to verify user identity by scanning the unique features of the user's palm for secure authentication.",
+    "categoria": "手のひら認証"
+  },
+  {
+    "termo": "Passkey",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Refers to a portion of an open position, used when closing or adjusting only part of a trade.",
+    "categoria": "部分ポジション"
+  },
+  {
+    "termo": "Pause",
+    "tradução": "Trade",
+    "contexto": "Spot DCA",
+    "descrição": "A passwordless authentication method that allows users to log in using biometrics (fingerprint, facial recognition) or device PINs.",
+    "categoria": "パスキー"
+  },
+  {
+    "termo": "Payout",
+    "tradução": "Trade",
+    "contexto": "Event Futures",
+    "descrição": "The act of pausing the current ongoing Spot DCA plan.",
+    "categoria": "一時停止"
+  },
+  {
+    "termo": "Payout amount",
+    "tradução": "Trade",
+    "contexto": "Event Futures",
+    "descrição": "The overall rate of return provided when a prediction is successful, regardless of direction.",
+    "categoria": "賞金率"
+  },
+  {
+    "termo": "Performance metrics",
+    "tradução": "Trade",
+    "contexto": "Spot/Futures trading bot",
+    "descrição": "The actual amount paid out to the trader upon a successful prediction.",
+    "categoria": "支払金額"
+  },
+  {
+    "termo": "Personal remaining quota",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Aggregate data summarizing the bot's trading performance, including profit/loss, number of executed trades, fees paid, and other related statistics.",
+    "categoria": "パフォーマンス指標"
+  },
+  {
+    "termo": "Phishing",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "The maximum staking allowance a user currently has available based on quota left.",
+    "categoria": "個人残枠"
+  },
+  {
+    "termo": "Photo identification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A type of cyberattack where attackers impersonate trusted entities to trick users into revealing sensitive information such as passwords or private keys.",
+    "categoria": "フィッシング"
+  },
+  {
+    "termo": "Play to Earn",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Submission of a government-issued photo ID for identity verification during KYC or account setup processes.",
+    "categoria": "写真認証"
+  },
+  {
+    "termo": "Pocket Card",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "A gaming model where players earn cryptocurrency or digital assets through gameplay participation and achievements.",
+    "categoria": "遊んで稼ぐ"
+  },
+  {
+    "termo": "Point",
+    "tradução": "Campaign",
+    "contexto": "Primarily DEX+, Flip Fest",
+    "descrição": "Earned by completing Flip Fest trading tasks; can be used to win event rewards.",
+    "categoria": "ポケットカード"
+  },
+  {
+    "termo": "Point booster",
+    "tradução": "Campaign",
+    "contexto": "Primarily DEX+",
+    "descrição": "Points are a reward currency earned through tasks on MEXC DEX+, redeemable for airdrops or token rewards. Some campaigns also use points for event-specific prizes.",
+    "categoria": "ポイント"
+  },
+  {
+    "termo": "Position",
+    "tradução": "UI Element",
+    "contexto": "Active trading state",
+    "descrição": "A multiplier that increases the points earned, often through daily challenges, referrals, or hand rank milestones.",
+    "categoria": "ポイントブースター"
+  },
+  {
+    "termo": "Position PNL",
+    "tradução": "UI Element",
+    "contexto": "Profit/Loss tracking",
+    "descrição": "Generally displayed as a section label or data field in the trading interface. Active token holding or open trade position.",
+    "categoria": "ポジション"
+  },
+  {
+    "termo": "Position airdrop",
+    "tradução": "Reward",
+    "contexto": "Futures",
+    "descrição": "Generally displayed as a data field in the trading interface. Profit or loss realized or unrealized on current positions.",
+    "categoria": "ポジション損益"
+  },
+  {
+    "termo": "Position margin",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A type of reward given in the form of open positions in a Futures trading pair. Sometimes referred to as Position airdrop voucher.",
+    "categoria": "ポジションエアドロップ"
+  },
+  {
+    "termo": "Position mode",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The allocated funds required to hold an open position, including initial margin and any adjustments, varying by isolated or cross mode.",
+    "categoria": "ポジション証拠金"
+  },
+  {
+    "termo": "Position size",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "A Futures setting that determines how positions are managed — either hedge mode (long and short simultaneously) or one-way mode (one direction only).",
+    "categoria": "ポジションモード"
+  },
+  {
+    "termo": "Position value",
+    "tradução": "UI Element",
+    "contexto": "Active trading valuation",
+    "descrição": "Generally displayed as a data field in Futures. Number of contracts.",
+    "categoria": "ポジションサイズ"
+  },
+  {
+    "termo": "Positive funding rate",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Generally displayed as a data field in the trading interface. The current total market value of held positions.",
+    "categoria": "ポジション価値"
+  },
+  {
+    "termo": "Post-only",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A funding rate condition where long position holders pay funding fees to short position holders.",
+    "categoria": "プラスの資金調達率"
+  },
+  {
+    "termo": "Power Card",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "A limit order condition that ensures it adds liquidity as a maker; if it would immediately match and take, it cancels instead.",
+    "categoria": "POST ONLY"
+  },
+  {
+    "termo": "Pre-Market",
+    "tradução": "Trade",
+    "contexto": "Pre-market trading",
+    "descrição": "Special cards earned by reaching Futures trading volume milestones during Flip Fest, used to swap and upgrade a user's card hand for higher points and a larger share of the prize pool.",
+    "categoria": "パワーカード"
+  },
+  {
+    "termo": "Pre-crediting",
+    "tradução": "Trade",
+    "contexto": "Deposits and withdrawals",
+    "descrição": "Trading conducted before an asset is officially listed for regular trading on the platform.",
+    "categoria": "プレマーケット"
+  },
+  {
+    "termo": "Predict BTC & ETH Moves",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "The temporary addition of funds to your account before the deposit process is fully completed or confirmed.",
+    "categoria": "仮入金 (取引可能)"
+  },
+  {
+    "termo": "Prediction result",
+    "tradução": "Trade",
+    "contexto": "Event Futures",
+    "descrição": "Event title. To forecast whether the prices of Bitcoin (BTC) and Ethereum (ETH) will rise or fall within a chosen timeframe.",
+    "categoria": "BTCとETHの価格変動を予測"
+  },
+  {
+    "termo": "Price Insights",
+    "tradução": "Generic",
+    "contexto": "MEXC AI",
+    "descrição": "Outcome of the Event Futures contract (whether the trader's forecast was correct or incorrect).",
+    "categoria": "予測結果"
+  },
+  {
+    "termo": "Price protection",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Another name for the entrance to the MEXC-AI chat session, displayed on the trading page in the carousel area.",
+    "categoria": "価格分析"
+  },
+  {
+    "termo": "Price quote",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A feature that rejects TP/SL or trigger orders when the difference between the last price and the fair price exceeds a preset threshold, protecting users from executing at abnormal prices.",
+    "categoria": "価格保護"
+  },
+  {
+    "termo": "Price range",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A price quote is the current price at which an asset can be bought or sold in the market.",
+    "categoria": "価格見積もり"
+  },
+  {
+    "termo": "Primary KYC",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "The lower and upper price boundaries within which the bot places limit orders as part of the grid strategy.",
+    "categoria": "価格範囲"
+  },
+  {
+    "termo": "Prime Merchant",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "The first level of identity verification that grants users access to enhanced trading permissions and Savings events.",
+    "categoria": "初級KYC認証"
+  },
+  {
+    "termo": "Principal",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A mid-level tier in the MEXC P2P Merchant Program for merchants who have met specific performance criteria, including minimum completion rate, trading volume, and order count.",
+    "categoria": "プライム加盟店"
+  },
+  {
+    "termo": "Profit share ratio",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "The original amount of capital deposited in the MEXC Earn product.",
+    "categoria": "元本"
+  },
+  {
+    "termo": "Proof of Stake (PoS)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "The percentage of profits allocated between the Trader and Followers in copy trading.",
+    "categoria": "利益分配比率"
+  },
+  {
+    "termo": "Proof of Trust (PoT)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A consensus mechanism where validators stake cryptocurrency to participate in transaction validation and earn rewards.",
+    "categoria": "プルーフ・オブ・ステーク (PoS)"
+  },
+  {
+    "termo": "Proof of Work (PoW)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A certification or guarantee indicating the platform's commitment to asset security, backed by transparent reserve holdings.",
+    "categoria": "プルーフ・オブ・トラスト (PoT)"
+  },
+  {
+    "termo": "Protocol",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A blockchain consensus mechanism where miners solve complex computational problems to validate transactions and secure the network.",
+    "categoria": "プルーフ・オブ・ワーク (PoW)"
+  },
+  {
+    "termo": "Proxy contract",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "The underlying blockchain or staking protocol/mechanism used.",
+    "categoria": "プロトコル"
+  },
+  {
+    "termo": "Public chain",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Smart contract utilizing a proxy pattern allowing upgradability.",
+    "categoria": "プロキシコントラクト"
+  },
+  {
+    "termo": "Public sale",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A blockchain network that is open to anyone to participate in, without centralized control.",
+    "categoria": "パブリックチェーン"
+  },
+  {
+    "termo": "Purchase price",
+    "tradução": "UI Element",
+    "contexto": "Trade execution detail",
+    "descrição": "The open phase of a token sale where the general public can purchase tokens.",
+    "categoria": "パブリックセール"
+  },
+  {
+    "termo": "Put",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Generally displayed as a data field in order details. Price paid per token during purchase.",
+    "categoria": "購入価格"
+  },
+  {
+    "termo": "Quantity",
+    "tradução": "UI Element",
+    "contexto": "Order/Trade detail",
+    "descrição": "A contract or position that gives the holder the right (but not the obligation) to sell an asset at a specified price within a certain time period.",
+    "categoria": "プット"
+  },
+  {
+    "termo": "Quick Commit",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Generally displayed as a data field in order and trade details. Number of tokens involved in a trade or order.",
+    "categoria": "数量"
+  },
+  {
+    "termo": "Quick buy",
+    "tradução": "Trade",
+    "contexto": "Feature; 1-click purchase",
+    "descrição": "A fast-track option to pledge or commit funds to a project or launchpad event, often with time-limited slots for participation.",
+    "categoria": "クイック投票"
+  },
+  {
+    "termo": "Quick copy",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Feature allowing swift token purchase with 1-click.",
+    "categoria": "クイック購入"
+  },
+  {
+    "termo": "Quick stake",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A feature enabling fast and easy copying of a Trader’s trades with 1 click.",
+    "categoria": "クイックコピー"
+  },
+  {
+    "termo": "Quote unit",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "One-click staking with minimal user steps or complexity.",
+    "categoria": "クイックステーキング"
+  },
+  {
+    "termo": "ROI",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The currency used to express the price of the base asset in a trading pair.",
+    "categoria": "見積通貨単位"
+  },
+  {
+    "termo": "Race pass",
+    "tradução": "Campaign",
+    "contexto": "Race to Zero",
+    "descrição": "Return on Investment. A performance metric calculated as (Total Realized PNL ÷ Total Copy Trade Cost) × 100%, representing profit relative to investment.",
+    "categoria": "ROI"
+  },
+  {
+    "termo": "Race to Zero",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "An entry pass used in the MEXC Race to Zero event that grants one attempt at the countdown game. Earned by completing daily, leaderboard, or exclusive tasks.",
+    "categoria": "レースパス"
+  },
+  {
+    "termo": "Real-World Assets (RWA)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A shortened event name for Race to Zero: Win 1 BTC in 8 Seconds.",
+    "categoria": "ゼロレース"
+  },
+  {
+    "termo": "Real-time principal",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Physical or traditional financial assets represented on the blockchain, enabling them to be traded, financed, or used within digital markets.",
+    "categoria": "現実資産 (RWA)"
+  },
+  {
+    "termo": "Realized PNL",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Real-time principal is the current value. Interest is calculated based on the average of 3 snapshots from the previous day.",
+    "categoria": "リアルタイムの元本"
+  },
+  {
+    "termo": "Rebate",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "The actual profit or loss booked after closing a position or part of it, including fees and funding.",
+    "categoria": "実現損益"
+  },
+  {
+    "termo": "Recommended products",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A partial refund of trading fees, distributed as a reward. On MEXC, rebates appear as broker rewards based on client trading activity or as campaign incentives.",
+    "categoria": "キャッシュバック"
+  },
+  {
+    "termo": "Redeem",
+    "tradução": "UI Element",
+    "contexto": "Earn, button",
+    "descrição": "Section highlighting select Earn products recommended by the platform.",
+    "categoria": "おすすめ商品"
+  },
+  {
+    "termo": "Redeem early",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "The action of withdrawing funds from a MEXC Earn product.",
+    "categoria": "償還"
+  },
+  {
+    "termo": "Redeemed",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "An option or action to redeem Fixed Savings products before maturity, often with penalties.",
+    "categoria": "早期償還"
+  },
+  {
+    "termo": "Redeeming",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Status indicating assets have been successfully redeemed.",
+    "categoria": "償還済み"
+  },
+  {
+    "termo": "Redemption failed",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Status indicating redemption operation is in progress.",
+    "categoria": "償還中"
+  },
+  {
+    "termo": "Redemption time",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Notification that a redemption request was unsuccessful.",
+    "categoria": "償還失敗"
+  },
+  {
+    "termo": "Reducible margin",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Timestamp of when a redemption occurred.",
+    "categoria": "償還時間"
+  },
+  {
+    "termo": "Refer",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "The portion of margin that can be safely withdrawn or reduced without affecting the stability of an open position.",
+    "categoria": "減額可能証拠金"
+  },
+  {
+    "termo": "Referee",
+    "tradução": "Program",
+    "contexto": "Affiliate program",
+    "descrição": "Initiates the action of referring a new user via a referral link or code.",
+    "categoria": "被招待者"
+  },
+  {
+    "termo": "Referral code",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "A user who signs up for MEXC using another user's referral code or link.",
+    "categoria": "招待コード"
+  },
+  {
+    "termo": "Referral link",
+    "tradução": "Program",
+    "contexto": null,
+    "descrição": "A unique alphanumeric code assigned to each MEXC user that can be shared to invite others to sign up. New users enter this code during registration to link their account to the referrer.",
+    "categoria": "招待リンク"
+  },
+  {
+    "termo": "Referral reward",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A unique URL assigned to each MEXC user that automatically applies the referrer's code when clicked. New users who sign up via the link are automatically linked to the referrer.",
+    "categoria": "招待報酬"
+  },
+  {
+    "termo": "Referral task",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "Bonuses or commissions earned by inviting new users to join and trade on the platform.",
+    "categoria": "招待タスク"
+  },
+  {
+    "termo": "Referrer",
+    "tradução": "Program",
+    "contexto": "Referral program",
+    "descrição": "Task rewarding users for inviting friends to the platform or event.",
+    "categoria": "招待者"
+  },
+  {
+    "termo": "Register",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "A user who invites others to join MEXC by sharing their referral code or link, earning commissions from the referee's trading activity.",
+    "categoria": "参加登録"
+  },
+  {
+    "termo": "Repayment",
+    "tradução": "Earn",
+    "contexto": "Loans",
+    "descrição": "Generally displayed as a button. The action of enrolling in a specific MEXC event or campaign. Not to be confused with Sign Up, which refers to creating a new account.",
+    "categoria": "返済"
+  },
+  {
+    "termo": "Reset security verification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "The payment of the borrowed amount along with any accrued interest, either partially or in full.",
+    "categoria": "セキュリティ認証のリセット"
+  },
+  {
+    "termo": "Resistance level",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Process to change or recover security settings, requiring verification to prevent unauthorized modifications.",
+    "categoria": "抵抗線"
+  },
+  {
+    "termo": "Reverse conversion rate",
+    "tradução": "Trade",
+    "contexto": "Convert",
+    "descrição": "A price level where selling pressure tends to emerge, preventing the asset from rising further.",
+    "categoria": "反対方向の変換レート"
+  },
+  {
+    "termo": "Reverse exchange",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The conversion rate showing the equivalence in the reverse direction (to-coin to from-coin).",
+    "categoria": "逆交換"
+  },
+  {
+    "termo": "Reverse position",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A trading or conversion mechanism where assets are exchanged in the opposite direction of a standard pair or process.",
+    "categoria": "逆方向のポジション"
+  },
+  {
+    "termo": "Reverse position protection",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A Futures action that closes the current position and simultaneously opens an opposite position of the same size at market price.",
+    "categoria": "逆方向のポジション保護"
+  },
+  {
+    "termo": "Reverse splits",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Futures settings under Preferences. When enabled, if funds are insufficient to open the same quantity of reverse positions, the reverse order will not be filled.",
+    "categoria": "株式併合"
+  },
+  {
+    "termo": "Rewards Hub",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "Corporate actions that reduce the number of outstanding shares by consolidating multiple shares into one, affecting futures contracts settlement.",
+    "categoria": "報酬ハブ"
+  },
+  {
+    "termo": "Rewards and conversion rate",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "The page where users can view their rewards, complete tasks, and discover events. (Formerly Rewards Center; term deprecated.)",
+    "categoria": "報酬と変換レート"
+  },
+  {
+    "termo": "Rising Pool",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "MXSOL value increases over time relative to SOL as staking rewards accrue; conversion rate updates every Solana epoch (~2-3 days).",
+    "categoria": "中級プール"
+  },
+  {
+    "termo": "Risk limit",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "A mid-tier prize pool in Flip Fest for participants who meet higher criteria than the Starter Pool.",
+    "categoria": "リスク制限"
+  },
+  {
+    "termo": "Round",
+    "tradução": "Trade",
+    "contexto": "Spot DCA",
+    "descrição": "Tiered limits on position size affecting maximum leverage; larger positions lower available leverage.",
+    "categoria": "ラウンド"
+  },
+  {
+    "termo": "Running duration",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A single and complete investment process within the broader DCA plan.",
+    "categoria": "実行時間"
+  },
+  {
+    "termo": "Running mode",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "Indicates the duration since the grid bot has started running (has been active).",
+    "categoria": "実行モード"
+  },
+  {
+    "termo": "Running {grid_number}",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "Refers to how the grid bot is running, such as Close Positions on Termination or Arithmetic.",
+    "categoria": "実行中 {grid_number}"
+  },
+  {
+    "termo": "SMS verification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Displays the number of active grid bots.",
+    "categoria": "SMS認証"
+  },
+  {
+    "termo": "SMS-based dynamic verification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Identity confirmation via codes sent through text messages, commonly used for 2FA.",
+    "categoria": "SMSによる動的認証"
+  },
+  {
+    "termo": "SOL staking",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A verification method sending one-time codes via SMS for login or transaction confirmation, enhancing account security.",
+    "categoria": "SOLステーキング"
+  },
+  {
+    "termo": "ST",
+    "tradução": "Trade",
+    "contexto": "Spot trading",
+    "descrição": "A MEXC liquid staking product that allows users to stake SOL tokens in exchange for MXSOL, a liquid staking token that accumulates staking rewards over time and can be redeemed for SOL.",
+    "categoria": "ST"
+  },
+  {
+    "termo": "SafePal sub-account",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A risk warning tag indicating that a trading pair does not meet the platform’s liquidity or listing requirements and may be subject to increased monitoring or potential delisting.",
+    "categoria": "SafePalサブアカウント"
+  },
+  {
+    "termo": "Security deposit",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A sub-account integrated with SafePal hardware wallet for enhanced security, enabling cold storage management within an exchange environment.",
+    "categoria": "保証金"
+  },
+  {
+    "termo": "Seed phrase",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Funds temporarily frozen by the platform as a safeguard against rule violations. It may be required from merchants or users and can be forfeited for misconduct.",
+    "categoria": "シードフレーズ"
+  },
+  {
+    "termo": "Self-destruct",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "A sequence of words generated for wallet recovery, serving as a backup to regain access to cryptocurrency holdings if keys are lost.",
+    "categoria": "セルフデストラクト"
+  },
+  {
+    "termo": "Sell price",
+    "tradução": "UI Element",
+    "contexto": "Order detail",
+    "descrição": "Contract feature allowing it to be destroyed and removed from blockchain.",
+    "categoria": "売却価格"
+  },
+  {
+    "termo": "Settlement amount",
+    "tradução": "Trade",
+    "contexto": "Event Futures",
+    "descrição": "Generally displayed as a data field in order details. Price at which tokens were sold.",
+    "categoria": "決済金額"
+  },
+  {
+    "termo": "Settlement currency",
+    "tradução": "UI Element",
+    "contexto": "Multi-asset mode",
+    "descrição": "The final amount settled at the close of an Event Futures contract, reflecting realized profit or loss after settlement.",
+    "categoria": "決済通貨"
+  },
+  {
+    "termo": "Settlement interest rate",
+    "tradução": "UI Element",
+    "contexto": "Multi-asset mode",
+    "descrição": "Generally displayed as a data field in Multi-asset mode. The currency used to settle trades and calculate margin requirements.",
+    "categoria": "決済利率"
+  },
+  {
+    "termo": "Settlement time",
+    "tradução": "UI Element",
+    "contexto": "Multi-asset mode",
+    "descrição": "Generally displayed as a data field in Multi-asset mode. The interest rate applied during settlement of liabilities.",
+    "categoria": "決済時間"
+  },
+  {
+    "termo": "Sharpe ratio",
+    "tradução": "Trade",
+    "contexto": "Indicators",
+    "descrição": "Generally displayed as a data field in Multi-asset mode. The time when interest or liabilities are settled.",
+    "categoria": "シャープレシオ"
+  },
+  {
+    "termo": "Short",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "The Sharpe ratio measures risk-adjusted return by comparing an investment's excess return to its volatility. A higher value indicates better return for the level of risk taken.",
+    "categoria": "ショート"
+  },
+  {
+    "termo": "Short-to-mid term volatility",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "A trading stance on the price of an asset falling. Grid bots operating short profit from declining asset prices. Capitalize if it appears as a button.",
+    "categoria": "短中期のボラティリティ"
+  },
+  {
+    "termo": "Sign Up",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Expected price fluctuations or market volatility over a short to mid-term period, typically within 7–30 days.",
+    "categoria": "新規登録"
+  },
+  {
+    "termo": "Silver chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade Showdown",
+    "descrição": "Generally displayed as a button. The action of creating a new MEXC account. Not to be confused with Register, which refers to joining a specific event or campaign.",
+    "categoria": "シルバーチェスト"
+  },
+  {
+    "termo": "Simple mode",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Copy Trade Showdown's level-3 treasure chest reward.",
+    "categoria": "シンプルモード"
+  },
+  {
+    "termo": "Single-asset margin",
+    "tradução": "Trade",
+    "contexto": "Single-asset mode",
+    "descrição": "A leverage mode where the same leverage and margin settings apply to both long and short positions.",
+    "categoria": "シングルアセットマージン"
+  },
+  {
+    "termo": "Single-asset mode",
+    "tradução": "Trade",
+    "contexto": "Account asset mode",
+    "descrição": "The current account assets available as margin in single-asset mode for opening positions, valued in USD.",
+    "categoria": "シングルアセットモード"
+  },
+  {
+    "termo": "Slippage",
+    "tradução": "Trade",
+    "contexto": "Trading parameter",
+    "descrição": "A margin mode allowing only a single asset type to be used as collateral.",
+    "categoria": "スリッページ"
+  },
+  {
+    "termo": "Smart Candles",
+    "tradução": "Generic",
+    "contexto": "MEXC AI",
+    "descrição": "The difference between expected and actual trade execution price.",
+    "categoria": "スマートローソク足"
+  },
+  {
+    "termo": "Smart Chart",
+    "tradução": "Generic",
+    "contexto": "MEXC AI",
+    "descrição": "A feature under AI Analysis. It analyzes market-moving news and data in real time, estimating the probability of upcoming price movements to help you anticipate market direction.",
+    "categoria": "スマートチャート"
+  },
+  {
+    "termo": "Smart contract",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Under Smart Candles. An AI-enhanced chart view that overlays market-moving events and signals to help interpret price action more effectively.",
+    "categoria": "スマートコントラクト"
+  },
+  {
+    "termo": "Smart copy",
+    "tradução": "Trade",
+    "contexto": "MEXC AI",
+    "descrição": "A self-executing program on a blockchain that automatically enforces the terms of an agreement when predefined conditions are met.",
+    "categoria": "スマートコピー"
+  },
+  {
+    "termo": "Smart money",
+    "tradução": "Generic",
+    "contexto": "Industry-standard term for tracked wallets",
+    "descrição": "Smart copy allows users to automatically copy the trading decisions of AI models without manual execution. It is a general act of AI-powered copy trading, and the proper product name is AI Model Copy Trade.",
+    "categoria": "スマートマネー"
+  },
+  {
+    "termo": "Smart ratio",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Wallets or entities known for informed or large-volume trading activities on-chain.",
+    "categoria": "スマート比率"
+  },
+  {
+    "termo": "Snapshot",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "An option to place orders using the same funding ratio as the Trader you follow, ensuring proportional trade scaling.",
+    "categoria": "スナップショット"
+  },
+  {
+    "termo": "Sold out",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "A recorded state of a blockchain at a specific block height or time.",
+    "categoria": "完売"
+  },
+  {
+    "termo": "Sort",
+    "tradução": "UI Element",
+    "contexto": "General UI function",
+    "descrição": "Status indicating no remaining quota in the staking product; no new staking can be accepted.",
+    "categoria": "ソート"
+  },
+  {
+    "termo": "Spot",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Arrangement of items based on a chosen criterion, e.g., price or volume.",
+    "categoria": "現物"
+  },
+  {
+    "termo": "Spot DCA",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A primary trading product where assets are bought or sold for immediate settlement. Usually displayed in Title Case.",
+    "categoria": "現物DCA"
+  },
+  {
+    "termo": "Spot Grid",
+    "tradução": "Trade",
+    "contexto": "Grid Bot",
+    "descrição": "A systematic investment strategy that automatically purchases your chosen cryptocurrencies at predetermined intervals and amounts within your specified price range.",
+    "categoria": "現物グリッド"
+  },
+  {
+    "termo": "Spot airdrop",
+    "tradução": "Reward",
+    "contexto": "Spot",
+    "descrição": "The name of the Spot grid trading feature on MEXC and its entrance on the platform. The feature enables automated grid trading strategies on the Spot market.",
+    "categoria": "現物エアドロップ"
+  },
+  {
+    "termo": "Spot grid bot",
+    "tradução": "Trade",
+    "contexto": "Spot grid trading",
+    "descrição": "A type of reward distributed as free tokens directly to users' Spot wallets. It is withdrawable, unlike a bonus.",
+    "categoria": "現物グリッドボット"
+  },
+  {
+    "termo": "Spread",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A trading bot within the Spot Grid feature that executes grid trading strategies on Spot assets, capturing profits by placing buy and sell orders within a predefined grid.",
+    "categoria": "スプレッド"
+  },
+  {
+    "termo": "Stablecoin",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The difference between the buying price (bid) and selling price (ask) of an asset in the market.",
+    "categoria": "ステーブルコイン"
+  },
+  {
+    "termo": "Stake",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "A type of cryptocurrency designed to maintain a stable value, usually pegged to fiat currency or other assets.",
+    "categoria": null
+  },
+  {
+    "termo": "Staked amount",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Initiates the action of staking assets in an Earn product.",
+    "categoria": "ステーキング金額"
+  },
+  {
+    "termo": "Staking confirmation",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "The amount of crypto staked for a MEXC Earn product.",
+    "categoria": "ステーキングの確認"
+  },
+  {
+    "termo": "Staking limit reached",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "User confirmation prompt before submitting staking transaction.",
+    "categoria": "ステーキング上限に達しました"
+  },
+  {
+    "termo": "Staking paused",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Product staking limit reached; no further staking accepted.",
+    "categoria": "ステーキングが停止されました"
+  },
+  {
+    "termo": "Staking pool",
+    "tradução": "Earn",
+    "contexto": "Earn",
+    "descrição": "Temporary halt on staking activity due to updates or maintenance.",
+    "categoria": "ステーキングプール"
+  },
+  {
+    "termo": "Staking successful",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "A group of participants who combine their staking resources to increase the chances of earning rewards in Proof of Stake networks.",
+    "categoria": "ステーキング成功"
+  },
+  {
+    "termo": "Staking time",
+    "tradução": "UI Element",
+    "contexto": "Earn",
+    "descrição": "Notification confirming successful staking operation.",
+    "categoria": "ステーキング時間"
+  },
+  {
+    "termo": "Standard",
+    "tradução": "Generic",
+    "contexto": "MEXC AI",
+    "descrição": "Timestamp of when a staking was made.",
+    "categoria": "スタンダード"
+  },
+  {
+    "termo": "Standard account",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "Standard mode: responses will be simpler and easier to understand. A feature under MEXC-AI.",
+    "categoria": "一般アカウント"
+  },
+  {
+    "termo": "Standard sub-account",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "The entry-level tier in the MEXC P2P Merchant Program for users who have not applied for merchant verification.",
+    "categoria": "一般サブアカウント"
+  },
+  {
+    "termo": "Starter Pool",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "A basic sub-account type for general use, allowing separation of funds and activities from the main account.",
+    "categoria": "初級プール"
+  },
+  {
+    "termo": "Stock Futures",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The entry-level prize pool tier in Flip Fest, open to all participants.",
+    "categoria": "株式先物"
+  },
+  {
+    "termo": "Stock splits",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Stock Futures are a type of financial derivative offered by MEXC that link U.S. stocks (shares of companies listed in the United States) with the cryptocurrency market. They allow investors to use cryptocurrencies—such as USDT—as margin to trade on the price movements of U.S. stocks without actually owning the underlying shares.",
+    "categoria": "株式分割"
+  },
+  {
+    "termo": "Stocks",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Corporate actions that alter the number of outstanding shares, affecting futures contracts settlement.",
+    "categoria": "株式"
+  },
+  {
+    "termo": "Stop-limit order",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Shares of US-listed companies available for trading on MEXC, primarily as perpetual futures pairs. When used as a market zone header, written in title case as \"Stocks\".",
+    "categoria": "ストップリミット"
+  },
+  {
+    "termo": "Stop-loss (SL)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A stop order that, when triggered, places a limit order at a specified price for controlled execution.",
+    "categoria": "損切り (SL)"
+  },
+  {
+    "termo": "Stopped",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "A conditional order to close a position at a specified price to limit losses if the market moves adversely.",
+    "categoria": "停止中"
+  },
+  {
+    "termo": "Strategy sub-account",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Indicates that a bot or trading strategy has been halted or is no longer active.",
+    "categoria": "ストラテジーサブアカウント"
+  },
+  {
+    "termo": "Sub-account",
+    "tradução": "Trade",
+    "contexto": "Account type",
+    "descrição": "A specialized sub-account designed for executing specific trading strategies, allowing isolation of risks and performance tracking separate from the main account.",
+    "categoria": "サブアカウント"
+  },
+  {
+    "termo": "Sub-affiliate",
+    "tradução": "Program",
+    "contexto": "Affiliate program",
+    "descrição": "Secondary accounts under a main account.",
+    "categoria": "サブアフィリエイト"
+  },
+  {
+    "termo": "Super X-Game",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A referral relationship between two affiliates, where the sub-affiliate was recruited by another affiliate and generates additional commission for the original affiliate.",
+    "categoria": "Super X-Game"
+  },
+  {
+    "termo": "Support level",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A recurring weekly MEXC Futures trading event where users compete for a share of a prize pool by trading with 21x leverage or higher.",
+    "categoria": "支持線"
+  },
+  {
+    "termo": "Supreme chest",
+    "tradução": "Reward",
+    "contexto": "Copy Trade",
+    "descrição": "A price level where buying interest is strong enough to prevent the asset from falling further.",
+    "categoria": "シュプリームチェスト"
+  },
+  {
+    "termo": "Tail digit",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "Copy Trade Showdown's level-6 treasure chest reward.",
+    "categoria": "末尾の数字"
+  },
+  {
+    "termo": "Take-profit (TP)",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The last digit of a ticket number or transaction ID used in MEXC lottery-style events to determine winners through matching with a drawn digit.",
+    "categoria": "利確 (TP)"
+  },
+  {
+    "termo": "Tax burn",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A conditional order to close a position at a specified price to lock in profits when the market moves in the trader's favor.",
+    "categoria": "Taxバーン"
+  },
+  {
+    "termo": "Term",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A mechanism where a portion of transaction fees or tokens is permanently removed from circulation to reduce supply.",
+    "categoria": "期間"
+  },
+  {
+    "termo": "Terminate",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "The duration for which assets are staked in Fixed Savings products.",
+    "categoria": "終了"
+  },
+  {
+    "termo": "Threshold",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A button or action that ends or cancels a service, account status, or active process.",
+    "categoria": "しきい値"
+  },
+  {
+    "termo": "Ticket",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A predefined value or level that, when reached or crossed, triggers a signal, action, or change in market interpretation.",
+    "categoria": "チケット"
+  },
+  {
+    "termo": "Ticket tier",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "A virtual credential earned by completing tasks, trading, or referrals, used to join lucky draws, claim rewards, or share prize pools. Commonly used in M-Day and Launchpad events.",
+    "categoria": "チケットティア"
+  },
+  {
+    "termo": "Tie-breaker",
+    "tradução": "Campaign",
+    "contexto": null,
+    "descrição": "Different levels or categories of tickets in MEXC events, corresponding to varying reward values or probabilities, such as basic vs. premium.",
+    "categoria": "タイブレーク"
+  },
+  {
+    "termo": "Timestamp",
+    "tradução": "UI Element",
+    "contexto": "Transaction/Trade log detail",
+    "descrição": "A specific rule (often based on trading volume or registration time) used to determine the winner when two participants have the same ranking score.",
+    "categoria": "タイムスタンプ"
+  },
+  {
+    "termo": "To be committed",
+    "tradução": "UI Element",
+    "contexto": null,
+    "descrição": "The date and time when a trade or transaction occurred.",
+    "categoria": "未投票"
+  },
+  {
+    "termo": "To be repaid",
+    "tradução": "UI Element",
+    "contexto": "Staking",
+    "descrição": "Pending funds or assets earmarked for commitment to a project or event, awaiting confirmation or processing before being locked in.",
+    "categoria": "返済予定"
+  },
+  {
+    "termo": "Token migration",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Generally displayed as a data field in the loan dashboard. The total amount, including principal and interest, that a user must repay to close a loan on MEXC and release collateral.",
+    "categoria": "トークン移行"
+  },
+  {
+    "termo": "Token swap",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "The process on MEXC of updating a token to a new network or contract, often involving deposit suspension and automatic swaps for users.",
+    "categoria": "トークンスワップ"
+  },
+  {
+    "termo": "Token voucher",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "An exchange of old tokens for new ones during migrations on MEXC, typically at a 1:1 ratio, to support project upgrades.",
+    "categoria": "トークンバウチャー"
+  },
+  {
+    "termo": "Tokenomics",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "A voucher redeemable for a designated cryptocurrency, valid for 14 days from issue.",
+    "categoria": "トケノミクス"
+  },
+  {
+    "termo": "Total assets (USDT)",
+    "tradução": "UI Element",
+    "contexto": "Trading",
+    "descrição": "The economic model of a cryptocurrency, including supply, distribution, incentives, and utility within its ecosystem.",
+    "categoria": "総資産 (USDT)"
+  },
+  {
+    "termo": "Total buy",
+    "tradução": "UI Element",
+    "contexto": "Historical trading data",
+    "descrição": "The total value of user assets calculated in USDT, including funds allocated to various bots, trading positions, and available balances.",
+    "categoria": "累計購入"
+  },
+  {
+    "termo": "Total funding fees",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "The cumulative amount spent buying tokens.",
+    "categoria": "累計資金調達手数料"
+  },
+  {
+    "termo": "Total investment",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "Total funding (interest) fees accrued during operation, associated with leveraged futures positions.",
+    "categoria": "累計投資額"
+  },
+  {
+    "termo": "Total market cap",
+    "tradução": "Trade",
+    "contexto": "Market metric",
+    "descrição": "The total amount of capital invested or allocated over the lifetime of the grid bot’s operation.",
+    "categoria": "時価総額"
+  },
+  {
+    "termo": "Total sell",
+    "tradução": "UI Element",
+    "contexto": "Trading performance metric",
+    "descrição": "The overall market capitalization of all tokens on the platform or a pair.",
+    "categoria": "累計売却"
+  },
+  {
+    "termo": "Total strategy equity",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "Total cumulative amount gained from selling tokens.",
+    "categoria": "戦略総資産"
+  },
+  {
+    "termo": "Total value locked (TVL)",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "The total current value of assets held by the grid bot, including unrealized profits and losses.",
+    "categoria": "ロック総額 (TVL)"
+  },
+  {
+    "termo": "Total withdrawals",
+    "tradução": "UI Element",
+    "contexto": "Grid trading",
+    "descrição": "The total value of assets deposited in a decentralized finance (DeFi) protocol, typically used to measure its size and activity.",
+    "categoria": "累計出金額"
+  },
+  {
+    "termo": "Touch ID",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "The total amount of funds withdrawn from the grid bot during its operation.",
+    "categoria": "Touch ID"
+  },
+  {
+    "termo": "Trade",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Biometric authentication using fingerprint scanning for secure login and transaction approvals on compatible devices.",
+    "categoria": null
+  },
+  {
+    "termo": "Trade amount",
+    "tradução": "UI Element",
+    "contexto": "Monetary value of trades",
+    "descrição": "Navigates the user to the trading interface for a selected asset.",
+    "categoria": "取引金額"
+  },
+  {
+    "termo": "Trade history",
+    "tradução": "UI Element",
+    "contexto": "User activity log",
+    "descrição": "Generally displayed as a data field in the trading interface. Total monetary value of trades executed.",
+    "categoria": "取引履歴"
+  },
+  {
+    "termo": "Trade type",
+    "tradução": "UI Element",
+    "contexto": "Order classification",
+    "descrição": "Generally displayed as a section label in the trading interface. Log of all past trades executed on the platform.",
+    "categoria": "取引タイプ"
+  },
+  {
+    "termo": "Trade volume",
+    "tradução": "UI Element",
+    "contexto": "Market activity metric",
+    "descrição": "Generally displayed as a data field in order details. Classification of the trade such as buy or sell.",
+    "categoria": "取引高"
+  },
+  {
+    "termo": "Trader",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "Generally displayed as a data field in the trading interface. Quantity of tokens traded within a given period.",
+    "categoria": "トレーダー"
+  },
+  {
+    "termo": "Trading bot",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "An experienced Trader whose trades can be automatically copied by Followers in real time.",
+    "categoria": "取引ボット"
+  },
+  {
+    "termo": "Trading frequency",
+    "tradução": "Trade",
+    "contexto": "Copy Trade",
+    "descrição": "A generic term for spot/futures grid trading used in articles or CS responses.",
+    "categoria": "取引頻度"
+  },
+  {
+    "termo": "Trail variance",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "How often a Trader executes trades within a given time period, indicating activity level.",
+    "categoria": "トレーリング幅"
+  },
+  {
+    "termo": "Trailing delta",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The price distance or percentage retracement from the market high/low that triggers a trailing stop order to execute.",
+    "categoria": "トレーリング差"
+  },
+  {
+    "termo": "Trailing stop",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "The price offset or distance used in trailing stop orders to determine how far the stop price follows the market price.",
+    "categoria": "トレーリング逆指値"
+  },
+  {
+    "termo": "Transfer",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "An order that adjusts the stop price as the market moves favorably, locking in profits while allowing for further gains; trigger calculated from high/low ± variance.",
+    "categoria": "振替"
+  },
+  {
+    "termo": "Transfer pausable",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "The movement of assets between a user's own MEXC accounts, such as from Spot to Futures or Fiat to Spot.",
+    "categoria": "送金の一時停止が可能"
+  },
+  {
+    "termo": "Trigger order",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Ability for contract owner to pause token transfers.",
+    "categoria": "トリガー注文"
+  },
+  {
+    "termo": "Trigger price",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "An order that is automatically placed when the market reaches a specified trigger price, using a pre-set order price and quantity. Margin and positions are not frozen until the order is activated.",
+    "categoria": "トリガー価格"
+  },
+  {
+    "termo": "Trigger-limit",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "The predefined market price that activates a conditional order, such as TP/SL or trailing stop, to execute.",
+    "categoria": "トリガー指値"
+  },
+  {
+    "termo": "Trigger-market",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A conditional order that places a limit order when a trigger price is reached, combining trigger and limit functionalities.",
+    "categoria": "トリガー成行"
+  },
+  {
+    "termo": "TxID",
+    "tradução": "Trade",
+    "contexto": "Transaction record/Hash",
+    "descrição": "A conditional order that places a market order when a trigger price is hit, for immediate execution at prevailing prices.",
+    "categoria": "TxID"
+  },
+  {
+    "termo": "U.S. stocks",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Unique transaction hash on the blockchain for a trade or transfer.",
+    "categoria": "米国株式"
+  },
+  {
+    "termo": "USDC-M",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Shares of publicly traded companies listed on U.S. stock exchanges such as the NYSE or Nasdaq.",
+    "categoria": "USDC-M"
+  },
+  {
+    "termo": "USDT-M",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "USDC-Margined. Linear perpetual futures margined and settled in USDC, allowing stablecoin-based trading.",
+    "categoria": "USDT-M"
+  },
+  {
+    "termo": "Ultimate Pool",
+    "tradução": "Campaign",
+    "contexto": "Flip Fest",
+    "descrição": "USDT-Margined. Linear perpetual futures margined and settled in USDT, allowing stablecoin-based trading.",
+    "categoria": "究極のプール"
+  },
+  {
+    "termo": "Uncredited Deposit Return Application",
+    "tradução": "Account",
+    "contexto": "Deposits and withdrawals",
+    "descrição": "The top-tier prize pool in Flip Fest offering the biggest rewards for participants who meet the highest criteria.",
+    "categoria": "入金返却申請"
+  },
+  {
+    "termo": "Uncredited deposit",
+    "tradução": "Account",
+    "contexto": "Deposits and withdrawals",
+    "descrição": "An Uncredited Deposit Return Application is a request submitted to recover and return funds from a deposit that was not credited to your account.",
+    "categoria": "未反映入金"
+  },
+  {
+    "termo": "Under appeal",
+    "tradução": "UI Element",
+    "contexto": "P2P",
+    "descrição": "An uncredited deposit is a deposit that has been sent to the platform but has not yet been reflected in your account balance.",
+    "categoria": "申し立て中"
+  },
+  {
+    "termo": "Unmatched PNL",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Generally displayed as an order status label in P2P. Indicates that the order has been formally appealed and is currently under review by the platform.",
+    "categoria": "未照合損益"
+  },
+  {
+    "termo": "Unrealized PNL",
+    "tradução": "Trade",
+    "contexto": "Futures",
+    "descrição": "Profit or loss from active positions or orders not yet closed or paired.",
+    "categoria": "未実現損益"
+  },
+  {
+    "termo": "Up",
+    "tradução": "UI Element",
+    "contexto": "Event Futures",
+    "descrição": "The current paper profit or loss on an open position, calculated using mark price or last price. Used instead of floating PNL.",
+    "categoria": "上昇"
+  },
+  {
+    "termo": "Up payout",
+    "tradução": "Trade",
+    "contexto": "Event Futures",
+    "descrição": "A prediction that the underlying asset’s price will increase during the contract period.",
+    "categoria": "上昇賞金率"
+  },
+  {
+    "termo": "Upgradable transfer fees",
+    "tradução": "Trade",
+    "contexto": "Security/Contract attribute",
+    "descrição": "The rate of return a trader receives if the asset price goes up and their prediction in Event Futures is correct.",
+    "categoria": "送金手数料のアップグレードが可能"
+  },
+  {
+    "termo": "Upper limit",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Transfer fees set by owner can be increased or modified.",
+    "categoria": "上限"
+  },
+  {
+    "termo": "Upper stop price",
+    "tradução": "Trade",
+    "contexto": "Grid trading",
+    "descrição": "Max. price level set by the user that defines the upper boundary of the grid trading range.",
+    "categoria": "上限ストップ価格"
+  },
+  {
+    "termo": "VPA",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "A user-defined price level above which the bot will stop trading to limit losses or lock in profits.",
+    "categoria": "VPA"
+  },
+  {
+    "termo": "Value date",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "Virtual Payment Address, a unique identifier used in digital payment systems like UPI for seamless fund transfers without sharing bank details.",
+    "categoria": "起算日"
+  },
+  {
+    "termo": "Verification code",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "The date when funds are considered officially available or applied to the user account.",
+    "categoria": "認証コード"
+  },
+  {
+    "termo": "Verified Merchant",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A one-time code sent via email, SMS, or app for confirming identity during logins, transactions, or changes.",
+    "categoria": "承認済みの加盟店"
+  },
+  {
+    "termo": "Video identification",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "The first verified tier in the MEXC P2P Merchant Program, with a higher ad posting limit than Standard Account.",
+    "categoria": "動画認証"
+  },
+  {
+    "termo": "View More",
+    "tradução": "UI Element",
+    "contexto": "Button",
+    "descrição": "Real-time or recorded video submission for identity verification, often used in advanced KYC processes.",
+    "categoria": null
+  },
+  {
+    "termo": "Virtual payment address",
+    "tradução": "Account",
+    "contexto": null,
+    "descrição": "Expands or navigates to a full list or additional content beyond what is currently shown.",
+    "categoria": "仮想支払アドレス"
+  },
+  {
+    "termo": "Voice input",
+    "tradução": "Generic",
+    "contexto": "MEXC AI",
+    "descrição": "An alias for bank accounts in payment networks, enabling easy and secure transactions via apps like those supporting India's UPI system.",
+    "categoria": "音声入力"
+  },
+  {
+    "termo": "Voucher Center",
+    "tradução": "Reward",
+    "contexto": null,
+    "descrição": "Voice input allows you to ask questions using your voice instead of typing. MEXC AI converts your speech into text and provides instant, AI-generated answers.",
+    "categoria": "バウチャーセンター"
+  },
+  {
+    "termo": "White Zone",
+    "tradução": "Trade",
+    "contexto": "P2P",
+    "descrição": "A dedicated page where users can view, manage, and redeem all their vouchers, including expiry dates and claim status.",
+    "categoria": "ホワイトゾーン"
+  },
+  {
+    "termo": "Whitelist",
+    "tradução": "Account",
+    "contexto": "Withdrawal",
+    "descrição": "A manually reviewed section within MEXC P2P where ads are vetted for payment compliance and trade structure.",
+    "categoria": "ホワイトリスト"
+  },
+  {
+    "termo": "Win rate",
+    "tradução": "Trade",
+    "contexto": null,
+    "descrição": "A list of approved addresses, users, or entities that are granted specific permissions or access.",
+    "categoria": "勝率"
+  },
+  {
+    "termo": "Withdrawal network",
+    "tradução": "Account",
+    "contexto": "Withdrawal",
+    "descrição": "The percentage of trades or positions that result in a profit compared to the total number of trades executed.",
+    "categoria": "出金ネットワーク"
+  },
+  {
+    "termo": "Withdrawal runs",
+    "tradução": "Generic",
+    "contexto": "Withdrawal",
+    "descrição": "The blockchain network selected for transferring funds out of an account.",
+    "categoria": "出金処理"
+  },
+  {
+    "termo": "Yesterday's Interest",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "Multiple or sequential withdrawal processes, often referring to batch processing or repeated attempts in crypto transactions.",
+    "categoria": "昨日の利息"
+  },
+  {
+    "termo": "Yield farming",
+    "tradução": "Generic",
+    "contexto": null,
+    "descrição": "Total interest distributed to user's Spot account from 16:00 (UTC) yesterday to 15:59 (UTC) today.",
+    "categoria": "イールドファーミング"
+  },
+  {
+    "termo": "Yield rate",
+    "tradução": "Earn",
+    "contexto": null,
+    "descrição": "A DeFi strategy where users provide liquidity to protocols in exchange for rewards, often in the form of tokens or interest.",
+    "categoria": "利回り"
+  },
+  {
+    "termo": "Your Easiest Way to Crypto",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "The annualized return or interest rate earned on staked, loaned, or saved assets on MEXC, often expressed as APY in savings or lending products.",
+    "categoria": "暗号資産を手軽に始めよう"
+  },
+  {
+    "termo": "Your Zero-Fee Gateway to Infinite Opportunities",
+    "tradução": "Brand",
+    "contexto": null,
+    "descrição": "Former MEXC brand slogan.",
+    "categoria": "手数料0の入り口、無限のチャンスへ"
+  }
+]
