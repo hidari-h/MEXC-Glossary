@@ -529,7 +529,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Initiates the action of collecting an available reward or incentive.",
-    "categoria": null
+    "categoria": "Nhận"
   },
   {
     "termo": "Close",
@@ -858,7 +858,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Initiates the action of depositing assets into the user's account.",
-    "categoria": null
+    "categoria": "Nạp"
   },
   {
     "termo": "Diamond chest",
@@ -942,7 +942,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": null,
-    "categoria": null
+    "categoria": "Earn ngay"
   },
   {
     "termo": "Effective margin",
@@ -1418,7 +1418,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Generally displayed as a button. Directs users to customer support or assistance resources.",
-    "categoria": null
+    "categoria": "Truy cập"
   },
   {
     "termo": "Gold chest",
@@ -1817,7 +1817,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "The investment allocation for each asset. Total percentage must be 100%.",
-    "categoria": null
+    "categoria": "Giới thiệu"
   },
   {
     "termo": "Invitee",
@@ -1859,7 +1859,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Margin mode where each position has its own independent margin.",
-    "categoria": null
+    "categoria": "Tham gia ngay"
   },
   {
     "termo": "KYC verification",
@@ -2517,7 +2517,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "A technical analysis tool that measures the speed and strength of price movements to help identify trends or potential reversals.",
-    "categoria": null
+    "categoria": "Thêm"
   },
   {
     "termo": "Move to Earn",
@@ -3238,7 +3238,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "The portion of margin that can be safely withdrawn or reduced without affecting the stability of an open position.",
-    "categoria": null
+    "categoria": "Giới thiệu"
   },
   {
     "termo": "Referee",
@@ -3672,7 +3672,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "A type of cryptocurrency designed to maintain a stable value, usually pegged to fiat currency or other assets.",
-    "categoria": null
+    "categoria": "Stake"
   },
   {
     "termo": "Staked amount",
@@ -4022,7 +4022,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Biometric authentication using fingerprint scanning for secure login and transaction approvals on compatible devices.",
-    "categoria": null
+    "categoria": "Giao dịch"
   },
   {
     "termo": "Trade amount",
@@ -4281,7 +4281,7 @@
     "tradução": "UI Element",
     "contexto": "Button",
     "descrição": "Real-time or recorded video submission for identity verification, often used in advanced KYC processes.",
-    "categoria": null
+    "categoria": "Xem thêm"
   },
   {
     "termo": "Virtual payment address",
@@ -4373,5 +4373,26 @@
     "contexto": null,
     "descrição": "Former MEXC brand slogan.",
     "categoria": "Cổng truy cập 0 phí mở ra cơ hội vô hạn"
+  },
+  {
+    "termo": "APR",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "APR"
+  },
+  {
+    "termo": "MEXC Card",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Thẻ MEXC"
+  },
+  {
+    "termo": "TradFi",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "TradFi"
   }
 ]
