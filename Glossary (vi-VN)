@@ -1789,14 +1789,14 @@
     "tradução": "Earn",
     "contexto": null,
     "descrição": "Detailed log of interest distributions.",
-    "categoria": "Số lượng đang tạo lợi nhuận"
+    "categoria": "Số lượng tính lợi nhuận"
   },
   {
     "termo": "Interest-bearing principal",
     "tradução": "Earn",
     "contexto": null,
     "descrição": "The portion of your staked asset currently generating interest.",
-    "categoria": "Tài sản gốc đang tạo lợi nhuận"
+    "categoria": "Tài sản gốc tính lợi nhuận"
   },
   {
     "termo": "Intraday price",
