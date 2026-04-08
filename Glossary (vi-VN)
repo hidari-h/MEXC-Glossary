@@ -4429,5 +4429,12 @@
     "contexto": null,
     "descrição": null,
     "categoria": "Nạp"
+  },
+  {
+    "termo": "Privacy token",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Token ẩn danh"
   }
 ]
