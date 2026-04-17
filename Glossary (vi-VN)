@@ -4437,4 +4437,25 @@
     "descrição": null,
     "categoria": "Token ẩn danh"
   }
+  {
+    "termo": "MEXCmize every payment",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "MEXCmize mọi thanh toán"
+  },
+  {
+    "termo": "MEXCmize your liquidity",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "MEXCmize thanh khoản"
+  },
+  {
+    "termo": "CFD (Contract for Difference)",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "CFD"
+  }
 ]
