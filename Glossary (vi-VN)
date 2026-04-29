@@ -4457,5 +4457,19 @@
     "contexto": null,
     "descrição": null,
     "categoria": "CFD (Hợp đồng chênh lệch)"
+  },
+  {
+    "termo": "Institutional Loans",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Khoản vay tổ chức"
+  },
+  {
+    "termo": "Account notification",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Thông báo tài khoản"
   }
 ]
