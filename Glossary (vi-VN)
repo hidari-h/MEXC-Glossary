@@ -4471,5 +4471,26 @@
     "contexto": null,
     "descrição": null,
     "categoria": "Thông báo tài khoản"
+  },
+  {
+    "termo": "Prediction Market",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Thị trường dự đoán"
+  },
+  {
+    "termo": "Risk control",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Kiểm soát rủi ro"
+  },
+  {
+    "termo": "Prize pool",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Tổng phần thưởng"
   }
 ]
