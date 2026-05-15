@@ -4492,5 +4492,47 @@
     "contexto": null,
     "descrição": null,
     "categoria": "Tổng phần thưởng"
+  },
+  {
+    "termo": "Stock voucher",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Voucher cổ phiếu"
+  },
+  {
+    "termo": "Stock redemption voucher",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Voucher đổi cổ phiếu"
+  },
+  {
+    "termo": "Stock cash voucher",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Voucher tiền mặt cổ phiếu"
+  },
+  {
+    "termo": "Universal stock cash voucher",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Voucher tiền mặt cổ phiếu thông dụng"
+  },
+  {
+    "termo": "Select stock cash voucher",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Voucher tiền mặt cổ phiếu chỉ định"
+  },
+  {
+    "termo": "Pizza Day",
+    "tradução": null,
+    "contexto": null,
+    "descrição": null,
+    "categoria": "Pizza Day"
   }
 ]
