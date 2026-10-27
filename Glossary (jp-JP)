@@ -1,0 +1,4592 @@
+[
+  {
+    "termo": "$100M Guardian Fund",
+    "categoria": "$1億ガーディアンファンド",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "0 Thresholds. 1 M-Score. ∞ Opportunities.",
+    "categoria": "0 しきい値。1 M-Score。∞ チャンス。",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "0 fees",
+    "categoria": "手数料0",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "0-Fee Fest",
+    "categoria": "手数料0祭",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "0-fee",
+    "categoria": "手数料0",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "1-second interval chart",
+    "categoria": "1 秒間隔チャート",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "2FA",
+    "categoria": "2FA",
+    "contexto": "Account"
+  },
+  {
+    "termo": "AI Anchor",
+    "categoria": "AIキャスター",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Assistant",
+    "categoria": "AIアシスタント",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Consultant",
+    "categoria": "AIコンサルタント",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Insights",
+    "categoria": "AI分析",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "categoria": "AIモデルコピートレード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "categoria": "AIモデルコピートレード",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI News Radar",
+    "categoria": "AIニュースレーダー",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Plan",
+    "categoria": "AIプラン",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Radar",
+    "categoria": "AIレーダー",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Rankings",
+    "categoria": "AIランキング",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Recommendation",
+    "categoria": "AIによる推奨",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Review",
+    "categoria": "AI分析",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Select List",
+    "categoria": "AIセレクトリスト",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Signal",
+    "categoria": "AIシグナル",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Strategy",
+    "categoria": "AIストラテジー",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Toolbox",
+    "categoria": "AIツールボックス",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Trends",
+    "categoria": "AIトレンド",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "API broker",
+    "categoria": "APIブローカー",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "API key",
+    "categoria": "APIキー",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "API market makers",
+    "categoria": "APIマーケットメイカー",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "APR",
+    "categoria": "APR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "APR booster",
+    "categoria": "APRブースター券",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "APY",
+    "categoria": "APY",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Access restricted",
+    "categoria": "アクセス制限",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Account asset modes",
+    "categoria": "アカウントアセットモード",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Account manager",
+    "categoria": "アカウントマネージャー",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Account notification",
+    "categoria": "アカウント通知",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Accurate",
+    "categoria": "予測的中",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activate",
+    "categoria": "有効化",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activation price",
+    "categoria": "起動価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Activation successful",
+    "categoria": "有効になりました",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activation time",
+    "categoria": "起動時間",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Active order",
+    "categoria": "有効な注文",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Add margin",
+    "categoria": "証拠金を追加",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Additional verification",
+    "categoria": "追加認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Advanced KYC",
+    "categoria": "上級KYC認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Advanced Mode",
+    "categoria": "アドバンスモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advanced TP/SL",
+    "categoria": "利確/損切り (上級)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advertisement (Ad)",
+    "categoria": "広告",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advertiser",
+    "categoria": "広告主",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Affiliate",
+    "categoria": "アフィリエイト",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Aggressive",
+    "categoria": "積極的",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Airdrop",
+    "categoria": "エアドロップ",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Airdrop+",
+    "categoria": "Airdrop+",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Allocation ratio",
+    "categoria": "配分比率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Alpha",
+    "categoria": "Alpha",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Alpha Manager",
+    "categoria": "Alphaマネージャー",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Alpha Plaza",
+    "categoria": "Alpha Plaza",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Alpha Strategy",
+    "categoria": "Alphaストラテジー",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Alpha Trader",
+    "categoria": "Alpha Trader",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Alpha Trader Experience Card",
+    "categoria": "Alpha Trader 体験カード",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Altcoin",
+    "categoria": "アルトコイン",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Analysis",
+    "categoria": "分析",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Anti-phishing code",
+    "categoria": "フィッシング対策コード",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Appeal",
+    "categoria": "申し立て",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Appellant",
+    "categoria": "申立人",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Appellee",
+    "categoria": "被申立人",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "April",
+    "categoria": "4月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Arbitrage",
+    "categoria": "裁定取引",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Arithmetic",
+    "categoria": "等差",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Ask1",
+    "categoria": "最良売り気配",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Assessment Zone",
+    "categoria": "審査ゾーン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "August",
+    "categoria": "8月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Authenticator app",
+    "categoria": "認証アプリ",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Auto Take Profit",
+    "categoria": "自動利確",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Auto margin addition",
+    "categoria": "自動証拠金追加",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Auto-Earn",
+    "categoria": "自動Earn",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Auto-deleveraging (ADL)",
+    "categoria": "自動デレバレッジ (ADL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Automated market maker (AMM)",
+    "categoria": "自動マーケットメイカー (AMM)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Automatic",
+    "categoria": "自動",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Available",
+    "categoria": "利用可能",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Available margin",
+    "categoria": "利用可能な証拠金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average close price",
+    "categoria": "平均決済価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average entry price",
+    "categoria": "平均オープン価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average purchase value",
+    "categoria": "平均購入価値",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "BIZ Merchant",
+    "categoria": "BIZ加盟店",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "BTTS",
+    "categoria": "BTTS",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "BYDFi",
+    "categoria": "BYDFi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Balance",
+    "categoria": "残高",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Bankruptcy price",
+    "categoria": "破産価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Base APR",
+    "categoria": "基本APR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Base crypto",
+    "categoria": "基軸暗号資産",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Battle the 0-fee way. Win as one with stocks.",
+    "categoria": "手数料0で戦おう。株式でひとつになって勝利をつかもう。",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Bid1",
+    "categoria": "最良買い気配",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Bitcoin inscription",
+    "categoria": "ビットコインインスクリプション",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Blacklist",
+    "categoria": "ブラックリスト",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Bollinger Bands",
+    "categoria": "ボリンジャーバンド",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Bonus",
+    "categoria": "ボーナス",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Bonus APR",
+    "categoria": "ボーナスAPR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Both Teams to Score",
+    "categoria": "両チームが得点",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Broker sub-account",
+    "categoria": "ブローカーサブアカウント",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Bronze chest",
+    "categoria": "ブロンズチェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Buy Low",
+    "categoria": "Buy Low",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Buy if Touched",
+    "categoria": "Buy If Touched",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Buy price",
+    "categoria": "購入価格",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Buy to close short",
+    "categoria": "ショート決済 (買い)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Buy to open long",
+    "categoria": "ロングをオープン (買い)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CCI",
+    "categoria": "CCI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "CFD",
+    "categoria": "CFD",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CFD (Contract for Difference)",
+    "categoria": "CFD (差金決済取引)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CPI",
+    "categoria": "CPI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Call",
+    "categoria": "コール",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cancel All",
+    "categoria": "すべてキャンセル",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Candlestick",
+    "categoria": "ローソク足",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Candlestick chart",
+    "categoria": "ローソク足チャート",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Capital gain",
+    "categoria": "キャピタルゲイン",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Capital loss",
+    "categoria": "キャピタルロス",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cash Deposit to Bank",
+    "categoria": "銀行への現金入金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cash Zone",
+    "categoria": "キャッシュゾーン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cash in Person",
+    "categoria": "対面での現金支払い",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cashback",
+    "categoria": "キャッシュバック",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Chase limit order",
+    "categoria": "追跡指値注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Check-in",
+    "categoria": "チェックイン",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Chest",
+    "categoria": "チェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Circuit breaker",
+    "categoria": "サーキットブレーカー",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Circulating supply",
+    "categoria": "循環供給量",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Claim",
+    "categoria": "受け取る",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Close",
+    "categoria": "決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close All",
+    "categoria": "すべて決済",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Close long",
+    "categoria": "ロングを決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close position",
+    "categoria": "ポジションを決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close price",
+    "categoria": "決済価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close short",
+    "categoria": "ショートを決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Closing PNL",
+    "categoria": "決済損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cloud mining",
+    "categoria": "クラウドマイニング",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Coin-M",
+    "categoria": "Coin-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Coin-Margined",
+    "categoria": "Coin-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Collateral",
+    "categoria": "担保資産",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Collateral crypto",
+    "categoria": "担保暗号資産",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Combo",
+    "categoria": "コンボ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Combo",
+    "categoria": "コンボ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Combo Buff",
+    "categoria": "コンボブースト",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Combo Card",
+    "categoria": "コンボカード",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Comeback Trader Fest",
+    "categoria": "おかえりトレーダーフェス",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commission",
+    "categoria": "キャッシュバック",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission rate",
+    "categoria": "キャッシュバック率",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission ratio",
+    "categoria": "キャッシュバック率",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission sharing rate",
+    "categoria": "キャッシュバック分配率",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission sharing ratio",
+    "categoria": "キャッシュバック分配率",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Committed",
+    "categoria": "投票済み",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commodities",
+    "categoria": "コモディティ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Commodity Carnival",
+    "categoria": "コモディティ祭",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commodity futures",
+    "categoria": "コモディティ先物",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Compare",
+    "categoria": "比較",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contract (cont.)",
+    "categoria": "枚",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract amount",
+    "categoria": "先物金額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contract for Difference",
+    "categoria": "差金決済取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract settlement",
+    "categoria": "先物取引決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract size",
+    "categoria": "先物サイズ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract verified",
+    "categoria": "コントラクト検証済み",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contracts",
+    "categoria": "コントラクト数",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contrarian",
+    "categoria": "逆張り",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Conversion rate",
+    "categoria": "変換レート",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Convert",
+    "categoria": "変換",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy Trade",
+    "categoria": "コピートレード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy Trade Showdown",
+    "categoria": "コピートレード対決",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy trade bonus",
+    "categoria": "コピートレードボーナス",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Corporate bond",
+    "categoria": "社債",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Correct Score",
+    "categoria": "正確なスコア",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Create bot",
+    "categoria": "ボットを作成",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Cross margin mode",
+    "categoria": "クロスマージンモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cross-chain",
+    "categoria": "クロスチェーン",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cross-chain bridge",
+    "categoria": "クロスチェーンブリッジ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cross-region arbitrage",
+    "categoria": "地域間裁定",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crude oil",
+    "categoria": "原油",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Crypto",
+    "categoria": "暗号資産",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crypto exchange",
+    "categoria": "暗号資産取引所",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crypto tax calculator",
+    "categoria": "暗号資産税計算機",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Current market cap",
+    "categoria": "現在の時価総額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current market price",
+    "categoria": "現在の市場価格",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current positions",
+    "categoria": "現在のポジション",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current tokens",
+    "categoria": "現在のトークン",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom",
+    "categoria": "カスタム",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom buy quantity (%)",
+    "categoria": "カスタム購入数量 (%)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom sell quantity (%)",
+    "categoria": "カスタム売却数量 (%)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Customer Service",
+    "categoria": "カスタマーサービス",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "DCA interval",
+    "categoria": "DCA間隔",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DCA plan",
+    "categoria": "DCAプラン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DEX trading",
+    "categoria": "DEX取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DEX+",
+    "categoria": "DEX+",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DMI",
+    "categoria": "DMI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Daily Hustle",
+    "categoria": "デイリーチャレンジ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Daily PNL (USDT)",
+    "categoria": "日次損益 (USDT)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Daily interest rate",
+    "categoria": "日利",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Daily lucky draw",
+    "categoria": "日次ラッキー抽選会",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Daily picks",
+    "categoria": "本日の厳選",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Deactivated",
+    "categoria": "無効化済み",
+    "contexto": "Account"
+  },
+  {
+    "termo": "December",
+    "categoria": "12月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Decentralized application (DApp)",
+    "categoria": "分散型アプリケーション(DApp)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Decentralized exchange (DEX)",
+    "categoria": "分散型取引所 (DEX)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Delist",
+    "categoria": "上場廃止",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Demo Trading",
+    "categoria": "デモ取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Deposit",
+    "categoria": "入金",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Deposit address",
+    "categoria": "入金アドレス",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Diamond chest",
+    "categoria": "ダイヤモンドチェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Differential",
+    "categoria": "差分率",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Digital Rupee",
+    "categoria": "デジタル・ルピー",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Digital Rupee wallet",
+    "categoria": "デジタル・ルピーウォレット",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Direct downline affiliate",
+    "categoria": "直属の下位アフィリエイト",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Direct referral",
+    "categoria": "直接招待した友達",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Direction",
+    "categoria": "方向",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Directional Movement Index",
+    "categoria": "方向性指数",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Discover Your Wall Street DNA",
+    "categoria": "ウォール街のDNAを発見しよう",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Dispute",
+    "categoria": "紛争",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Dollar cost averaging (DCA)",
+    "categoria": "ドルコスト平均法 (DCA)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Down",
+    "categoria": "下落",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Down payout",
+    "categoria": "下落賞金率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Downline affiliate",
+    "categoria": "下位アフィリエイト",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Dual Investment",
+    "categoria": "デュアル投資",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Dutch Auction",
+    "categoria": "ダッチオークション",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "EDD",
+    "categoria": "EDD",
+    "contexto": "Account"
+  },
+  {
+    "termo": "EMA",
+    "categoria": "EMA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "EPS",
+    "categoria": "EPS",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Early access",
+    "categoria": "早期アクセス",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Early settlement",
+    "categoria": "早期決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Earn Now",
+    "categoria": "今すぐEarn",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Earn Plus",
+    "categoria": "Earn Plus",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Earn more. Stay flexible.",
+    "categoria": "もっとEarn、もっと柔軟に。",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Earnings per share",
+    "categoria": "1株当たりの利益",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Effective margin",
+    "categoria": "有効保証金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Elite",
+    "categoria": "エリート",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Elite Pool",
+    "categoria": "エリートプール",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Email verification",
+    "categoria": "メールアドレス認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Enhanced DCA",
+    "categoria": "強化型DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Enhanced due diligence",
+    "categoria": "強化デューデリジェンス",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Enrollment",
+    "categoria": "登録",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Entire position",
+    "categoria": "ポジション全体",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Entry price",
+    "categoria": "オープン価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Equity",
+    "categoria": "資産",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Equity",
+    "categoria": "株式",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Equity value",
+    "categoria": "アカウント総資産",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Escrow",
+    "categoria": "エスクロー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Est max allocation",
+    "categoria": "推定最大割当数",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Est.",
+    "categoria": "推定",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Estimated APR (Est. APR)",
+    "categoria": "推定APR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Estimated PNL (Est. PNL)",
+    "categoria": "推定損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Estimated Payoff (Est. Payoff)",
+    "categoria": "推定ペイオフ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Estimated profit per grid (Est. profit per grid)",
+    "categoria": "グリッドあたりの推定利益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Event",
+    "categoria": "イベント",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Event Futures",
+    "categoria": "イベント先物",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Exchange rate",
+    "categoria": "レート",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Expected PNL",
+    "categoria": "推定損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Experience Card",
+    "categoria": "体験カード",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Exponential Moving Average",
+    "categoria": "指数移動平均",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "FAQ",
+    "categoria": "よくある質問",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Face ID",
+    "categoria": "Face ID",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Facial recognition",
+    "categoria": "顔認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Failed to load",
+    "categoria": "読み込み失敗",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Fair price",
+    "categoria": "公正価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Favorites",
+    "categoria": "お気に入り",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Fear & Greed Index",
+    "categoria": "恐怖と欲望指数",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Featured",
+    "categoria": "注目",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Featured ad",
+    "categoria": "注目の広告",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "February",
+    "categoria": "2月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Fee voucher",
+    "categoria": "手数料バウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Fiat",
+    "categoria": "法定通貨",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fiat Deposit Fest",
+    "categoria": "法定通貨入金フェス",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Fill price",
+    "categoria": "約定価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fill-Or-Kill (FOK)",
+    "categoria": "Fill-Or-Kill (FOK)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Final offering price",
+    "categoria": "最終発行価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "First in market",
+    "categoria": "世界初上場",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fixed Loans",
+    "categoria": "固定ローン",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Fixed Savings",
+    "categoria": "固定セービング",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Fixed-price advertisement",
+    "categoria": "固定価格広告",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flash Close",
+    "categoria": "フラッシュクローズ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flash Trading",
+    "categoria": "フラッシュトレード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flex Now",
+    "categoria": "今すぐ共有",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Flex Strategy",
+    "categoria": "ストラテジーを共有",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Flexible Loans",
+    "categoria": "フレキシブルローン",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flexible Savings",
+    "categoria": "フレキシブルセービング",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flexible redemption",
+    "categoria": "フレキシブル償還",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flip Fest",
+    "categoria": "フリップ祭",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Flipping",
+    "categoria": "めくる",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Floating-price ad",
+    "categoria": "変動価格広告",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Floor price",
+    "categoria": "フロア価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follow trade",
+    "categoria": "取引をフォロー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follower",
+    "categoria": "フォロワー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follower ID",
+    "categoria": "フォロワーID",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Forex",
+    "categoria": "外国為替",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Forex Perpetual Futures",
+    "categoria": "外国為替無期限先物",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Freezable",
+    "categoria": "凍結可能",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Friday",
+    "categoria": "金曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Frozen asset",
+    "categoria": "ロック資産",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Fully diluted shares",
+    "categoria": "完全希薄化後株式数",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fully diluted valuation (FDV)",
+    "categoria": "完全希薄後時価総額 (FDV)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Fully staked",
+    "categoria": "ステーキング枠満了",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Funding History",
+    "categoria": "資金調達履歴",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Funding fees",
+    "categoria": "資金調達手数料",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Funding rate",
+    "categoria": "資金調達率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "FutureProof",
+    "categoria": "FutureProof",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Futures",
+    "categoria": "先物",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures DCA",
+    "categoria": "先物DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Earn",
+    "categoria": "先物Earn",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Futures Grid",
+    "categoria": "先物グリッド",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Grid AI",
+    "categoria": "先物グリッドAI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Insurance Fund",
+    "categoria": "先物保険基金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Leaderboard",
+    "categoria": "先物リーダーボード",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Futures M-Day",
+    "categoria": "先物M-Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Futures bonus",
+    "categoria": "先物ボーナス",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Futures grid bot",
+    "categoria": "先物グリッドボット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures trading",
+    "categoria": "先物取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "GEO Pay",
+    "categoria": "GEO Pay",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gas (usual)",
+    "categoria": "ガス (通常)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gem",
+    "categoria": "ジェム",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Gemstone Atelier",
+    "categoria": "ジェム工房",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Get $10,000",
+    "categoria": "$10,000を獲得",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Get Help",
+    "categoria": "サポートを受ける",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Global Football Prediction Masters",
+    "categoria": "グローバルサッカー予測マスターズ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Go",
+    "categoria": "進む",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Gold",
+    "categoria": "金 (ゴールド)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gold Miner Rush",
+    "categoria": "ゴールド採掘ラッシュ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Gold chest",
+    "categoria": "ゴールドチェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Golden Cross",
+    "categoria": "ゴールデンクロス",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Good-Till-Canceled (GTC)",
+    "categoria": "Good-Till-Cancelled (GTC)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Goodie bag",
+    "categoria": "福袋",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Google Authentication",
+    "categoria": "Google認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Google Authenticator",
+    "categoria": "Google Authenticator",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Government bond",
+    "categoria": "国債",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Gradient",
+    "categoria": "勾配",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Graduating",
+    "categoria": "まもなく上場",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Grid count",
+    "categoria": "グリッド数",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid order ID",
+    "categoria": "グリッド注文 ID",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid parameters",
+    "categoria": "グリッドパラメータ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit",
+    "categoria": "グリッド利益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit count",
+    "categoria": "グリッド利益数",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit history",
+    "categoria": "グリッド利益履歴",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid trading",
+    "categoria": "グリッド取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Guaranteed stop-loss (Guaranteed SL)",
+    "categoria": "保証損切り",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Guardian Fund",
+    "categoria": "ガーディアンファンド",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Hand Rank",
+    "categoria": "ハンドランク",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Haptic feedback",
+    "categoria": "触覚フィードバック",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hard fork",
+    "categoria": "ハードフォーク",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hash rate",
+    "categoria": "ハッシュレート",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Heat map",
+    "categoria": "ヒートマップ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hedge mode",
+    "categoria": "ヘッジモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Help Center",
+    "categoria": "ヘルプセンター",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Hide other pairs",
+    "categoria": "他の取引ペアを非表示にする",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "High frequency",
+    "categoria": "高頻度",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "High risk",
+    "categoria": "高リスク",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Historical data",
+    "categoria": "履歴データ",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Hold and Earn",
+    "categoria": "保有して獲得",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Holder",
+    "categoria": "保有者",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Honeypot",
+    "categoria": "ハニーポット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Hot Futures Challenge",
+    "categoria": "人気先物チャレンジ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Hot Searches",
+    "categoria": "上位検索",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Hourly interest rate",
+    "categoria": "1時間あたりの金利",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "IPO Express",
+    "categoria": "IPO Express",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "IPO base price",
+    "categoria": "IPO基準価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Idle asset",
+    "categoria": "余剰資産",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Immediate-Or-Cancel (IOC)",
+    "categoria": "Immediate-or-Cancel (IOC)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Impermanent loss",
+    "categoria": "変動損失",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Implied valuation",
+    "categoria": "推定評価額",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "In negotiation",
+    "categoria": "交渉中",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Inaccurate",
+    "categoria": "予測的中せず",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Index",
+    "categoria": "指数",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Index Futures",
+    "categoria": "指数先物",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Index price",
+    "categoria": "インデックス価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Indicative price",
+    "categoria": "参考価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Infinity Arena",
+    "categoria": "インフィニティ・アリーナ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Initial LTV",
+    "categoria": "初期LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Initial investment amount",
+    "categoria": "初期投資額",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial listing",
+    "categoria": "世界初上場",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial margin",
+    "categoria": "初期証拠金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial margin rate",
+    "categoria": "初期証拠金率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Innovation Zone",
+    "categoria": "イノベーションゾーン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Instant Convert",
+    "categoria": "即時変換",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Institutional Loans",
+    "categoria": "機関投資家向けローン",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Institutional sub-accounts",
+    "categoria": "機関投資家向けサブアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Insufficient balance",
+    "categoria": "残高不足",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Insurance Fund",
+    "categoria": "保険基金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Intelligence for every opportunity",
+    "categoria": "あらゆるチャンスにインテリジェンスを",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Interest",
+    "categoria": "利息",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest accrued",
+    "categoria": "累計利息",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest accrues on",
+    "categoria": "利息の発生開始",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest amount",
+    "categoria": "利息金額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest distributed",
+    "categoria": "利息配布済み",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest settlement",
+    "categoria": "利息決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Interest settlement history",
+    "categoria": "利息決済履歴",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Interest summary",
+    "categoria": "利息の概要",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest-bearing amount",
+    "categoria": "利息付与対象額",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest-bearing principal",
+    "categoria": "利息付与対象元本",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Intraday price",
+    "categoria": "当日価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Investment allocation",
+    "categoria": "投資配分",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Invite",
+    "categoria": "招待",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Invitee",
+    "categoria": "被招待者",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Inviter",
+    "categoria": "招待者",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Iron chest",
+    "categoria": "アイアンチェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Isolated margin",
+    "categoria": "分離マージン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Isolated margin mode",
+    "categoria": "分離マージンモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "January",
+    "categoria": "1月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Join Now",
+    "categoria": "今すぐ参加",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "July",
+    "categoria": "7月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "June",
+    "categoria": "6月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "KDJ",
+    "categoria": "KDJ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "KYC verification",
+    "categoria": "KYC認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Kickstarter",
+    "categoria": "Kickstarter",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "LTV",
+    "categoria": "LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Last price",
+    "categoria": "直近価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Launchpad",
+    "categoria": "Launchpad",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Launchpool",
+    "categoria": "Launchpool",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Lead Trade",
+    "categoria": "リードトレード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Legacy Merchant",
+    "categoria": "レガシー加盟店",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Let AI Choose",
+    "categoria": "AIに選ばせる",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Let AI Monitor Markets",
+    "categoria": "AIに市場をモニタリングさせる",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Leverage mode",
+    "categoria": "レバレッジモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Leverage multiplier",
+    "categoria": "レバレッジ倍率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability",
+    "categoria": "負債",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability repayment (collection)",
+    "categoria": "負債返済 (回収)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability repayment (payment)",
+    "categoria": "負債返済 (支払い)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit Convert",
+    "categoria": "指値変換",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit order",
+    "categoria": "指値注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit price",
+    "categoria": "指値価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limitless gains. Boundless glory.",
+    "categoria": "無限の利益。果てしない栄光。",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Liquidation",
+    "categoria": "強制決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidation LTV",
+    "categoria": "強制決済 LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Liquidity locked",
+    "categoria": "流動性ロック",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidity pool",
+    "categoria": "流動性プール",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidity provider",
+    "categoria": "流動性提供者",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Listed",
+    "categoria": "上場済み",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Lite App",
+    "categoria": "Liteアプリ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Live market pass",
+    "categoria": "ライブ市場パス",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Live trading",
+    "categoria": "ライブ取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Loan crypto",
+    "categoria": "借り入れ暗号資産",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Loan-to-value ratio (LTV)",
+    "categoria": "Loan-to-value ratio (LTV)",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Lockup system",
+    "categoria": "ロックアップシステム",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Long",
+    "categoria": "ロング",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Long-term volatility",
+    "categoria": "長期的なボラティリティ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Long/short ratio",
+    "categoria": "ロング/ショート比率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Loss coverage",
+    "categoria": "損失補償",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Low frequency",
+    "categoria": "低頻度",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Low risk",
+    "categoria": "低リスク",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Low-risk mode",
+    "categoria": "低リスクモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lower limit",
+    "categoria": "下限",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lower stop price",
+    "categoria": "下限ストップ価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lucky claw",
+    "categoria": "ラッキークレーン",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "M-Day",
+    "categoria": "M-Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "M-Score",
+    "categoria": "M-Score",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MA",
+    "categoria": "MA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MACD",
+    "categoria": "MACD",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MEV defense",
+    "categoria": "MEV ディフェンス",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC 0808",
+    "categoria": "MEXC 0808",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC 0808: Stock Season",
+    "categoria": "MEXC 0808：株式シーズン",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC AI",
+    "categoria": "MEXC AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Affiliate Program",
+    "categoria": "MEXCアフィリエイトプログラム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC CLI",
+    "categoria": "MEXC CLI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Card",
+    "categoria": "MEXCカード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC CoLab",
+    "categoria": "MEXC CoLab",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Digest",
+    "categoria": "MEXC ダイジェスト",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Earn",
+    "categoria": "MEXC Earn",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "MEXC Event Center",
+    "categoria": "MEXCイベントセンター",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC Global Ambassador Program",
+    "categoria": "MEXCグローバルアンバサダープログラム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Global Card",
+    "categoria": "MEXCグローバルカード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC Kickoff Fest",
+    "categoria": "MEXC キックオフフェスタ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC Learn",
+    "categoria": "MEXC 学ぶ",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Learn UGC Creator Program",
+    "categoria": "MEXC学ぶ UGCクリエイタープログラム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Loans",
+    "categoria": "MEXCローン",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "MEXC Mirror Credit",
+    "categoria": "MEXC ミラークレジット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC P2P Merchant Program",
+    "categoria": "MEXC P2P加盟店プログラム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Referral Ambassador Program",
+    "categoria": "MEXC招待アンバサダープログラム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Referral Program",
+    "categoria": "MEXC招待プログラム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Square",
+    "categoria": "MEXC Square",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Stock Compare",
+    "categoria": "MEXC株式比較",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC User Agreement",
+    "categoria": "MEXC利用規約",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MEXC VIP",
+    "categoria": "MEXC VIP",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Win",
+    "categoria": "MEXC Win",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC × ether.fi Card",
+    "categoria": "MEXC × ether.fi カード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC-AI",
+    "categoria": "MEXC-AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXCer",
+    "categoria": "MEXCer",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize every payment",
+    "categoria": "すべての支払いをMEXCmizeしよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your access",
+    "categoria": "あなたのアクセスをMEXCmizeしよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your earnings",
+    "categoria": "あなたの収益をMEXCmizeしよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your liquidity",
+    "categoria": "あなたの流動性をMEXCmizeしよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your opportunities",
+    "categoria": "あなたの機会をMEXCmizeしよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your predictions",
+    "categoria": "あなたの予測をMEXCmizeしよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MStars",
+    "categoria": "MStars",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MX Point",
+    "categoria": "MXポイント",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "MX Zone",
+    "categoria": "MXゾーン",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MXSOL",
+    "categoria": "MXSOL",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Main account",
+    "categoria": "メインアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Mainnet merge",
+    "categoria": "メインネット統合",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Maintenance margin",
+    "categoria": "維持証拠金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maintenance margin rate (MMR)",
+    "categoria": "維持証拠金率 (MMR)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maker",
+    "categoria": "メイカー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Manual release",
+    "categoria": "手動リリース",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Manually create",
+    "categoria": "手動で作成",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "March",
+    "categoria": "3月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Margin call LTV",
+    "categoria": "マージンコールLTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Margin ratio",
+    "categoria": "証拠金率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Margin utilization",
+    "categoria": "証拠金使用率",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mark price",
+    "categoria": "マーク価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market",
+    "categoria": "市場",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market cap",
+    "categoria": "時価総額",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market cap change over {time}",
+    "categoria": "時価総額の変動 {time}",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market maker",
+    "categoria": "マーケットメイカー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market maker account",
+    "categoria": "マーケットメイカーアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Market order",
+    "categoria": "成行注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Markets",
+    "categoria": "市場",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Master account",
+    "categoria": "マスターアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Masters of Prediction",
+    "categoria": "予測の達人",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Matched PNL",
+    "categoria": "照合済み損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Matched orders",
+    "categoria": "約定済み注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maturity date",
+    "categoria": "満期日",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Max.",
+    "categoria": "最大",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Maximum drawdown (Max. drawdown)",
+    "categoria": "最大ドローダウン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maximum sell ratio restriction (Max. sell ratio restriction)",
+    "categoria": "最大売却比率の制限",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maximum supply (Max. supply)",
+    "categoria": "最大供給量",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "May",
+    "categoria": "5月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Maybe Later",
+    "categoria": "また後で",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Medium risk",
+    "categoria": "中リスク",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Mega Cash Reward",
+    "categoria": "メガキャッシュ報酬",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Meme+",
+    "categoria": "Meme+",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant",
+    "categoria": "加盟店",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant Center",
+    "categoria": "加盟店センター",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant Portal",
+    "categoria": "加盟店ポータル",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merkle tree",
+    "categoria": "マークルツリー",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MetaMask",
+    "categoria": "MetaMask",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Metals",
+    "categoria": "金属",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Metaverse",
+    "categoria": "メタバース",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mid-term volatility",
+    "categoria": "中期的なボラティリティ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Midterm Market Rush",
+    "categoria": "中間選挙マーケットラッシュ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Mining pool",
+    "categoria": "マイニングプール",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mintable",
+    "categoria": "ミント可能",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Mobile sign-up",
+    "categoria": "電話番号で新規登録",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Modifiable balances",
+    "categoria": "残高の変更が可能",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Momentum indicator",
+    "categoria": "モメンタム指標",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Monday",
+    "categoria": "月曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moneyline",
+    "categoria": "勝敗予測",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "More",
+    "categoria": "もっと見る",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Move to Earn",
+    "categoria": "動いて稼ぐ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moving Average",
+    "categoria": "移動平均",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moving Average Convergence/Divergence",
+    "categoria": "移動平均収束/発散法",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Multi-account operation",
+    "categoria": "複数アカウントの運用",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Multi-asset",
+    "categoria": "マルチアセット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-asset margin",
+    "categoria": "マルチアセットマージン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-asset mode",
+    "categoria": "マルチアセットモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-level commission system",
+    "categoria": "マルチレベルキャッシュバックシステム",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Multi-signature wallet",
+    "categoria": "マルチシグ・ウォレット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "My Rewards",
+    "categoria": "私の報酬",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "My holdings",
+    "categoria": "私の保有量",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Mystery box",
+    "categoria": "ミステリーボックス",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Negative balance",
+    "categoria": "マイナス残高",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Negative funding rate",
+    "categoria": "マイナスの資金調達率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Net deposit",
+    "categoria": "純入金",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Net transfer",
+    "categoria": "純振替",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Neutral",
+    "categoria": "中立",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "No lock-up period",
+    "categoria": "ロックアップ期間なし",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Nominal value",
+    "categoria": "名目価値",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-freezable",
+    "categoria": "凍結不可",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-fungible token (NFT)",
+    "categoria": "非代替性トークン (NFT)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-instant payment",
+    "categoria": "非即時決済",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-lockup system",
+    "categoria": "非ロックアップシステム",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Non-mintable",
+    "categoria": "ミント不可",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "November",
+    "categoria": "11月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "OI",
+    "categoria": "OI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "October",
+    "categoria": "10月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Offboarding",
+    "categoria": "利用終了手続き",
+    "contexto": "Account"
+  },
+  {
+    "termo": "On-Chain",
+    "categoria": "オンチェーン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "On-Chain Earn",
+    "categoria": "オンチェーンEarn",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "One-Cancels-the-Other (OCO)",
+    "categoria": "One-Cancels-the-Other (OCO)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "One-way mode",
+    "categoria": "ワンウェイモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open grid orders",
+    "categoria": "現在のグリッド注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open interest",
+    "categoria": "未決済建玉",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open long",
+    "categoria": "ロングをオープン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open order",
+    "categoria": "未約定注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open position",
+    "categoria": "オープンポジション",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open short",
+    "categoria": "ショートをオープン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Opportunity Compass",
+    "categoria": "Opportunity Compass",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Order functions",
+    "categoria": "注文機能",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Order history",
+    "categoria": "注文履歴",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Outstanding",
+    "categoria": "未払い",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Overbought",
+    "categoria": "買われすぎ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Overriding commission",
+    "categoria": "差分率キャッシュバック",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Oversold",
+    "categoria": "売られすぎ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Owner percentage",
+    "categoria": "所有者の割合",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "P/E ratio",
+    "categoria": "PER",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "P2P",
+    "categoria": "P2P",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "P2P discount coupon",
+    "categoria": "P2P割引クーポン",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "P2P trading",
+    "categoria": "P2P取引",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL",
+    "categoria": "損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL margin",
+    "categoria": "損益証拠金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL rate",
+    "categoria": "損益率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PPI",
+    "categoria": "PPI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Palm recognition",
+    "categoria": "手のひら認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Partial position",
+    "categoria": "部分ポジション",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Passkey",
+    "categoria": "パスキー",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Pause",
+    "categoria": "一時停止",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Payout",
+    "categoria": "賞金率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Payout amount",
+    "categoria": "支払金額",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Performance metrics",
+    "categoria": "パフォーマンス指標",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Personal remaining quota",
+    "categoria": "個人残枠",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Phishing",
+    "categoria": "フィッシング",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Photo identification",
+    "categoria": "写真認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Pizza Day",
+    "categoria": "ピザデー",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Play to Earn",
+    "categoria": "遊んで稼ぐ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Pocket Card",
+    "categoria": "ポケットカード",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Point",
+    "categoria": "ポイント",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Point booster",
+    "categoria": "ポイントブースター",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Position",
+    "categoria": "ポジション",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position Limit Multiplier",
+    "categoria": "ポジション上限倍率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position PNL",
+    "categoria": "ポジション損益",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position airdrop",
+    "categoria": "ポジションエアドロップ",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Position margin",
+    "categoria": "ポジション証拠金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position mode",
+    "categoria": "ポジションモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position size",
+    "categoria": "ポジションサイズ",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position value",
+    "categoria": "ポジション価値",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Positive funding rate",
+    "categoria": "プラスの資金調達率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Post-only",
+    "categoria": "POST ONLY",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Power Card",
+    "categoria": "パワーカード",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Pre-IPO",
+    "categoria": "プレIPO",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pre-Market",
+    "categoria": "プレマーケット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pre-crediting",
+    "categoria": "仮入金 (取引可能)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Predict BTC & ETH Moves",
+    "categoria": "BTCとETHの価格変動を予測",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Prediction",
+    "categoria": "予測",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prediction Markets",
+    "categoria": "予測市場",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prediction result",
+    "categoria": "予測結果",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Premier",
+    "categoria": "プレミア",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Premium Hustle",
+    "categoria": "プレミアムチャレンジ",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Price Insights",
+    "categoria": "価格分析",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Price protection",
+    "categoria": "価格保護",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price quote",
+    "categoria": "価格見積もり",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price range",
+    "categoria": "価格範囲",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price-to-earnings ratio",
+    "categoria": "株価収益率",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Primary KYC",
+    "categoria": "初級KYC認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Prime Merchant",
+    "categoria": "プライム加盟店",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Principal",
+    "categoria": "元本",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Privacy Fever",
+    "categoria": "プライバシーフィーバー",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Privacy token",
+    "categoria": "プライバシートークン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prize pool",
+    "categoria": "賞金プール",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Profit share ratio",
+    "categoria": "利益分配比率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Proof of Stake (PoS)",
+    "categoria": "プルーフ・オブ・ステーク (PoS)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proof of Trust (PoT)",
+    "categoria": "プルーフ・オブ・トラスト (PoT)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proof of Work (PoW)",
+    "categoria": "プルーフ・オブ・ワーク (PoW)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Protocol",
+    "categoria": "プロトコル",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proxy contract",
+    "categoria": "プロキシコントラクト",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Public chain",
+    "categoria": "パブリックチェーン",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Public sale",
+    "categoria": "パブリックセール",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pulse",
+    "categoria": "パルス",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Purchase price",
+    "categoria": "購入価格",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Put",
+    "categoria": "プット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quantity",
+    "categoria": "数量",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Quick Commit",
+    "categoria": "クイック投票",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Quick buy",
+    "categoria": "クイック購入",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quick copy",
+    "categoria": "クイックコピー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quick stake",
+    "categoria": "クイックステーキング",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Quote unit",
+    "categoria": "見積通貨単位",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "ROI",
+    "categoria": "ROI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RSI",
+    "categoria": "RSI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Race pass",
+    "categoria": "レースパス",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Race to Zero",
+    "categoria": "ゼロレース",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Real Stocks, Real Friends",
+    "categoria": "リアルな株式、リアルな友達",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Real-World Assets (RWA)",
+    "categoria": "現実資産 (RWA)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Real-time principal",
+    "categoria": "リアルタイムの元本",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "RealStocks",
+    "categoria": "株式",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RealStocks Fixed Investment",
+    "categoria": "株式定期積立",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RealStocks RWA",
+    "categoria": "株式RWA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Realized PNL",
+    "categoria": "実現損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Rebase",
+    "categoria": "リベース",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Rebate",
+    "categoria": "キャッシュバック",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rebate",
+    "categoria": "キャッシュバック",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Recommended products",
+    "categoria": "おすすめ商品",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Redeem",
+    "categoria": "償還",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeem early",
+    "categoria": "早期償還",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeemed",
+    "categoria": "償還済み",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeeming",
+    "categoria": "償還中",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redemption failed",
+    "categoria": "償還失敗",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redemption time",
+    "categoria": "償還時間",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Reducible margin",
+    "categoria": "減額可能証拠金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Refer",
+    "categoria": "招待",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Refer & Earn",
+    "categoria": "招待して獲得",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referee",
+    "categoria": "被招待者",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral activity alerts",
+    "categoria": "招待アクティビティアラート",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral code",
+    "categoria": "招待コード",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral link",
+    "categoria": "招待リンク",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral profile tags",
+    "categoria": "招待プロフィールタグ",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral reward",
+    "categoria": "招待報酬",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referral task",
+    "categoria": "招待タスク",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referrer",
+    "categoria": "招待者",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Reg time",
+    "categoria": "レギュラータイム",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Register",
+    "categoria": "参加登録",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Register Now",
+    "categoria": "参加登録",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Registered",
+    "categoria": "参加登録済み",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Relative Strength Index",
+    "categoria": "相対力指数",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Repayment",
+    "categoria": "返済",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Reset security verification",
+    "categoria": "セキュリティ認証のリセット",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Resistance level",
+    "categoria": "抵抗線",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse conversion rate",
+    "categoria": "反対方向の変換レート",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse exchange",
+    "categoria": "逆交換",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse position",
+    "categoria": "逆方向のポジション",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse position protection",
+    "categoria": "逆方向のポジション保護",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse splits",
+    "categoria": "株式併合",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reward distribution",
+    "categoria": "報酬配布",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rewards Hub",
+    "categoria": "報酬ハブ",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rewards and conversion rate",
+    "categoria": "報酬と変換レート",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Rising Pool",
+    "categoria": "中級プール",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Risk Disclosure",
+    "categoria": "リスク告知",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Risk control",
+    "categoria": "リスクコントロール",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Risk limit",
+    "categoria": "リスク制限",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Risk review",
+    "categoria": "リスク審査",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Robinhood",
+    "categoria": "Robinhood",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Rollback",
+    "categoria": "ロールバック",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Round",
+    "categoria": "ラウンド",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Running duration",
+    "categoria": "実行時間",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Running mode",
+    "categoria": "実行モード",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Running {grid_number}",
+    "categoria": "実行中 {grid_number}",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "SEPA Instant",
+    "categoria": "SEPA Instant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "SMS verification",
+    "categoria": "SMS認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "SMS-based dynamic verification",
+    "categoria": "SMSによる動的認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "SOL staking",
+    "categoria": "SOLステーキング",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "ST",
+    "categoria": "ST",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "SafePal sub-account",
+    "categoria": "SafePalサブアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Saturday",
+    "categoria": "土曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Scale-in order",
+    "categoria": "スケールイン注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Security deposit",
+    "categoria": "保証金",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Seed phrase",
+    "categoria": "シードフレーズ",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Select stock cash voucher",
+    "categoria": "対象株式キャッシュバウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Self-destruct",
+    "categoria": "セルフデストラクト",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell High",
+    "categoria": "Sell High",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Sell if Touched",
+    "categoria": "Sell if Touched",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell price",
+    "categoria": "売却価格",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sell to close long",
+    "categoria": "ロング決済 (売り)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell to open short",
+    "categoria": "ショートをオープン (売り)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "September",
+    "categoria": "9月",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Settlement amount",
+    "categoria": "決済金額",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Settlement currency",
+    "categoria": "決済通貨",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Settlement interest rate",
+    "categoria": "決済利率",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Settlement time",
+    "categoria": "決済時間",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sharpe ratio",
+    "categoria": "シャープレシオ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Short",
+    "categoria": "ショート",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Short-to-mid term volatility",
+    "categoria": "短中期のボラティリティ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sign Up",
+    "categoria": "新規登録",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Silver",
+    "categoria": "銀（シルバー）",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Silver chest",
+    "categoria": "シルバーチェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Simple mode",
+    "categoria": "シンプルモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Single-asset margin",
+    "categoria": "シングルアセットマージン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Single-asset mode",
+    "categoria": "シングルアセットモード",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Slippage",
+    "categoria": "スリッページ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart Candles",
+    "categoria": "スマートローソク足",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart Chart",
+    "categoria": "スマートチャート",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart DCA",
+    "categoria": "スマートDCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart Picks",
+    "categoria": "おすすめ",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart contract",
+    "categoria": "スマートコントラクト",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Smart copy",
+    "categoria": "スマートコピー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart money",
+    "categoria": "スマートマネー",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Smart ratio",
+    "categoria": "スマート比率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Snapshot",
+    "categoria": "スナップショット",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Sold out",
+    "categoria": "完売",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sort",
+    "categoria": "ソート",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Spinfest",
+    "categoria": "スピン祭",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Split buys",
+    "categoria": "分割購入",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot",
+    "categoria": "現物",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot DCA",
+    "categoria": "現物DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot Grid",
+    "categoria": "現物グリッド",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot USDT Auto-Cover",
+    "categoria": "現物USDT自動補填",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot airdrop",
+    "categoria": "現物エアドロップ",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Spot grid bot",
+    "categoria": "現物グリッドボット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spread",
+    "categoria": "スプレッド",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spread",
+    "categoria": "点差",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stablecoin",
+    "categoria": "ステーブルコイン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stake",
+    "categoria": "ステーキング",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staked amount",
+    "categoria": "ステーキング金額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking confirmation",
+    "categoria": "ステーキングの確認",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking limit reached",
+    "categoria": "ステーキング上限に達しました",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking paused",
+    "categoria": "ステーキングが停止されました",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking pool",
+    "categoria": "ステーキングプール",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Staking successful",
+    "categoria": "ステーキング成功",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking time",
+    "categoria": "ステーキング時間",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Standard",
+    "categoria": "スタンダード",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Standard",
+    "categoria": "スタンダード",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Standard account",
+    "categoria": "一般アカウント",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Standard sub-account",
+    "categoria": "一般サブアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Star Points",
+    "categoria": "スターポイント",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Starter Pool",
+    "categoria": "初級プール",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "StochRSI",
+    "categoria": "StochRSI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stochastic Relative Strength Index",
+    "categoria": "ストキャスティクス相対力指数",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stock Futures",
+    "categoria": "株式先物",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stock cash voucher",
+    "categoria": "株式キャッシュバウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stock index",
+    "categoria": "株価指数",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stock redemption voucher",
+    "categoria": "株式引換バウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stock splits",
+    "categoria": "株式分割",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stock voucher",
+    "categoria": "株式バウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stocks",
+    "categoria": "株式",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stop-limit order",
+    "categoria": "ストップリミット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stop-loss (SL)",
+    "categoria": "損切り (SL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stopped",
+    "categoria": "停止中",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Strategy sub-account",
+    "categoria": "ストラテジーサブアカウント",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Sub-account",
+    "categoria": "サブアカウント",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sub-affiliate",
+    "categoria": "サブアフィリエイト",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Sunday",
+    "categoria": "日曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Super X-Game",
+    "categoria": "Super X-Game",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Support level",
+    "categoria": "支持線",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Supreme chest",
+    "categoria": "シュプリームチェスト",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "T-bill",
+    "categoria": "T-bill",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "T-bond",
+    "categoria": "T-bond",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Tail digit",
+    "categoria": "末尾の数字",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Take-profit (TP)",
+    "categoria": "利確 (TP)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Taker",
+    "categoria": "テイカー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Tax burn",
+    "categoria": "Taxバーン",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Team up, trade stocks, and claim victory with 0 fees.",
+    "categoria": "チームを組み、株式を取引して、手数料0で勝利を掴もう。",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Template Center",
+    "categoria": "テンプレートセンター",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Term",
+    "categoria": "期間",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Terminate",
+    "categoria": "終了",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Threshold",
+    "categoria": "しきい値",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Thursday",
+    "categoria": "木曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Ticket",
+    "categoria": "チケット",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Ticket tier",
+    "categoria": "チケットティア",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Tie-breaker",
+    "categoria": "タイブレーク",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Timestamp",
+    "categoria": "タイムスタンプ",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "To Advance",
+    "categoria": "進出する",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "To be committed",
+    "categoria": "未投票",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "To be repaid",
+    "categoria": "返済予定",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Today's total PNL",
+    "categoria": "本日の総損益",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Token migration",
+    "categoria": "トークン移行",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Token swap",
+    "categoria": "トークンスワップ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Token voucher",
+    "categoria": "トークンバウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Tokenomics",
+    "categoria": "トケノミクス",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Top Up",
+    "categoria": "入金",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total",
+    "categoria": "合計得点",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Total assets (USDT)",
+    "categoria": "総資産 (USDT)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total buy",
+    "categoria": "累計購入",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total commission",
+    "categoria": "累計キャッシュバック",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Total commission sharing",
+    "categoria": "キャッシュバック分配の合計",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Total funding fees",
+    "categoria": "累計資金調達手数料",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total investment",
+    "categoria": "累計投資額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total market cap",
+    "categoria": "時価総額",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Total sell",
+    "categoria": "累計売却",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total strategy equity",
+    "categoria": "ストラテジー総資産",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total value locked (TVL)",
+    "categoria": "ロック総額 (TVL)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Total withdrawals",
+    "categoria": "累計出金額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Touch ID",
+    "categoria": "Touch ID",
+    "contexto": "Account"
+  },
+  {
+    "termo": "TradFi",
+    "categoria": "TradFi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Trade",
+    "categoria": "取引",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade amount",
+    "categoria": "取引金額",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade for team triumph. Powered by 0-fee stock trading.",
+    "categoria": "チームの勝利を目指してトレード。手数料0の株式取引で挑もう。",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trade history",
+    "categoria": "取引履歴",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade type",
+    "categoria": "取引タイプ",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade volume",
+    "categoria": "取引高",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trader",
+    "categoria": "トレーダー",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading Takes Two: Meet Your MEXC AI Trading Companion",
+    "categoria": "取引は二人三脚：MEXC AI、あなたの取引アシスタント",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trading bot",
+    "categoria": "取引ボット",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading frequency",
+    "categoria": "取引頻度",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading volume ranking",
+    "categoria": "取引高ランキング",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trail to Buy",
+    "categoria": "Trail to Buy",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trail to Sell",
+    "categoria": "Trail to Sell",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trail variance",
+    "categoria": "トレーリング幅",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trailing delta",
+    "categoria": "トレーリング差",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trailing stop",
+    "categoria": "トレーリング逆指値",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Transfer",
+    "categoria": "振替",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Transfer pausable",
+    "categoria": "送金の一時停止が可能",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Travel Rule",
+    "categoria": "トラベルルール",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Treasury Bill",
+    "categoria": "米国財務省短期証券",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Treasury Bond",
+    "categoria": "米国財務省長期国債",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Trigger order",
+    "categoria": "トリガー注文",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger price",
+    "categoria": "トリガー価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger-limit",
+    "categoria": "トリガー指値",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger-market",
+    "categoria": "トリガー成行",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Tuesday",
+    "categoria": "火曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Two-factor authentication",
+    "categoria": "2段階認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "TxID",
+    "categoria": "TxID",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "U.S. stocks",
+    "categoria": "米国株式",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "USDC-M",
+    "categoria": "USDC-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "USDT-M",
+    "categoria": "USDT-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Ultimate Pool",
+    "categoria": "究極のプール",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Uncredited Deposit Return Application",
+    "categoria": "入金返却申請",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Uncredited deposit",
+    "categoria": "未反映入金",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Under appeal",
+    "categoria": "申し立て中",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Underwriter",
+    "categoria": "引受会社",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Underwriting fee",
+    "categoria": "引受手数料",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Universal stock cash voucher",
+    "categoria": "共通株式キャッシュバウチャー",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Unmatched PNL",
+    "categoria": "未照合損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Unrealized PNL",
+    "categoria": "未実現損益",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Up",
+    "categoria": "上昇",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Up payout",
+    "categoria": "上昇賞金率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upgradable transfer fees",
+    "categoria": "送金手数料のアップグレードが可能",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upper limit",
+    "categoria": "上限",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upper stop price",
+    "categoria": "上限ストップ価格",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "VPA",
+    "categoria": "VPA",
+    "contexto": "Account"
+  },
+  {
+    "termo": "VVIP",
+    "categoria": "VVIP",
+    "contexto": ""
+  },
+  {
+    "termo": "Value date",
+    "categoria": "起算日",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Verification code",
+    "categoria": "認証コード",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Verified Merchant",
+    "categoria": "承認済みの加盟店",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Video identification",
+    "categoria": "動画認証",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Video morning brief",
+    "categoria": "動画モーニングニュース",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "View AI Plans",
+    "categoria": "AIプランを見る",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "View AI Review",
+    "categoria": "AIレビューを見る",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "View More",
+    "categoria": "もっと見る",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Virtual payment address",
+    "categoria": "仮想支払アドレス",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Voice input",
+    "categoria": "音声入力",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Voucher Center",
+    "categoria": "バウチャーセンター",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Wash sale rule",
+    "categoria": "ウォッシュセールルール",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Wash trading",
+    "categoria": "仮装売買",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Watchlist",
+    "categoria": "ウォッチリスト",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "We See You",
+    "categoria": "We See You",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Wednesday",
+    "categoria": "水曜日",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "White Zone",
+    "categoria": "ホワイトゾーン",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Whitelist",
+    "categoria": "ホワイトリスト",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Williams %R",
+    "categoria": "ウィリアムズ %R",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Win rate",
+    "categoria": "勝率",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Withdrawal Protection",
+    "categoria": "出金保護",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal history",
+    "categoria": "出金履歴",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal network",
+    "categoria": "出金ネットワーク",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal runs",
+    "categoria": "出金処理",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Yesterday's Interest",
+    "categoria": "昨日の利息",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Yield farming",
+    "categoria": "イールドファーミング",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Yield rate",
+    "categoria": "利回り",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Your 0-fee gateway to infinite opportunities",
+    "categoria": "手数料0の入り口、無限のチャンスへ",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Your Easiest Way to Crypto",
+    "categoria": "暗号資産を手軽に始めよう",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "ZK rollup",
+    "categoria": "ZKロールアップ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "ZKP",
+    "categoria": "ZKP",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Zero-Fee Gala",
+    "categoria": "手数料0祭",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Zero-Knowledge Proof",
+    "categoria": "ゼロ知識証明",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "{s}-leg combo",
+    "categoria": "{s}-レッグコンボ",
+    "contexto": "Trade"
+  }
+]
