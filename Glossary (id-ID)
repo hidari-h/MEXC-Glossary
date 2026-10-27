@@ -1,0 +1,4592 @@
+[
+  {
+    "termo": "$100M Guardian Fund",
+    "categoria": "Dana Penjamin $100 Juta",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "0 Thresholds. 1 M-Score. ∞ Opportunities.",
+    "categoria": "0 Ambang Batas. 1 M-Score. Peluang ∞.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "0 fees",
+    "categoria": "0 biaya",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "0-Fee Fest",
+    "categoria": "Festival 0-Biaya",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "0-fee",
+    "categoria": "0-biaya",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "1-second interval chart",
+    "categoria": "Grafik interval 1-detik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "2FA",
+    "categoria": "2FA",
+    "contexto": "Account"
+  },
+  {
+    "termo": "AI Anchor",
+    "categoria": "Pembawa Acara AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Assistant",
+    "categoria": "Asisten AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Consultant",
+    "categoria": "Konsultan AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Insights",
+    "categoria": "Wawasan AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "categoria": "Model Copy Trade AI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "categoria": "Copy Trade Model AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI News Radar",
+    "categoria": "Radar Berita AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Plan",
+    "categoria": "Rencana AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Radar",
+    "categoria": "Radar AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Rankings",
+    "categoria": "Peringkat AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Recommendation",
+    "categoria": "Rekomendasi AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Review",
+    "categoria": "Ulasan AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Select List",
+    "categoria": "Daftar Pilihan AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Signal",
+    "categoria": "Sinyal AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Strategy",
+    "categoria": "Strategi AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Toolbox",
+    "categoria": "Toolbox AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Trends",
+    "categoria": "Tren AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "API broker",
+    "categoria": "Broker API",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "API key",
+    "categoria": "Kunci API",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "API market makers",
+    "categoria": "Market Maker API",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "APR",
+    "categoria": "APR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "APR booster",
+    "categoria": "Booster APR",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "APY",
+    "categoria": "APY",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Access restricted",
+    "categoria": "Akses dibatasi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Account asset modes",
+    "categoria": "Mode aset akun",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Account manager",
+    "categoria": "Manajer akun",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Account notification",
+    "categoria": "Pemberitahuan akun",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Accurate",
+    "categoria": "Akurat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activate",
+    "categoria": "Aktivasi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activation price",
+    "categoria": "Harga aktivasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Activation successful",
+    "categoria": "Aktivasi sukses",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activation time",
+    "categoria": "Waktu aktivasi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Active order",
+    "categoria": "Pesanan aktif",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Add margin",
+    "categoria": "Tambahkan margin",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Additional verification",
+    "categoria": "Verifikasi tambahan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Advanced KYC",
+    "categoria": "KYC Tingkat Lanjut",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Advanced Mode",
+    "categoria": "Mode Lanjutan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advanced TP/SL",
+    "categoria": "TP/SL Lanjutan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advertisement (Ad)",
+    "categoria": "Iklan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advertiser",
+    "categoria": "Pemasang iklan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Affiliate",
+    "categoria": "Afiliasi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Aggressive",
+    "categoria": "Agresif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Airdrop",
+    "categoria": "Airdrop",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Airdrop+",
+    "categoria": "Airdrop+",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Allocation ratio",
+    "categoria": "Rasio alokasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Alpha",
+    "categoria": "Alpha",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Alpha Manager",
+    "categoria": "Manajer Alpha",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Alpha Plaza",
+    "categoria": "Plaza Alpha",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Alpha Strategy",
+    "categoria": "Strategi Alpha",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Alpha Trader",
+    "categoria": "Trader Alpha",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Alpha Trader Experience Card",
+    "categoria": "Kartu Pengalaman Trader Alpha",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Altcoin",
+    "categoria": "Altcoin",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Analysis",
+    "categoria": "Analisis",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Anti-phishing code",
+    "categoria": "Kode anti-phishing",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Appeal",
+    "categoria": "Banding",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Appellant",
+    "categoria": "Pemohon banding",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Appellee",
+    "categoria": "Termohon banding",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "April",
+    "categoria": "April",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Arbitrage",
+    "categoria": "Arbitrase",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Arithmetic",
+    "categoria": "Aritmatika",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Ask1",
+    "categoria": "Ask1",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Assessment Zone",
+    "categoria": "Zona Penilaian",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "August",
+    "categoria": "Agustus",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Authenticator app",
+    "categoria": "Aplikasi Autentikasi",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Auto Take Profit",
+    "categoria": "TP Otomatis",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Auto margin addition",
+    "categoria": "Penambahan margin otomatis",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Auto-Earn",
+    "categoria": "Earn Otomatis",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Auto-deleveraging (ADL)",
+    "categoria": "Pengurangan leverage otomatis (ADL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Automated market maker (AMM)",
+    "categoria": "Market Maker otomatis (AMM)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Automatic",
+    "categoria": "Otomatis",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Available",
+    "categoria": "Tersedia",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Available margin",
+    "categoria": "Margin tersedia",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average close price",
+    "categoria": "Harga penutupan rata-rata",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average entry price",
+    "categoria": "Harga masuk rata-rata",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average purchase value",
+    "categoria": "Nilai pembelian rata-rata",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "BIZ Merchant",
+    "categoria": "Pedagang BIZ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "BTTS",
+    "categoria": "BTTS",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "BYDFi",
+    "categoria": "BYDFi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Balance",
+    "categoria": "Saldo",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Bankruptcy price",
+    "categoria": "Harga kebangkrutan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Base APR",
+    "categoria": "APR Dasar",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Base crypto",
+    "categoria": "Kripto dasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Battle the 0-fee way. Win as one with stocks.",
+    "categoria": "Berdagang 0-biaya. Menang bersama dengan saham.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Bid1",
+    "categoria": "Bid1",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Bitcoin inscription",
+    "categoria": "Inscription Bitcoin",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Blacklist",
+    "categoria": "Blacklist",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Bollinger Bands",
+    "categoria": "Bollinger Bands",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Bonus",
+    "categoria": "Bonus",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Bonus APR",
+    "categoria": "Bonus APR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Both Teams to Score",
+    "categoria": "Both Teams to Score",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Broker sub-account",
+    "categoria": "Sub-akun broker",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Bronze chest",
+    "categoria": "Peti perunggu",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Buy Low",
+    "categoria": "Beli Rendah",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Buy if Touched",
+    "categoria": "Buy if Touched",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Buy price",
+    "categoria": "Harga beli",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Buy to close short",
+    "categoria": "Buy to close short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Buy to open long",
+    "categoria": "Buy to open long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CCI",
+    "categoria": "CCI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "CFD",
+    "categoria": "CFD",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CFD (Contract for Difference)",
+    "categoria": "CFD (Contract for Difference)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CPI",
+    "categoria": "CPI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Call",
+    "categoria": "Call",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cancel All",
+    "categoria": "Batalkan Semua",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Candlestick",
+    "categoria": "Candlestick",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Candlestick chart",
+    "categoria": "Grafik Candlestick",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Capital gain",
+    "categoria": "Keuntungan modal",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Capital loss",
+    "categoria": "Kerugian modal",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cash Deposit to Bank",
+    "categoria": "Deposit Tunai ke Bank",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cash Zone",
+    "categoria": "Zona Tunai",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cash in Person",
+    "categoria": "Pembayaran Tunai Langsung (COD)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cashback",
+    "categoria": "Cashback",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Chase limit order",
+    "categoria": "Chase Limit Order",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Check-in",
+    "categoria": "Check-in",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Chest",
+    "categoria": "Peti",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Circuit breaker",
+    "categoria": "Circuit breaker",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Circulating supply",
+    "categoria": "Pasokan beredar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Claim",
+    "categoria": "Klaim",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Close",
+    "categoria": "Tutup",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close All",
+    "categoria": "Tutup Semua",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Close long",
+    "categoria": "Tutup Long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close position",
+    "categoria": "Tutup posisi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close price",
+    "categoria": "Harga tutup",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close short",
+    "categoria": "Tutup Short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Closing PNL",
+    "categoria": "PNL penutupan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cloud mining",
+    "categoria": "Cloud mining",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Coin-M",
+    "categoria": "Coin-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Coin-Margined",
+    "categoria": "Coin-Margined",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Collateral",
+    "categoria": "Jaminan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Collateral crypto",
+    "categoria": "Agunan kripto",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Combo",
+    "categoria": "Combo",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Combo",
+    "categoria": "Combo",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Combo Buff",
+    "categoria": "Combo Buff",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Combo Card",
+    "categoria": "Kartu Combo",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Comeback Trader Fest",
+    "categoria": "Fest Comeback Trader",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commission",
+    "categoria": "Komisi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission rate",
+    "categoria": "Tingkat komisi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission ratio",
+    "categoria": "Rasio komisi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission sharing rate",
+    "categoria": "Tingkat pembagian komisi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission sharing ratio",
+    "categoria": "Rasio pembagian komisi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Committed",
+    "categoria": "Berkomitmen",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commodities",
+    "categoria": "Komoditas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Commodity Carnival",
+    "categoria": "Karnaval Komoditas",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commodity futures",
+    "categoria": "Futures komoditas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Compare",
+    "categoria": "Banding",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contract (cont.)",
+    "categoria": "Kontrak",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract amount",
+    "categoria": "Jumlah kontrak",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contract for Difference",
+    "categoria": "Contract for Difference (CFD)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract settlement",
+    "categoria": "Penyelesaian kontrak",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract size",
+    "categoria": "Ukuran kontrak",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract verified",
+    "categoria": "Kontrak terverifikasi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contracts",
+    "categoria": "Kontrak",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contrarian",
+    "categoria": "Contrarian",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Conversion rate",
+    "categoria": "Rasio konversi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Convert",
+    "categoria": "Konversi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy Trade",
+    "categoria": "Copy Trade",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy Trade Showdown",
+    "categoria": "Pertarungan Copy Trade",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy trade bonus",
+    "categoria": "Bonus Copy Trade",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Corporate bond",
+    "categoria": "Obligasi korporasi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Correct Score",
+    "categoria": "Skor Tepat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Create bot",
+    "categoria": "Buat bot",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Cross margin mode",
+    "categoria": "Mode margin Cross",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cross-chain",
+    "categoria": "Lintas rantai",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cross-chain bridge",
+    "categoria": "Jembatan rantai silang",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cross-region arbitrage",
+    "categoria": "Arbitrase lintas wilayah",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crude oil",
+    "categoria": "Minyak mentah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Crypto",
+    "categoria": "Kripto",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crypto exchange",
+    "categoria": "Bursa kripto",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crypto tax calculator",
+    "categoria": "Kalkulator pajak kripto",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Current market cap",
+    "categoria": "Market cap saat ini",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current market price",
+    "categoria": "Harga pasar saat ini",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current positions",
+    "categoria": "Posisi saat ini",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current tokens",
+    "categoria": "Token saat ini",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom",
+    "categoria": "Kustom",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom buy quantity (%)",
+    "categoria": "Jumlah pembelian kustom (%)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom sell quantity (%)",
+    "categoria": "Jumlah penjualan kustom (%)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Customer Service",
+    "categoria": "Layanan Pelanggan",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "DCA interval",
+    "categoria": "Interval DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DCA plan",
+    "categoria": "Strategi DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DEX trading",
+    "categoria": "Perdagangan DEX",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DEX+",
+    "categoria": "DEX+",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DMI",
+    "categoria": "DMI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Daily Hustle",
+    "categoria": "Daily Hustle",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Daily PNL (USDT)",
+    "categoria": "PNL Harian (USDT)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Daily interest rate",
+    "categoria": "Suku bunga harian",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Daily lucky draw",
+    "categoria": "Undian harian",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Daily picks",
+    "categoria": "Pilihan harian",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Deactivated",
+    "categoria": "Dinonaktifkan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "December",
+    "categoria": "Desember",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Decentralized application (DApp)",
+    "categoria": "Aplikasi terdesentralisasi (DApp)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Decentralized exchange (DEX)",
+    "categoria": "Decentralized exchange (DEX)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Delist",
+    "categoria": "Delisting",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Demo Trading",
+    "categoria": "Perdagangan Demo",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Deposit",
+    "categoria": "Deposit",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Deposit address",
+    "categoria": "Alamat deposit",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Diamond chest",
+    "categoria": "Peti berlian",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Differential",
+    "categoria": "Diferensial",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Digital Rupee",
+    "categoria": "Rupee digital",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Digital Rupee wallet",
+    "categoria": "Dompet Rupee digital",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Direct downline affiliate",
+    "categoria": "Afiliasi downline langsung",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Direct referral",
+    "categoria": "Referral langsung",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Direction",
+    "categoria": "Arah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Directional Movement Index",
+    "categoria": "Directional Movement Index",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Discover Your Wall Street DNA",
+    "categoria": "Temukan DNA Wall Street Anda",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Dispute",
+    "categoria": "Sengketa",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Dollar cost averaging (DCA)",
+    "categoria": "Strategi rata-rata biaya (DCA)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Down",
+    "categoria": "Turun",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Down payout",
+    "categoria": "Bayaran saat harga turun",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Downline affiliate",
+    "categoria": "Afiliasi downline",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Dual Investment",
+    "categoria": "Investasi Ganda",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Dutch Auction",
+    "categoria": "Dutch Auction",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "EDD",
+    "categoria": "EDD",
+    "contexto": "Account"
+  },
+  {
+    "termo": "EMA",
+    "categoria": "EMA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "EPS",
+    "categoria": "EPS",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Early access",
+    "categoria": "Akses awal",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Early settlement",
+    "categoria": "Penyelesaian awal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Earn Now",
+    "categoria": "Earn Sekarang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Earn Plus",
+    "categoria": "Earn Plus",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Earn more. Stay flexible.",
+    "categoria": "Hasilkan banyak. Tetap fleksibel.",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Earnings per share",
+    "categoria": "Earnings per share",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Effective margin",
+    "categoria": "Margin efektif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Elite",
+    "categoria": "Elite",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Elite Pool",
+    "categoria": "Pool Elit",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Email verification",
+    "categoria": "Verifikasi email",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Enhanced DCA",
+    "categoria": "Enhanced DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Enhanced due diligence",
+    "categoria": "Enhanced due diligence",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Enrollment",
+    "categoria": "Pendaftaran",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Entire position",
+    "categoria": "Seluruh posisi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Entry price",
+    "categoria": "Harga masuk",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Equity",
+    "categoria": "Ekuitas",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Equity",
+    "categoria": "Ekuitas",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Equity value",
+    "categoria": "Nilai ekuitas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Escrow",
+    "categoria": "Escrow",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Est max allocation",
+    "categoria": "Est. alokasi maks.",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Est.",
+    "categoria": "Est.",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Estimated APR (Est. APR)",
+    "categoria": "Estimasi APR",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Estimated PNL (Est. PNL)",
+    "categoria": "Estimasi PNL",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Estimated Payoff (Est. Payoff)",
+    "categoria": "Estimasi Keuntungan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Estimated profit per grid (Est. profit per grid)",
+    "categoria": "Estimasi keuntungan per grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Event",
+    "categoria": "Peristiwa",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Event Futures",
+    "categoria": "Acara Futures",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Exchange rate",
+    "categoria": "Kurs",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Expected PNL",
+    "categoria": "PNL yang Diharapkan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Experience Card",
+    "categoria": "Kartu Pengalaman",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Exponential Moving Average",
+    "categoria": "Exponential Moving Average",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "FAQ",
+    "categoria": "FAQ",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Face ID",
+    "categoria": "Face ID",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Facial recognition",
+    "categoria": "Pengenalan wajah",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Failed to load",
+    "categoria": "Gagal memuat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Fair price",
+    "categoria": "Harga wajar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Favorites",
+    "categoria": "Favorit",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Fear & Greed Index",
+    "categoria": "Fear & Greed Index",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Featured",
+    "categoria": "Unggulan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Featured ad",
+    "categoria": "Iklan unggulan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "February",
+    "categoria": "Februari",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Fee voucher",
+    "categoria": "Voucher biaya",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Fiat",
+    "categoria": "Fiat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fiat Deposit Fest",
+    "categoria": "Fest Deposit Fiat",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Fill price",
+    "categoria": "Harga eksekusi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fill-Or-Kill (FOK)",
+    "categoria": "Fill-Or-Kill (FOK)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Final offering price",
+    "categoria": "Harga penawaran akhir",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "First in market",
+    "categoria": "Pertama di pasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fixed Loans",
+    "categoria": "Pinjaman Tetap",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Fixed Savings",
+    "categoria": "Tabungan Tetap",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Fixed-price advertisement",
+    "categoria": "Iklan harga tetap",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flash Close",
+    "categoria": "Tutup Kilat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flash Trading",
+    "categoria": "Perdagangan Kilat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flex Now",
+    "categoria": "Flex Sekarang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Flex Strategy",
+    "categoria": "Strategi Flex",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Flexible Loans",
+    "categoria": "Pinjaman Fleksibel",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flexible Savings",
+    "categoria": "Tabungan Fleksibel",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flexible redemption",
+    "categoria": "Penebusan fleksibel",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flip Fest",
+    "categoria": "Festival Flip",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Flipping",
+    "categoria": "Flipping",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Floating-price ad",
+    "categoria": "Iklan harga floating",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Floor price",
+    "categoria": "Harga dasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follow trade",
+    "categoria": "Ikuti perdagangan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follower",
+    "categoria": "Pengikut",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follower ID",
+    "categoria": "ID Pengikut",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Forex",
+    "categoria": "Forex",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Forex Perpetual Futures",
+    "categoria": "Perpetual Futures Forex",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Freezable",
+    "categoria": "Dapat dibekukan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Friday",
+    "categoria": "Jumat",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Frozen asset",
+    "categoria": "Aset yang dibekukan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Fully diluted shares",
+    "categoria": "Total Saham Beredar (Fully Diluted Shares)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fully diluted valuation (FDV)",
+    "categoria": "Fully Diluted Valuation (FDV)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Fully staked",
+    "categoria": "Staking Penuh",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Funding History",
+    "categoria": "Riwayat Pendanaan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Funding fees",
+    "categoria": "Biaya pendanaan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Funding rate",
+    "categoria": "Suku bunga pendanaan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "FutureProof",
+    "categoria": "FutureProof",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Futures",
+    "categoria": "Futures",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures DCA",
+    "categoria": "Futures DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Earn",
+    "categoria": "Earn Futures",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Futures Grid",
+    "categoria": "Futures Grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Grid AI",
+    "categoria": "Futures Grid AI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Insurance Fund",
+    "categoria": "Dana Asuransi Futures",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Leaderboard",
+    "categoria": "Papan Peringkat Futures",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Futures M-Day",
+    "categoria": "Futures M-Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Futures bonus",
+    "categoria": "Bonus Futures",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Futures grid bot",
+    "categoria": "Futures grid bot",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures trading",
+    "categoria": "Perdagangan Futures",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "GEO Pay",
+    "categoria": "GEO Pay",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gas (usual)",
+    "categoria": "Gas (biasa)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gem",
+    "categoria": "Permata",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Gemstone Atelier",
+    "categoria": "Gemstone Atelier",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Get $10,000",
+    "categoria": "Dapatkan $10.000",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Get Help",
+    "categoria": "Dapatkan Bantuan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Global Football Prediction Masters",
+    "categoria": "Ahli Prediksi Sepak Bola Global",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Go",
+    "categoria": "Ke",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Gold",
+    "categoria": "Emas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gold Miner Rush",
+    "categoria": "Gold Miner Rush",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Gold chest",
+    "categoria": "Peti emas",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Golden Cross",
+    "categoria": "Golden Cross",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Good-Till-Canceled (GTC)",
+    "categoria": "Berlaku Hingga Dibatalkan (GTC)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Goodie bag",
+    "categoria": "Goodie bag",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Google Authentication",
+    "categoria": "Autentikasi Google",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Google Authenticator",
+    "categoria": "Autentikator Google",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Government bond",
+    "categoria": "Obligasi pemerintah",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Gradient",
+    "categoria": "Gradien",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Graduating",
+    "categoria": "Segera hadir",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Grid count",
+    "categoria": "Jumlah grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid order ID",
+    "categoria": "ID pesanan grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid parameters",
+    "categoria": "Parameter grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit",
+    "categoria": "Keuntungan grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit count",
+    "categoria": "Jumlah keuntungan grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit history",
+    "categoria": "Riwayat keuntungan grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid trading",
+    "categoria": "Perdagangan grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Guaranteed stop-loss (Guaranteed SL)",
+    "categoria": "Stop-loss terjamin (Guaranteed SL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Guardian Fund",
+    "categoria": "Dana Jaminan",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Hand Rank",
+    "categoria": "Peringkat Tangan",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Haptic feedback",
+    "categoria": "Masukan haptik",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hard fork",
+    "categoria": "Hard fork",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hash rate",
+    "categoria": "Hash rate",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Heat map",
+    "categoria": "Heat map",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hedge mode",
+    "categoria": "Mode Hedge",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Help Center",
+    "categoria": "Pusat Bantuan",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Hide other pairs",
+    "categoria": "Sembunyikan pasangan lainnya",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "High frequency",
+    "categoria": "Frekuensi tinggi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "High risk",
+    "categoria": "Risiko tinggi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Historical data",
+    "categoria": "Data historis",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Hold and Earn",
+    "categoria": "Hold dan Earn",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Holder",
+    "categoria": "Holder",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Honeypot",
+    "categoria": "Honeypot",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Hot Futures Challenge",
+    "categoria": "Tantangan Futures Populer",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Hot Searches",
+    "categoria": "Pencarian Populer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Hourly interest rate",
+    "categoria": "Suku bunga per jam",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "IPO Express",
+    "categoria": "IPO Express",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "IPO base price",
+    "categoria": "Harga dasar IPO",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Idle asset",
+    "categoria": "Aset menganggur",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Immediate-Or-Cancel (IOC)",
+    "categoria": "Segera atau Batal (IOC)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Impermanent loss",
+    "categoria": "Kehilangan sementara",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Implied valuation",
+    "categoria": "Implied Valuation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "In negotiation",
+    "categoria": "Dalam negosiasi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Inaccurate",
+    "categoria": "Tidak akurat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Index",
+    "categoria": "Indeks",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Index Futures",
+    "categoria": "Futures Indeks",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Index price",
+    "categoria": "Harga indeks",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Indicative price",
+    "categoria": "Harga indikatif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Infinity Arena",
+    "categoria": "Infinity Arena",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Initial LTV",
+    "categoria": "LTV Awal",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Initial investment amount",
+    "categoria": "Jumlah investasi awal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial listing",
+    "categoria": "Listing perdana",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial margin",
+    "categoria": "Margin awal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial margin rate",
+    "categoria": "Tingkat margin awal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Innovation Zone",
+    "categoria": "Zona Inovasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Instant Convert",
+    "categoria": "Konversi Instan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Institutional Loans",
+    "categoria": "Pinjaman Institusional",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Institutional sub-accounts",
+    "categoria": "Sub-akun institusional",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Insufficient balance",
+    "categoria": "Saldo tidak mencukupi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Insurance Fund",
+    "categoria": "Dana Asuransi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Intelligence for every opportunity",
+    "categoria": "Kecerdasan untuk setiap peluang",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Interest",
+    "categoria": "Bunga",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest accrued",
+    "categoria": "Bunga terkumpul",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest accrues on",
+    "categoria": "Bunga terakumulasi pada",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest amount",
+    "categoria": "Jumlah bunga",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest distributed",
+    "categoria": "Bunga yang didistribusikan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest settlement",
+    "categoria": "Penyelesaian bunga",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Interest settlement history",
+    "categoria": "Riwayat penyelesaian bunga",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Interest summary",
+    "categoria": "Ringkasan bunga",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest-bearing amount",
+    "categoria": "Jumlah yang menghasilkan bunga",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest-bearing principal",
+    "categoria": "Pokok pinjaman berbunga",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Intraday price",
+    "categoria": "Harga Intraday",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Investment allocation",
+    "categoria": "Alokasi investasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Invite",
+    "categoria": "Undang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Invitee",
+    "categoria": "Orang yang diundang",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Inviter",
+    "categoria": "Pengundang",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Iron chest",
+    "categoria": "Peti besi",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Isolated margin",
+    "categoria": "Margin Isolated",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Isolated margin mode",
+    "categoria": "Mode margin Isolated",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "January",
+    "categoria": "Januari",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Join Now",
+    "categoria": "Gabung Sekarang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "July",
+    "categoria": "Juli",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "June",
+    "categoria": "Juni",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "KDJ",
+    "categoria": "KDJ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "KYC verification",
+    "categoria": "Verifikasi KYC",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Kickstarter",
+    "categoria": "Kickstarter",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "LTV",
+    "categoria": "LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Last price",
+    "categoria": "Harga terakhir",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Launchpad",
+    "categoria": "Launchpad",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Launchpool",
+    "categoria": "Launchpool",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Lead Trade",
+    "categoria": "Lead Trade",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Legacy Merchant",
+    "categoria": "Pedagang Prioritas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Let AI Choose",
+    "categoria": "Biarkan AI yang Memilih",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Let AI Monitor Markets",
+    "categoria": "Biarkan AI Memantau Pasar",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Leverage mode",
+    "categoria": "Mode leverage",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Leverage multiplier",
+    "categoria": "Pengganda Leverage",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability",
+    "categoria": "Beban",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability repayment (collection)",
+    "categoria": "Pelunasan kewajiban (penagihan)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability repayment (payment)",
+    "categoria": "Pelunasan kewajiban (pembayaran)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit Convert",
+    "categoria": "Konversi Limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit order",
+    "categoria": "Limit order",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit price",
+    "categoria": "Harga limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limitless gains. Boundless glory.",
+    "categoria": "Keuntungan tanpa batas. Kemuliaan tiada tara.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Liquidation",
+    "categoria": "Likuidasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidation LTV",
+    "categoria": "Likuidasi LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Liquidity locked",
+    "categoria": "Likuiditas terkunci",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidity pool",
+    "categoria": "Pool likuiditas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidity provider",
+    "categoria": "Penyedia likuiditas",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Listed",
+    "categoria": "Terdaftar",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Lite App",
+    "categoria": "Lite App",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Live market pass",
+    "categoria": "Market Pass (Live)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Live trading",
+    "categoria": "Perdagangan langsung",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Loan crypto",
+    "categoria": "Pinjaman kripto",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Loan-to-value ratio (LTV)",
+    "categoria": "Rasio pinjaman terhadap nilai (LTV)",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Lockup system",
+    "categoria": "Sistem penguncian",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Long",
+    "categoria": "Long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Long-term volatility",
+    "categoria": "Volatilitas jangka panjang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Long/short ratio",
+    "categoria": "Rasio Long/Short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Loss coverage",
+    "categoria": "Perlindungan kerugian",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Low frequency",
+    "categoria": "Frekuensi rendah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Low risk",
+    "categoria": "Risiko rendah",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Low-risk mode",
+    "categoria": "Mode risiko rendah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lower limit",
+    "categoria": "Limit bawah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lower stop price",
+    "categoria": "Harga stop bawah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lucky claw",
+    "categoria": "Capitan keberuntungan",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "M-Day",
+    "categoria": "M-Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "M-Score",
+    "categoria": "M-Score",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MA",
+    "categoria": "MA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MACD",
+    "categoria": "MACD",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MEV defense",
+    "categoria": "Pertahanan MEV",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC 0808",
+    "categoria": "MEXC 0808",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC 0808: Stock Season",
+    "categoria": "MEXC 0808: Musim Saham",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC AI",
+    "categoria": "MEXC AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Affiliate Program",
+    "categoria": "Program Afiliasi MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC CLI",
+    "categoria": "MEXC CLI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Card",
+    "categoria": "Kartu MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC CoLab",
+    "categoria": "MEXC CoLab",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Digest",
+    "categoria": "MEXC Digest",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Earn",
+    "categoria": "Earn MEXC",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "MEXC Event Center",
+    "categoria": "Pusat Acara MEXC",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC Global Ambassador Program",
+    "categoria": "Program Duta Global MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Global Card",
+    "categoria": "Kartu Global MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC Kickoff Fest",
+    "categoria": "Fest Kickoff MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC Learn",
+    "categoria": "MEXC Learn",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Learn UGC Creator Program",
+    "categoria": "Program Kreator UGC MEXC Learn",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Loans",
+    "categoria": "Pinjaman MEXC",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "MEXC Mirror Credit",
+    "categoria": "Mirror Credit MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC P2P Merchant Program",
+    "categoria": "Program Pedagang P2P MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Referral Ambassador Program",
+    "categoria": "Program Duta Referral MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Referral Program",
+    "categoria": "Program Referral MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Square",
+    "categoria": "MEXC Square",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Stock Compare",
+    "categoria": "Perbandingan Saham MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC User Agreement",
+    "categoria": "Perjanjian Pengguna MEXC",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MEXC VIP",
+    "categoria": "VIP MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Win",
+    "categoria": "MEXC Win",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC × ether.fi Card",
+    "categoria": "Kartu MEXC × ether.fi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC-AI",
+    "categoria": "MEXC-AI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXCer",
+    "categoria": "MEXCer",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize every payment",
+    "categoria": "Pengguna MEXC",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your access",
+    "categoria": "MEXCmalkan segala pembayaran",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your earnings",
+    "categoria": "MEXCmalkan akses anda",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your liquidity",
+    "categoria": "MEXCmalkan pendapatan anda",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your opportunities",
+    "categoria": "MEXCmalkan likuiditas anda",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your predictions",
+    "categoria": "MEXCmalkan peluang anda",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MStars",
+    "categoria": "MStars",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MX Point",
+    "categoria": "Poin MX",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "MX Zone",
+    "categoria": "Zona MX",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MXSOL",
+    "categoria": "MXSOL",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Main account",
+    "categoria": "Akun utama",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Mainnet merge",
+    "categoria": "Merger Mainnet",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Maintenance margin",
+    "categoria": "Margin pemeliharaan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maintenance margin rate (MMR)",
+    "categoria": "Tingkat margin pemeliharaan (MMR)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maker",
+    "categoria": "Maker",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Manual release",
+    "categoria": "Rilis manual",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Manually create",
+    "categoria": "Buat secara manual",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "March",
+    "categoria": "Maret",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Margin call LTV",
+    "categoria": "Margin call LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Margin ratio",
+    "categoria": "Rasio margin",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Margin utilization",
+    "categoria": "Margin Utilization",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mark price",
+    "categoria": "Harga penanda",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market",
+    "categoria": "Pasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market cap",
+    "categoria": "Market cap",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market cap change over {time}",
+    "categoria": "Perubahan market cap selama {waktu}",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market maker",
+    "categoria": "Market Maker",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market maker account",
+    "categoria": "Akun Market Maker",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Market order",
+    "categoria": "Pesanan pasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Markets",
+    "categoria": "Pasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Master account",
+    "categoria": "Akun utama",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Masters of Prediction",
+    "categoria": "Ahli Prediksi",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Matched PNL",
+    "categoria": "PNL yang terpasang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Matched orders",
+    "categoria": "Pesanan yang terpasang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maturity date",
+    "categoria": "Tanggal jatuh tempo",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Max.",
+    "categoria": "Maks.",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Maximum drawdown (Max. drawdown)",
+    "categoria": "Penurunan maksimum",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maximum sell ratio restriction (Max. sell ratio restriction)",
+    "categoria": "Pembatasan rasio penjualan maksimum",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maximum supply (Max. supply)",
+    "categoria": "Pasokan maksimum",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "May",
+    "categoria": "Mei",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Maybe Later",
+    "categoria": "Mungkin Nanti",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Medium risk",
+    "categoria": "Risiko menengah",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Mega Cash Reward",
+    "categoria": "Hadiah Uang Tunai Besar",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Meme+",
+    "categoria": "Meme+",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant",
+    "categoria": "Pedagang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant Center",
+    "categoria": "Pusat Merchant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant Portal",
+    "categoria": "Portal Pedagang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merkle tree",
+    "categoria": "Merkle tree",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MetaMask",
+    "categoria": "MetaMask",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Metals",
+    "categoria": "Logam",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Metaverse",
+    "categoria": "Metaverse",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mid-term volatility",
+    "categoria": "Volatilitas jangka menengah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Midterm Market Rush",
+    "categoria": "Midterm Market Rush",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Mining pool",
+    "categoria": "Pool Mining",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mintable",
+    "categoria": "Dapat dimint",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Mobile sign-up",
+    "categoria": "Pendaftaran melalui aplikasi seluler",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Modifiable balances",
+    "categoria": "Saldo yang dapat dimodifikasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Momentum indicator",
+    "categoria": "Indikator momentum",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Monday",
+    "categoria": "Senin",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moneyline",
+    "categoria": "Moneyline",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "More",
+    "categoria": "Lainnya",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Move to Earn",
+    "categoria": "Move to Earn",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moving Average",
+    "categoria": "Moving Average",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moving Average Convergence/Divergence",
+    "categoria": "Moving Average Convergence/Divergence",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Multi-account operation",
+    "categoria": "Operasi multi-akun",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Multi-asset",
+    "categoria": "Multi-aset",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-asset margin",
+    "categoria": "Margin multi-aset",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-asset mode",
+    "categoria": "Mode multi-aset",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-level commission system",
+    "categoria": "Sistem komisi bertingkat",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Multi-signature wallet",
+    "categoria": "Dompet multi-tanda tangan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "My Rewards",
+    "categoria": "Hadiah Saya",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "My holdings",
+    "categoria": "Kepemilikan saya",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Mystery box",
+    "categoria": "Kotak misteri",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Negative balance",
+    "categoria": "Saldo negatif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Negative funding rate",
+    "categoria": "Tingkat pendanaan negatif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Net deposit",
+    "categoria": "Deposit bersih",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Net transfer",
+    "categoria": "Transfer bersih",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Neutral",
+    "categoria": "Netral",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "No lock-up period",
+    "categoria": "Tidak ada periode penguncian",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Nominal value",
+    "categoria": "Nilai nominal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-freezable",
+    "categoria": "Tidak bisa dibekukan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-fungible token (NFT)",
+    "categoria": "Non-fungible token (NFT)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-instant payment",
+    "categoria": "Pembayaran non-instan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-lockup system",
+    "categoria": "Sistem tanpa penguncian",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Non-mintable",
+    "categoria": "Tidak dapat dimint",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "November",
+    "categoria": "November",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "OI",
+    "categoria": "OI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "October",
+    "categoria": "Oktober",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Offboarding",
+    "categoria": "Offboarding",
+    "contexto": "Account"
+  },
+  {
+    "termo": "On-Chain",
+    "categoria": "On-Chain",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "On-Chain Earn",
+    "categoria": "Earn On-Chain",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "One-Cancels-the-Other (OCO)",
+    "categoria": "Satu Membatalkan yang Lain (OCO)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "One-way mode",
+    "categoria": "Mode satu arah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open grid orders",
+    "categoria": "Pesanan grid terbuka",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open interest",
+    "categoria": "Open interest",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open long",
+    "categoria": "Buka Long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open order",
+    "categoria": "Pesanan terbuka",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open position",
+    "categoria": "Posisi terbuka",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open short",
+    "categoria": "Buka Short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Opportunity Compass",
+    "categoria": "Kompas Peluang",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Order functions",
+    "categoria": "Fungsi pemesanan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Order history",
+    "categoria": "Riwayat pesanan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Outstanding",
+    "categoria": "Yang belum dibayar",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Overbought",
+    "categoria": "Terlalu banyak dibeli",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Overriding commission",
+    "categoria": "Komisi Tambahan",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Oversold",
+    "categoria": "Terjual habis",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Owner percentage",
+    "categoria": "Persentase pemilik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "P/E ratio",
+    "categoria": "Rasio P/E",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "P2P",
+    "categoria": "P2P",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "P2P discount coupon",
+    "categoria": "Kupon diskon P2P",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "P2P trading",
+    "categoria": "Perdagangan P2P",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL",
+    "categoria": "PNL",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL margin",
+    "categoria": "Margin PNL",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL rate",
+    "categoria": "Tingkat PNL",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PPI",
+    "categoria": "PPI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Palm recognition",
+    "categoria": "Pengenalan telapak tangan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Partial position",
+    "categoria": "Posisi parsial",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Passkey",
+    "categoria": "Kode sandi",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Pause",
+    "categoria": "Jeda",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Payout",
+    "categoria": "Bayaran",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Payout amount",
+    "categoria": "Jumlah bayaran",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Performance metrics",
+    "categoria": "Metrik kinerja",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Personal remaining quota",
+    "categoria": "Kuota pribadi yang tersisa",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Phishing",
+    "categoria": "Phishing",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Photo identification",
+    "categoria": "Identifikasi foto",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Pizza Day",
+    "categoria": "Hari Pizza",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Play to Earn",
+    "categoria": "Play to Earn",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Pocket Card",
+    "categoria": "Kartu Saku",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Point",
+    "categoria": "Poin",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Point booster",
+    "categoria": "Booster poin",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Position",
+    "categoria": "Posisi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position Limit Multiplier",
+    "categoria": "Pengganda Batas Posisi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position PNL",
+    "categoria": "PNL posisi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position airdrop",
+    "categoria": "Airdrop posisi",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Position margin",
+    "categoria": "Margin posisi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position mode",
+    "categoria": "Mode posisi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position size",
+    "categoria": "Ukuran posisi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position value",
+    "categoria": "Nilai posisi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Positive funding rate",
+    "categoria": "Tingkat pendanaan positif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Post-only",
+    "categoria": "Post-only",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Power Card",
+    "categoria": "Power Card",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Pre-IPO",
+    "categoria": "Pra-IPO",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pre-Market",
+    "categoria": "Pra-Pasar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pre-crediting",
+    "categoria": "Pra-kredit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Predict BTC & ETH Moves",
+    "categoria": "Prediksi Pergerakan BTC & ETH",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Prediction",
+    "categoria": "Prediksi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prediction Markets",
+    "categoria": "Pasar Prediksi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prediction result",
+    "categoria": "Hasil Prediksi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Premier",
+    "categoria": "Premier",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Premium Hustle",
+    "categoria": "Premium Hustle",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Price Insights",
+    "categoria": "Wawasan Harga",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Price protection",
+    "categoria": "Proteksi harga",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price quote",
+    "categoria": "Penawaran harga",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price range",
+    "categoria": "Kisaran harga",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price-to-earnings ratio",
+    "categoria": "Rasio harga terhadap laba",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Primary KYC",
+    "categoria": "KYC Utama",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Prime Merchant",
+    "categoria": "Pedagang Unggul",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Principal",
+    "categoria": "Modal",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Privacy Fever",
+    "categoria": "Demam Privasi",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Privacy token",
+    "categoria": "Token privasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prize pool",
+    "categoria": "Total hadiah",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Profit share ratio",
+    "categoria": "Rasio pembagian keuntungan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Proof of Stake (PoS)",
+    "categoria": "Proof of Stake (PoS)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proof of Trust (PoT)",
+    "categoria": "Proof of Trust (PoT)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proof of Work (PoW)",
+    "categoria": "Proof of Work (PoW)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Protocol",
+    "categoria": "Protokol",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proxy contract",
+    "categoria": "Kontrak proxy",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Public chain",
+    "categoria": "Rantai publik",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Public sale",
+    "categoria": "Public sale",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pulse",
+    "categoria": "Detak",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Purchase price",
+    "categoria": "Harga pembelian",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Put",
+    "categoria": "Put (hak)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quantity",
+    "categoria": "Kuantitas",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Quick Commit",
+    "categoria": "Komit Cepat",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Quick buy",
+    "categoria": "Pembelian cepat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quick copy",
+    "categoria": "Salinan cepat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quick stake",
+    "categoria": "Stake cepat",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Quote unit",
+    "categoria": "Harga satuan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "ROI",
+    "categoria": "ROI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RSI",
+    "categoria": "RSI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Race pass",
+    "categoria": "Tiket balapan",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Race to Zero",
+    "categoria": "Balapan Menuju Nol",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Real Stocks, Real Friends",
+    "categoria": "Saham Nyata, Teman Nyata",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Real-World Assets (RWA)",
+    "categoria": "Real-World Assets (RWA)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Real-time principal",
+    "categoria": "Real-time principal",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "RealStocks",
+    "categoria": "RealStocks",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RealStocks Fixed Investment",
+    "categoria": "Investasi Tetap RealStocks",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RealStocks RWA",
+    "categoria": "RealStock RWA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Realized PNL",
+    "categoria": "PNL terealisasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Rebase",
+    "categoria": "Penyesuaian pasokan",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Rebate",
+    "categoria": "Potongan harga",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rebate",
+    "categoria": "Rabat",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Recommended products",
+    "categoria": "Produk yang direkomendasikan",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Redeem",
+    "categoria": "Tebus",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeem early",
+    "categoria": "Tebuskan lebih awal",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeemed",
+    "categoria": "Ditebus",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeeming",
+    "categoria": "Penebusan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redemption failed",
+    "categoria": "Penebusan gagal",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redemption time",
+    "categoria": "Waktu penebusan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Reducible margin",
+    "categoria": "Margin yang dapat dikurangi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Refer",
+    "categoria": "Refer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Refer & Earn",
+    "categoria": "Refer & Hasilkan",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referee",
+    "categoria": "Referee",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral activity alerts",
+    "categoria": "Peringatan aktivitas referral",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral code",
+    "categoria": "Kode referral",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral link",
+    "categoria": "Tautan referral",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral profile tags",
+    "categoria": "Tag profil referral",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral reward",
+    "categoria": "Hadiah referral",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referral task",
+    "categoria": "Tugas referral",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referrer",
+    "categoria": "Referrer",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Reg time",
+    "categoria": "Jam reguler",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Register",
+    "categoria": "Daftar",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Register Now",
+    "categoria": "Daftar Sekarang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Registered",
+    "categoria": "Terdaftar",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Relative Strength Index",
+    "categoria": "Relative Strength Index",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Repayment",
+    "categoria": "Pembayaran kembali",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Reset security verification",
+    "categoria": "Atur ulang verifikasi keamanan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Resistance level",
+    "categoria": "Level Resistance",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse conversion rate",
+    "categoria": "Tingkat konversi terbalik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse exchange",
+    "categoria": "Pertukaran terbalik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse position",
+    "categoria": "Posisi terbalik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse position protection",
+    "categoria": "Perlindungan posisi terbalik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse splits",
+    "categoria": "Pemecahan terbalik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reward distribution",
+    "categoria": "Distribusi hadiah",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rewards Hub",
+    "categoria": "Pusat Reward",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rewards and conversion rate",
+    "categoria": "Hadiah dan tingkat konversi",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Rising Pool",
+    "categoria": "Rising Pool",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Risk Disclosure",
+    "categoria": "Pengungkapan Risiko",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Risk control",
+    "categoria": "Pengendalian risiko",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Risk limit",
+    "categoria": "Batas risiko",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Risk review",
+    "categoria": "Tinjauan risiko",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Robinhood",
+    "categoria": "Robinhood",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Rollback",
+    "categoria": "Rollback",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Round",
+    "categoria": "Ronde",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Running duration",
+    "categoria": "Durasi berjalan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Running mode",
+    "categoria": "Mode pengoperasian",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Running {grid_number}",
+    "categoria": "Pengoperasian {grid_number}",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "SEPA Instant",
+    "categoria": "SEPA Instan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "SMS verification",
+    "categoria": "Verifikasi SMS",
+    "contexto": "Account"
+  },
+  {
+    "termo": "SMS-based dynamic verification",
+    "categoria": "Verifikasi dinamis berbasis SMS",
+    "contexto": "Account"
+  },
+  {
+    "termo": "SOL staking",
+    "categoria": "Staking SOL",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "ST",
+    "categoria": "ST",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "SafePal sub-account",
+    "categoria": "Sub-akun SafePal",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Saturday",
+    "categoria": "Sabtu",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Scale-in order",
+    "categoria": "Scale-in order",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Security deposit",
+    "categoria": "Uang jaminan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Seed phrase",
+    "categoria": "Frasa kunci",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Select stock cash voucher",
+    "categoria": "Voucher tunai saham terpilih",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Self-destruct",
+    "categoria": "Self-destruct",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell High",
+    "categoria": "Jual Tinggi",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Sell if Touched",
+    "categoria": "Sell if Touched",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell price",
+    "categoria": "Harga jual",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sell to close long",
+    "categoria": "Sell to close long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell to open short",
+    "categoria": "Sell to open short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "September",
+    "categoria": "September",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Settlement amount",
+    "categoria": "Jumlah penyelesaian",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Settlement currency",
+    "categoria": "Mata uang penyelesaian",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Settlement interest rate",
+    "categoria": "Suku bunga penyelesaian",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Settlement time",
+    "categoria": "Waktu penyelesaian",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sharpe ratio",
+    "categoria": "Rasio Sharpe",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Short",
+    "categoria": "Short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Short-to-mid term volatility",
+    "categoria": "Volatilitas jangka pendek hingga menengah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sign Up",
+    "categoria": "Daftar",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Silver",
+    "categoria": "Perak",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Silver chest",
+    "categoria": "Peti perak",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Simple mode",
+    "categoria": "Mode sederhana",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Single-asset margin",
+    "categoria": "Margin aset tunggal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Single-asset mode",
+    "categoria": "Mode aset tunggal",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Slippage",
+    "categoria": "Slippage",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart Candles",
+    "categoria": "Candle Pintar",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart Chart",
+    "categoria": "Grafik Pintar",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart DCA",
+    "categoria": "Smart DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart Picks",
+    "categoria": "Pilihan Cerdas",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart contract",
+    "categoria": "Smart Contract",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Smart copy",
+    "categoria": "Salinan Pintar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart money",
+    "categoria": "Smart Money",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Smart ratio",
+    "categoria": "Rasio Pintar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Snapshot",
+    "categoria": "Snapshot",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Sold out",
+    "categoria": "Terjual",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sort",
+    "categoria": "Sortir",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Spinfest",
+    "categoria": "Spinfest",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Split buys",
+    "categoria": "Pembelian terpisah",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot",
+    "categoria": "Spot",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot DCA",
+    "categoria": "Spot DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot Grid",
+    "categoria": "Spot Grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot USDT Auto-Cover",
+    "categoria": "Auto-Cover Spot USDT",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot airdrop",
+    "categoria": "Airdrop Spot",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Spot grid bot",
+    "categoria": "Bot Spot Grid",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spread",
+    "categoria": "Spread",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spread",
+    "categoria": "Spread",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stablecoin",
+    "categoria": "Stablecoin",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stake",
+    "categoria": "Stake",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staked amount",
+    "categoria": "Jumlah Staking",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking confirmation",
+    "categoria": "Konfirmasi Staking",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking limit reached",
+    "categoria": "Batas staking tercapai",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking paused",
+    "categoria": "Staking diberhentikan sementara",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking pool",
+    "categoria": "Pool staking",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Staking successful",
+    "categoria": "Staking berhasil",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking time",
+    "categoria": "Waktu staking",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Standard",
+    "categoria": "Standar",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Standard",
+    "categoria": "Standar",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Standard account",
+    "categoria": "Akun standar",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Standard sub-account",
+    "categoria": "Sub-akun standar",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Star Points",
+    "categoria": "Poin Bintang",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Starter Pool",
+    "categoria": "Pool Pemula",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "StochRSI",
+    "categoria": "StochRSI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stochastic Relative Strength Index",
+    "categoria": "Stochastic Relative Strength Index",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stock Futures",
+    "categoria": "Futures Saham",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stock cash voucher",
+    "categoria": "Voucher tunai saham",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stock index",
+    "categoria": "Indeks saham",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stock redemption voucher",
+    "categoria": "Voucher penukaran saham",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stock splits",
+    "categoria": "Pemecahan saham",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stock voucher",
+    "categoria": "Voucher saham",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stocks",
+    "categoria": "Saham",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stop-limit order",
+    "categoria": "Stop-limit order",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stop-loss (SL)",
+    "categoria": "Stop-loss (SL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stopped",
+    "categoria": "Berhenti",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Strategy sub-account",
+    "categoria": "Sub-akun strategi",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Sub-account",
+    "categoria": "Sub-akun",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sub-affiliate",
+    "categoria": "Sub-afiliasi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Sunday",
+    "categoria": "Minggu",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Super X-Game",
+    "categoria": "Super X-Game",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Support level",
+    "categoria": "Level Support",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Supreme chest",
+    "categoria": "Peti Tertinggi",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "T-bill",
+    "categoria": "T-Bill",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "T-bond",
+    "categoria": "T-Bond",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Tail digit",
+    "categoria": "Digit terakhir",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Take-profit (TP)",
+    "categoria": "Take-profit (TP)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Taker",
+    "categoria": "Taker",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Tax burn",
+    "categoria": "Tax burn",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Team up, trade stocks, and claim victory with 0 fees.",
+    "categoria": "Bentuk tim, perdagangkan saham, dan raih kemenangan tanpa biaya.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Template Center",
+    "categoria": "Pusat Templat",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Term",
+    "categoria": "Masa",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Terminate",
+    "categoria": "Mengakhiri",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Threshold",
+    "categoria": "Ambang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Thursday",
+    "categoria": "Kamis",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Ticket",
+    "categoria": "Tiket",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Ticket tier",
+    "categoria": "Tingkat tiket",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Tie-breaker",
+    "categoria": "Penentuan pemenang",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Timestamp",
+    "categoria": "Waktu",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "To Advance",
+    "categoria": "Lolos",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "To be committed",
+    "categoria": "Dikomitkan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "To be repaid",
+    "categoria": "Dibayar kembali",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Today's total PNL",
+    "categoria": "Total PNL hari ini",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Token migration",
+    "categoria": "Migrasi token",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Token swap",
+    "categoria": "Penukaran token",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Token voucher",
+    "categoria": "Voucher Token",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Tokenomics",
+    "categoria": "Tokenomik",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Top Up",
+    "categoria": "Isi Ulang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total",
+    "categoria": "Total",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Total assets (USDT)",
+    "categoria": "Total aset (USDT)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total buy",
+    "categoria": "Total pembelian",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total commission",
+    "categoria": "Total komisi",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Total commission sharing",
+    "categoria": "Pembagian komisi total",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Total funding fees",
+    "categoria": "Total biaya pendanaan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total investment",
+    "categoria": "Total investasi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total market cap",
+    "categoria": "Total market cap",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Total sell",
+    "categoria": "Total penjualan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total strategy equity",
+    "categoria": "Total ekuitas strategi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total value locked (TVL)",
+    "categoria": "Total Value Locked (TVL)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Total withdrawals",
+    "categoria": "Total penarikan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Touch ID",
+    "categoria": "Touch ID",
+    "contexto": "Account"
+  },
+  {
+    "termo": "TradFi",
+    "categoria": "TradFi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Trade",
+    "categoria": "Dagang",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade amount",
+    "categoria": "Jumlah perdagangan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade for team triumph. Powered by 0-fee stock trading.",
+    "categoria": "Berdagang untuk kemenangan tim. Didukung oleh perdagangan saham 0-biaya.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trade history",
+    "categoria": "Riwayat perdagangan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade type",
+    "categoria": "Tipe perdagangan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade volume",
+    "categoria": "Volume perdagangan",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trader",
+    "categoria": "Trader",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading Takes Two: Meet Your MEXC AI Trading Companion",
+    "categoria": "Berdagang Butuh Pasangan: Kenali Mitra Perdagangan AI MEXC Anda",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trading bot",
+    "categoria": "Bot perdagangan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading frequency",
+    "categoria": "Frekuensi perdagangan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading volume ranking",
+    "categoria": "Peringkat volume perdagangan",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trail to Buy",
+    "categoria": "Trail to Buy",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trail to Sell",
+    "categoria": "Trail to Sell",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trail variance",
+    "categoria": "Variansi trail",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trailing delta",
+    "categoria": "Trailing delta",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trailing stop",
+    "categoria": "Trailing stop",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Transfer",
+    "categoria": "Transfer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Transfer pausable",
+    "categoria": "Pemberhentian sementara transfer",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Travel Rule",
+    "categoria": "Travel Rule",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Treasury Bill",
+    "categoria": "Surat Utang Negara",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Treasury Bond",
+    "categoria": "Obligasi Pemerintah",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Trigger order",
+    "categoria": "Trigger order",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger price",
+    "categoria": "Trigger price",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger-limit",
+    "categoria": "Trigger-limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger-market",
+    "categoria": "Trigger-market",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Tuesday",
+    "categoria": "Selasa",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Two-factor authentication",
+    "categoria": "Autentikasi dua faktor",
+    "contexto": "Account"
+  },
+  {
+    "termo": "TxID",
+    "categoria": "TxID",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "U.S. stocks",
+    "categoria": "Saham AS",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "USDC-M",
+    "categoria": "USDC-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "USDT-M",
+    "categoria": "USDT-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Ultimate Pool",
+    "categoria": "Pool Ultimate",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Uncredited Deposit Return Application",
+    "categoria": "Permohonan Pengembalian Deposit yang Belum Dikreditkan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Uncredited deposit",
+    "categoria": "Deposit yang belum dikreditkan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Under appeal",
+    "categoria": "Dalam proses banding",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Underwriter",
+    "categoria": "Underwriter",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Underwriting fee",
+    "categoria": "Biaya Underwriting",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Universal stock cash voucher",
+    "categoria": "Voucher tunai saham universal",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Unmatched PNL",
+    "categoria": "PNL yang belum terpasang",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Unrealized PNL",
+    "categoria": "PNL yang belum terealisasikan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Up",
+    "categoria": "Atas",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Up payout",
+    "categoria": "Bayaran saat harga naik",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upgradable transfer fees",
+    "categoria": "Biaya transfer yang dapat ditingkatkan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upper limit",
+    "categoria": "Upper limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upper stop price",
+    "categoria": "Upper stop price",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "VPA",
+    "categoria": "VPA",
+    "contexto": "Account"
+  },
+  {
+    "termo": "VVIP",
+    "categoria": "VVIP",
+    "contexto": ""
+  },
+  {
+    "termo": "Value date",
+    "categoria": "Tanggal nilai",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Verification code",
+    "categoria": "Kode verifikasi",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Verified Merchant",
+    "categoria": "Pedagang Terverifikasi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Video identification",
+    "categoria": "Identifikasi video",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Video morning brief",
+    "categoria": "Video informasi pagi",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "View AI Plans",
+    "categoria": "Lihat Paket AI",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "View AI Review",
+    "categoria": "Lihat Ulasan AI",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "View More",
+    "categoria": "Lihat Selengkapnya",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Virtual payment address",
+    "categoria": "Alamat pembayaran virtual",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Voice input",
+    "categoria": "Masukan suara",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Voucher Center",
+    "categoria": "Pusat Voucher",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Wash sale rule",
+    "categoria": "Aturan Wash Sale",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Wash trading",
+    "categoria": "Wash trading",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Watchlist",
+    "categoria": "Daftar pantauan",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "We See You",
+    "categoria": "Kami Melihat Anda",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Wednesday",
+    "categoria": "Rabu",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "White Zone",
+    "categoria": "Zona Putih",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Whitelist",
+    "categoria": "Whitelist",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Williams %R",
+    "categoria": "Williams %R",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Win rate",
+    "categoria": "Tingkat kemenangan",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Withdrawal Protection",
+    "categoria": "Perlindungan Penarikan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal history",
+    "categoria": "Riwayat penarikan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal network",
+    "categoria": "Jaringan penarikan",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal runs",
+    "categoria": "Penarikan dana",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Yesterday's Interest",
+    "categoria": "Bunga Kemarin",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Yield farming",
+    "categoria": "Yield farming",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Yield rate",
+    "categoria": "Tingkat imbal hasil",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Your 0-fee gateway to infinite opportunities",
+    "categoria": "Gerbang 0-Biaya Anda Menuju Peluang Tak Terbatas",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Your Easiest Way to Crypto",
+    "categoria": "Cara Termudah Anda untuk Mendapatkan Kripto",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "ZK rollup",
+    "categoria": "ZK rollup",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "ZKP",
+    "categoria": "ZKP",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Zero-Fee Gala",
+    "categoria": "Gala Nol-Biaya",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Zero-Knowledge Proof",
+    "categoria": "Zero-Knowledge Proof",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "{s}-leg combo",
+    "categoria": "Combo {s}-leg",
+    "contexto": "Trade"
+  }
+]
