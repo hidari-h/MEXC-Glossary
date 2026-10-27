@@ -4588,5 +4588,10 @@
     "termo": "{s}-leg combo",
     "categoria": "Combo de {s} legs",
     "contexto": "Trade"
+  },
+  {
+    "termo": "Benefits",
+    "categoria": "Benefícios",
+    "contexto": ""
   }
 ]
