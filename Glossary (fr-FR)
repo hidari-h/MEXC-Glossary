@@ -1,0 +1,4592 @@
+[
+  {
+    "termo": "$100M Guardian Fund",
+    "categoria": "Fonds de garantie de 100M $",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "0 Thresholds. 1 M-Score. ∞ Opportunities.",
+    "categoria": "0 seuil. 1 M-Score. Opportunités ∞.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "0 fees",
+    "categoria": "0 frais",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "0-Fee Fest",
+    "categoria": "Festival 0 frais",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "0-fee",
+    "categoria": "0 frais",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "1-second interval chart",
+    "categoria": "Graphique à intervalles d'une seconde",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "2FA",
+    "categoria": "2FA",
+    "contexto": "Account"
+  },
+  {
+    "termo": "AI Anchor",
+    "categoria": "Présentateur IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Assistant",
+    "categoria": "Assistant IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Consultant",
+    "categoria": "Conseiller IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Insights",
+    "categoria": "Analyses IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "categoria": "Copy Trading de modèles IA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "AI Model Copy Trade",
+    "categoria": "Copy Trading de modèles IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI News Radar",
+    "categoria": "Radar d'actualités IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Plan",
+    "categoria": "Plan IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Radar",
+    "categoria": "Radar IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Rankings",
+    "categoria": "Classements IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Recommendation",
+    "categoria": "Recommandation IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Review",
+    "categoria": "Bilan IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Select List",
+    "categoria": "Liste de sélection IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Signal",
+    "categoria": "Signal IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Strategy",
+    "categoria": "Stratégie IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Toolbox",
+    "categoria": "Boîte à outils IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "AI Trends",
+    "categoria": "Tendances IA",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "API broker",
+    "categoria": "Broker API",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "API key",
+    "categoria": "Clé API",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "API market makers",
+    "categoria": "Market makers API",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "APR",
+    "categoria": "TAEG",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "APR booster",
+    "categoria": "Booster de TAEG",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "APY",
+    "categoria": "APY",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Access restricted",
+    "categoria": "Accès restreint",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Account asset modes",
+    "categoria": "Modes de gestion des actifs du compte",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Account manager",
+    "categoria": "Gestionnaire de compte",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Account notification",
+    "categoria": "Notification du compte",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Accurate",
+    "categoria": "Exact",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activate",
+    "categoria": "Activer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activation price",
+    "categoria": "Prix d'activation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Activation successful",
+    "categoria": "Activation réussie",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Activation time",
+    "categoria": "Heure d'activation",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Active order",
+    "categoria": "Ordre actif",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Add margin",
+    "categoria": "Ajouter de la marge",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Additional verification",
+    "categoria": "Vérification supplémentaire",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Advanced KYC",
+    "categoria": "Vérification d'identité (KYC) avancée",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Advanced Mode",
+    "categoria": "Mode avancé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advanced TP/SL",
+    "categoria": "TP/SL avancé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advertisement (Ad)",
+    "categoria": "Annonce",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Advertiser",
+    "categoria": "Marchand",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Affiliate",
+    "categoria": "Affilié",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Aggressive",
+    "categoria": "Agressif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Airdrop",
+    "categoria": "Airdrop",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Airdrop+",
+    "categoria": "Airdrop+",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Allocation ratio",
+    "categoria": "Taux d'allocation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Alpha",
+    "categoria": "Alpha",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Alpha Manager",
+    "categoria": "Gestionnaire Alpha",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Alpha Plaza",
+    "categoria": "Plaza Alpha",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Alpha Strategy",
+    "categoria": "Stratégie Alpha",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Alpha Trader",
+    "categoria": "Trader Alpha",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Alpha Trader Experience Card",
+    "categoria": "Carte Expérience Trader Alpha",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Altcoin",
+    "categoria": "Altcoin",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Analysis",
+    "categoria": "Analyse",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Anti-phishing code",
+    "categoria": "Code anti-hameçonnage",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Appeal",
+    "categoria": "Litige",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Appellant",
+    "categoria": "Partie appellant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Appellee",
+    "categoria": "Défendeur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "April",
+    "categoria": "Avril",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Arbitrage",
+    "categoria": "Arbitrage",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Arithmetic",
+    "categoria": "Arithmétique",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Ask1",
+    "categoria": "Prix vendeur 1",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Assessment Zone",
+    "categoria": "Zone d'évaluation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "August",
+    "categoria": "Août",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Authenticator app",
+    "categoria": "Application d'authentification",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Auto Take Profit",
+    "categoria": "Take Profit automatique",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Auto margin addition",
+    "categoria": "Ajout automatique de marge",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Auto-Earn",
+    "categoria": "Épargne automatique",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Auto-deleveraging (ADL)",
+    "categoria": "Désendettement automatique (ADL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Automated market maker (AMM)",
+    "categoria": "Automated market maker (AMM)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Automatic",
+    "categoria": "Automatique",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Available",
+    "categoria": "Disponible",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Available margin",
+    "categoria": "Marge disponible",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average close price",
+    "categoria": "Prix de clôture moyen",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average entry price",
+    "categoria": "Prix d'entrée moyen",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Average purchase value",
+    "categoria": "Valeur d'achat moyenne",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "BIZ Merchant",
+    "categoria": "Marchand BIZ",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "BTTS",
+    "categoria": "LDEM",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "BYDFi",
+    "categoria": "BYDFi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Balance",
+    "categoria": "Solde",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Bankruptcy price",
+    "categoria": "Prix de faillite",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Base APR",
+    "categoria": "TAEG de base",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Base crypto",
+    "categoria": "Crypto de base",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Battle the 0-fee way. Win as one with stocks.",
+    "categoria": "Combattez à 0 frais. Gagnez ensemble avec les actions.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Bid1",
+    "categoria": "Prix acheteur 1",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Bitcoin inscription",
+    "categoria": "Inscription Bitcoin",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Blacklist",
+    "categoria": "Liste noire",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Bollinger Bands",
+    "categoria": "Bandes de Bollinger",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Bonus",
+    "categoria": "Bonus",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Bonus APR",
+    "categoria": "TAEG bonus",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Both Teams to Score",
+    "categoria": "Les deux équipes marquent",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Broker sub-account",
+    "categoria": "Sous-compte broker",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Bronze chest",
+    "categoria": "Coffre en bronze",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Buy Low",
+    "categoria": "Achat bas",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Buy if Touched",
+    "categoria": "Achat si seuil atteint",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Buy price",
+    "categoria": "Prix d'achat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Buy to close short",
+    "categoria": "Acheter pour clôturer une position courte",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Buy to open long",
+    "categoria": "Acheter pour ouvrir une position longue",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CCI",
+    "categoria": "ICC",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "CFD",
+    "categoria": "CFD",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CFD (Contract for Difference)",
+    "categoria": "CFD (contrat sur la différence)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "CPI",
+    "categoria": "CPI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Call",
+    "categoria": "Call",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cancel All",
+    "categoria": "Annuler tout",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Candlestick",
+    "categoria": "Bougie",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Candlestick chart",
+    "categoria": "Graphique en bougies",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Capital gain",
+    "categoria": "Plus-value",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Capital loss",
+    "categoria": "Moins-value",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cash Deposit to Bank",
+    "categoria": "Dépôt en espèces à la banque",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cash Zone",
+    "categoria": "Zone cash",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cash in Person",
+    "categoria": "Espèces en personne",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cashback",
+    "categoria": "Cashback",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Chase limit order",
+    "categoria": "Ordre Chase Limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Check-in",
+    "categoria": "Enregistrement",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Chest",
+    "categoria": "Coffre",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Circuit breaker",
+    "categoria": "Coupe-circuit",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Circulating supply",
+    "categoria": "Offre en circulation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Claim",
+    "categoria": "Réclamer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Close",
+    "categoria": "Clôturer",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close All",
+    "categoria": "Tout clôturer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Close long",
+    "categoria": "Clôturer le Long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close position",
+    "categoria": "Clôturer la position",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close price",
+    "categoria": "Prix de clôture",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Close short",
+    "categoria": "Clôturer le Short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Closing PNL",
+    "categoria": "P&L clôturé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cloud mining",
+    "categoria": "Minage cloud",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Coin-M",
+    "categoria": "Coin-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Coin-Margined",
+    "categoria": "Marginé en crypto",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Collateral",
+    "categoria": "Collatéral",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Collateral crypto",
+    "categoria": "Crypto en collatéral",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Combo",
+    "categoria": "Combo",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Combo",
+    "categoria": "Combo",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Combo Buff",
+    "categoria": "Buff combo",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Combo Card",
+    "categoria": "Carte combo",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Comeback Trader Fest",
+    "categoria": "Fiesta du retour des traders",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commission",
+    "categoria": "Commission",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission rate",
+    "categoria": "Taux de commission",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission ratio",
+    "categoria": "Taux de commission",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission sharing rate",
+    "categoria": "Taux de partage des commissions",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Commission sharing ratio",
+    "categoria": "Taux de partage des commissions",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Committed",
+    "categoria": "Engagé",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commodities",
+    "categoria": "Matières premières",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Commodity Carnival",
+    "categoria": "Carnaval des matières premières",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Commodity futures",
+    "categoria": "Contrats à terme sur les matières premières",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Compare",
+    "categoria": "Comparer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contract (cont.)",
+    "categoria": "Contrat (cont.)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract amount",
+    "categoria": "Montant du contrat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contract for Difference",
+    "categoria": "Contrat sur différence",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract settlement",
+    "categoria": "Règlement du contrat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract size",
+    "categoria": "Taille du contrat",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Contract verified",
+    "categoria": "Contrat vérifié",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contracts",
+    "categoria": "Contrats",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Contrarian",
+    "categoria": "Contrarien",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Conversion rate",
+    "categoria": "Taux de conversion",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Convert",
+    "categoria": "Convertir",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy Trade",
+    "categoria": "Copy Trading",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy Trade Showdown",
+    "categoria": "Défi de Copy Trading",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Copy trade bonus",
+    "categoria": "Bonus de Copy Trading",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Corporate bond",
+    "categoria": "Obligation d'entreprise",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Correct Score",
+    "categoria": "Score exact",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Create bot",
+    "categoria": "Créer un bot",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Cross margin mode",
+    "categoria": "Mode de marge croisée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Cross-chain",
+    "categoria": "Cross-chain",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cross-chain bridge",
+    "categoria": "Bridge cross-chain",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Cross-region arbitrage",
+    "categoria": "Arbitrage interrégional",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crude oil",
+    "categoria": "Pétrole brut",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Crypto",
+    "categoria": "Crypto",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crypto exchange",
+    "categoria": "Plateforme d'échange de cryptomonnaies",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Crypto tax calculator",
+    "categoria": "Calculateur d'impôts crypto",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Current market cap",
+    "categoria": "Capitalisation boursière actuelle",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current market price",
+    "categoria": "Prix actuel du marché",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current positions",
+    "categoria": "Positions actuelles",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Current tokens",
+    "categoria": "Tokens actuels",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom",
+    "categoria": "Personnalisé",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom buy quantity (%)",
+    "categoria": "Quantité d'achat personnalisée (%)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Custom sell quantity (%)",
+    "categoria": "Quantité de vente personnalisée (%)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Customer Service",
+    "categoria": "Service client",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "DCA interval",
+    "categoria": "DCA par intervalle",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DCA plan",
+    "categoria": "Plan de DCA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DEX trading",
+    "categoria": "Trading sur DEX",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DEX+",
+    "categoria": "DEX+",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "DMI",
+    "categoria": "DMI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Daily Hustle",
+    "categoria": "Grind quotidien",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Daily PNL (USDT)",
+    "categoria": "P&L quotidien (USDT)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Daily interest rate",
+    "categoria": "Taux d'intérêt quotidien",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Daily lucky draw",
+    "categoria": "Tirage au sort quotidien",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Daily picks",
+    "categoria": "Sélections du jour",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Deactivated",
+    "categoria": "Désactivé",
+    "contexto": "Account"
+  },
+  {
+    "termo": "December",
+    "categoria": "Décembre",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Decentralized application (DApp)",
+    "categoria": "Application décentralisée (DApp)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Decentralized exchange (DEX)",
+    "categoria": "Plateforme d'échange décentralisé (DEX)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Delist",
+    "categoria": "Délisting",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Demo Trading",
+    "categoria": "Trading Démo",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Deposit",
+    "categoria": "Déposer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Deposit address",
+    "categoria": "Adresse de dépôt",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Diamond chest",
+    "categoria": "Coffre diamant",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Differential",
+    "categoria": "Différentiel",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Digital Rupee",
+    "categoria": "eRupee numérique",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Digital Rupee wallet",
+    "categoria": "Portefeuille eRupee numérique",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Direct downline affiliate",
+    "categoria": "Sous-affilié direct",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Direct referral",
+    "categoria": "Parrainage direct",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Direction",
+    "categoria": "Direction",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Directional Movement Index",
+    "categoria": "Indice de mouvement directionnel (DMI)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Discover Your Wall Street DNA",
+    "categoria": "Découvrez votre ADN de Wall Street",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Dispute",
+    "categoria": "Litige",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Dollar cost averaging (DCA)",
+    "categoria": "Investissement progressif (DCA)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Down",
+    "categoria": "Baisse",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Down payout",
+    "categoria": "Paiement à la baisse",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Downline affiliate",
+    "categoria": "Sous-affilié",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Dual Investment",
+    "categoria": "Dual Investment",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Dutch Auction",
+    "categoria": "Enchère hollandaise",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "EDD",
+    "categoria": "EDD",
+    "contexto": "Account"
+  },
+  {
+    "termo": "EMA",
+    "categoria": "EMA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "EPS",
+    "categoria": "BPA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Early access",
+    "categoria": "Accès anticipé",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Early settlement",
+    "categoria": "Règlement anticipé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Earn Now",
+    "categoria": "Épargner",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Earn Plus",
+    "categoria": "Épargne Plus",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Earn more. Stay flexible.",
+    "categoria": "Gagnez plus. Restez flexible.",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Earnings per share",
+    "categoria": "Bénéfice par action",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Effective margin",
+    "categoria": "Marge effective",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Elite",
+    "categoria": "Élite",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Elite Pool",
+    "categoria": "Cagnotte Élite",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Email verification",
+    "categoria": "Vérification par e-mail",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Enhanced DCA",
+    "categoria": "DCA renforcé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Enhanced due diligence",
+    "categoria": "Vérification renforcée (EDD)",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Enrollment",
+    "categoria": "Inscription",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Entire position",
+    "categoria": "Position entière",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Entry price",
+    "categoria": "Prix d'entrée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Equity",
+    "categoria": "Capitaux propres",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Equity",
+    "categoria": "Action",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Equity value",
+    "categoria": "Valeur des capitaux propres",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Escrow",
+    "categoria": "Escrow",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Est max allocation",
+    "categoria": "Allocation maximale estimée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Est.",
+    "categoria": "Est.",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Estimated APR (Est. APR)",
+    "categoria": "TAEG estimé (TAEG est.)",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Estimated PNL (Est. PNL)",
+    "categoria": "P&L estimé (P&L est.)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Estimated Payoff (Est. Payoff)",
+    "categoria": "Gain estimé (gain est.)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Estimated profit per grid (Est. profit per grid)",
+    "categoria": "Profit estimé par grille (profit est. par grille)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Event",
+    "categoria": "Événement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Event Futures",
+    "categoria": "Contrats à terme d'événement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Exchange rate",
+    "categoria": "Taux de change",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Expected PNL",
+    "categoria": "P&L attendu",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Experience Card",
+    "categoria": "Carte d'expérience",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Exponential Moving Average",
+    "categoria": "Moyenne mobile exponentielle (EMA)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "FAQ",
+    "categoria": "FAQ",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Face ID",
+    "categoria": "Face ID",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Facial recognition",
+    "categoria": "Reconnaissance faciale",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Failed to load",
+    "categoria": "Échec du chargement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Fair price",
+    "categoria": "Prix juste",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Favorites",
+    "categoria": "Favoris",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Fear & Greed Index",
+    "categoria": "Indice de peur et de cupidité",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Featured",
+    "categoria": "À la une",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Featured ad",
+    "categoria": "Annonce à la une",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "February",
+    "categoria": "Février",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Fee voucher",
+    "categoria": "Coupon de frais",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Fiat",
+    "categoria": "Monnaie fiduciaire",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fiat Deposit Fest",
+    "categoria": "Fête des dépôts en monnaie fiduciaire",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Fill price",
+    "categoria": "Prix d'exécution",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fill-Or-Kill (FOK)",
+    "categoria": "Fill-Or-Kill (FOK)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Final offering price",
+    "categoria": "Prix d'offre final",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "First in market",
+    "categoria": "Première sur le marché",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fixed Loans",
+    "categoria": "Prêts à taux fixe",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Fixed Savings",
+    "categoria": "Épargne verrouillée",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Fixed-price advertisement",
+    "categoria": "Annonce à prix fixe",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flash Close",
+    "categoria": "Clôture instantanée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flash Trading",
+    "categoria": "Trading express",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Flex Now",
+    "categoria": "Flex",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Flex Strategy",
+    "categoria": "Stratégie flexible",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Flexible Loans",
+    "categoria": "Prêts flexibles",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flexible Savings",
+    "categoria": "Épargne flexible",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flexible redemption",
+    "categoria": "Rachat flexible",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Flip Fest",
+    "categoria": "Flip Fest",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Flipping",
+    "categoria": "Flipping",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Floating-price ad",
+    "categoria": "Annonce à prix flottant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Floor price",
+    "categoria": "Prix plancher",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follow trade",
+    "categoria": "Suivre la transaction",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follower",
+    "categoria": "Abonné",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Follower ID",
+    "categoria": "Identifiant de l'abonné",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Forex",
+    "categoria": "Forex",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Forex Perpetual Futures",
+    "categoria": "Contrats à terme perpétuels Forex",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Freezable",
+    "categoria": "Pouvant être gelé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Friday",
+    "categoria": "Vendredi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Frozen asset",
+    "categoria": "Actif gelé",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Fully diluted shares",
+    "categoria": "Actions entièrement diluées",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Fully diluted valuation (FDV)",
+    "categoria": "Valorisation entièrement diluée (FDV)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Fully staked",
+    "categoria": "Entièrement staké",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Funding History",
+    "categoria": "Historique des flux financiers",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Funding fees",
+    "categoria": "Frais de financement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Funding rate",
+    "categoria": "Taux de financement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "FutureProof",
+    "categoria": "FutureProof",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Futures",
+    "categoria": "Contrats à terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures DCA",
+    "categoria": "DCA en contrats à terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Earn",
+    "categoria": "Épargne à terme",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Futures Grid",
+    "categoria": "Grille des contrats à terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Grid AI",
+    "categoria": "IA de trading des contrats à terme en grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Insurance Fund",
+    "categoria": "Fonds d'assurance des contrats à terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures Leaderboard",
+    "categoria": "Classement des contrats à terme",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Futures M-Day",
+    "categoria": "Futures M-Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Futures bonus",
+    "categoria": "Bonus en contrats à terme",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Futures grid bot",
+    "categoria": "Bot en grille sur les contrats à terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Futures trading",
+    "categoria": "Trading des contrats à terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "GEO Pay",
+    "categoria": "GEO Pay",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gas (usual)",
+    "categoria": "Frais de gaz (standard)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gem",
+    "categoria": "Gemmes",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Gemstone Atelier",
+    "categoria": "Atelier des gemmes",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Get $10,000",
+    "categoria": "Obtenez 10 000 $",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Get Help",
+    "categoria": "Obtenir de l'aide",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Global Football Prediction Masters",
+    "categoria": "Maîtres mondiaux des prédictions de football",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Go",
+    "categoria": "Aller",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Gold",
+    "categoria": "Or",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Gold Miner Rush",
+    "categoria": "Ruée des mineurs d'or",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Gold chest",
+    "categoria": "Coffre en or",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Golden Cross",
+    "categoria": "Croix d'or",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Good-Till-Canceled (GTC)",
+    "categoria": "Good-Till-Canceled (GTC)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Goodie bag",
+    "categoria": "Sac de récompenses",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Google Authentication",
+    "categoria": "Authentification Google",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Google Authenticator",
+    "categoria": "Google Authenticator",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Government bond",
+    "categoria": "Obligation d'état",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Gradient",
+    "categoria": "Taux de variation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Graduating",
+    "categoria": "En progression",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Grid count",
+    "categoria": "Nombre de grilles",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid order ID",
+    "categoria": "Identifiant d'ordre de grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid parameters",
+    "categoria": "Paramètres de grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit",
+    "categoria": "Profit de grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit count",
+    "categoria": "Nombre de profits de grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid profit history",
+    "categoria": "Historique des profits de grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Grid trading",
+    "categoria": "Trading en grille",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Guaranteed stop-loss (Guaranteed SL)",
+    "categoria": "Stop-Loss garanti (SL garanti)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Guardian Fund",
+    "categoria": "Fonds de garantie",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Hand Rank",
+    "categoria": "Classement de la main",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Haptic feedback",
+    "categoria": "Retour haptique",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hard fork",
+    "categoria": "Hard fork",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hash rate",
+    "categoria": "Taux de hachage",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Heat map",
+    "categoria": "Carte thermique",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Hedge mode",
+    "categoria": "Mode de couverture",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Help Center",
+    "categoria": "Centre d'aide",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Hide other pairs",
+    "categoria": "Masquer les autres paires",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "High frequency",
+    "categoria": "Haute fréquence",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "High risk",
+    "categoria": "Risque élevé",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Historical data",
+    "categoria": "Données historiques",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Hold and Earn",
+    "categoria": "Détenez et gagnez",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Holder",
+    "categoria": "Détenteur",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Honeypot",
+    "categoria": "Honeypot",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Hot Futures Challenge",
+    "categoria": "Défi des contrats à terme",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Hot Searches",
+    "categoria": "Recherches populaires",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Hourly interest rate",
+    "categoria": "Taux d'intérêt horaire",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "IPO Express",
+    "categoria": "IPO Express",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "IPO base price",
+    "categoria": "Prix de base de l'IPO",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Idle asset",
+    "categoria": "Actif inactif",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Immediate-Or-Cancel (IOC)",
+    "categoria": "Immediate-Or-Cancel (IOC)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Impermanent loss",
+    "categoria": "Perte impermanente",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Implied valuation",
+    "categoria": "Valorisation implicite",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "In negotiation",
+    "categoria": "En cours de négociation",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Inaccurate",
+    "categoria": "Inexact",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Index",
+    "categoria": "Indice",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Index Futures",
+    "categoria": "Contrats à terme sur indices",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Index price",
+    "categoria": "Prix de l'indice",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Indicative price",
+    "categoria": "Prix indicatif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Infinity Arena",
+    "categoria": "Arène Infinity",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Initial LTV",
+    "categoria": "LTV initial",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Initial investment amount",
+    "categoria": "Montant de l'investissement initial",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial listing",
+    "categoria": "Listing initial",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial margin",
+    "categoria": "Marge initiale",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Initial margin rate",
+    "categoria": "Taux de marge initiale",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Innovation Zone",
+    "categoria": "Zone innovation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Instant Convert",
+    "categoria": "Conversion instantanée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Institutional Loans",
+    "categoria": "Prêts institutionnels",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Institutional sub-accounts",
+    "categoria": "Sous-comptes institutionnels",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Insufficient balance",
+    "categoria": "Solde insuffisant",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Insurance Fund",
+    "categoria": "Fonds d'assurance",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Intelligence for every opportunity",
+    "categoria": "L'intelligence au service de chaque opportunité",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Interest",
+    "categoria": "Intérêt",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest accrued",
+    "categoria": "Intérêts accumulés",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest accrues on",
+    "categoria": "Les intérêts s'accumulent sur",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest amount",
+    "categoria": "Montant des intérêts",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest distributed",
+    "categoria": "Intérêts distribués",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Interest settlement",
+    "categoria": "Règlement des intérêts",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Interest settlement history",
+    "categoria": "Historique du règlement des intérêts",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Interest summary",
+    "categoria": "Résumé des intérêts",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest-bearing amount",
+    "categoria": "Montant portant intérêt",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Interest-bearing principal",
+    "categoria": "Capital porteur d'intérêts",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Intraday price",
+    "categoria": "Prix intrajournalier",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Investment allocation",
+    "categoria": "Répartition de l'investissement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Invite",
+    "categoria": "Parrainer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Invitee",
+    "categoria": "Invité",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Inviter",
+    "categoria": "Parrain",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Iron chest",
+    "categoria": "Coffre en fer",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Isolated margin",
+    "categoria": "Marge isolée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Isolated margin mode",
+    "categoria": "Mode de marge isolée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "January",
+    "categoria": "Janvier",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Join Now",
+    "categoria": "Participer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "July",
+    "categoria": "Juillet",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "June",
+    "categoria": "Juin",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "KDJ",
+    "categoria": "KDJ",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "KYC verification",
+    "categoria": "Vérification d'identité (KYC)",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Kickstarter",
+    "categoria": "Kickstarter",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "LTV",
+    "categoria": "LTV",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Last price",
+    "categoria": "Dernier prix",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Launchpad",
+    "categoria": "Launchpad",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Launchpool",
+    "categoria": "Launchpool",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Lead Trade",
+    "categoria": "Transaction de Lead Trading",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Legacy Merchant",
+    "categoria": "Marchand legacy",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Let AI Choose",
+    "categoria": "Laisser l'IA choisir",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Let AI Monitor Markets",
+    "categoria": "Laisser l'IA surveiller les marchés",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Leverage mode",
+    "categoria": "Mode de levier",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Leverage multiplier",
+    "categoria": "Multiplicateur de levier",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability",
+    "categoria": "Passif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability repayment (collection)",
+    "categoria": "Remboursement du passif (recouvrement)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liability repayment (payment)",
+    "categoria": "Remboursement du passif (paiement)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit Convert",
+    "categoria": "Limite de conversion",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit order",
+    "categoria": "Ordre Limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limit price",
+    "categoria": "Prix Limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Limitless gains. Boundless glory.",
+    "categoria": "Des gains sans limites. Une gloire sans frontières.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Liquidation",
+    "categoria": "Liquidation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidation LTV",
+    "categoria": "LTV de liquidation",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Liquidity locked",
+    "categoria": "Liquidité verrouillée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidity pool",
+    "categoria": "Pool de liquidité",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Liquidity provider",
+    "categoria": "Fournisseur de liquidité",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Listed",
+    "categoria": "Listé",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Lite App",
+    "categoria": "Lite App",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Live market pass",
+    "categoria": "Pass marché en direct",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Live trading",
+    "categoria": "Trading en direct",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Loan crypto",
+    "categoria": "Prêt crypto",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Loan-to-value ratio (LTV)",
+    "categoria": "Ratio prêt-valeur (LTV)",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Lockup system",
+    "categoria": "Système de verrouillage",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Long",
+    "categoria": "Long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Long-term volatility",
+    "categoria": "Volatilité à long terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Long/short ratio",
+    "categoria": "Ratio long/short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Loss coverage",
+    "categoria": "Couverture des pertes",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Low frequency",
+    "categoria": "Basse fréquence",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Low risk",
+    "categoria": "Risque faible",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Low-risk mode",
+    "categoria": "Mode faible risque",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lower limit",
+    "categoria": "Limite basse",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lower stop price",
+    "categoria": "Prix stop inférieur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Lucky claw",
+    "categoria": "Pince chanceuse",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "M-Day",
+    "categoria": "M-Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "M-Score",
+    "categoria": "M-Score",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MA",
+    "categoria": "MA",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MACD",
+    "categoria": "MACD",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MEV defense",
+    "categoria": "Protection MEV",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC 0808",
+    "categoria": "MEXC 0808",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC 0808: Stock Season",
+    "categoria": "MEXC 0808: saison des actipns",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC AI",
+    "categoria": "IA MEXC",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Affiliate Program",
+    "categoria": "Programme d'affiliation MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC CLI",
+    "categoria": "MEXC CLI",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXC Card",
+    "categoria": "Carte MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC CoLab",
+    "categoria": "MEXC CoLab",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Digest",
+    "categoria": "MEXC Digest",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Earn",
+    "categoria": "MEXC Épargne",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "MEXC Event Center",
+    "categoria": "Centre d'événements MEXC",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC Global Ambassador Program",
+    "categoria": "Programme d'ambassadeur mondial MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Global Card",
+    "categoria": "Carte mondiale MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC Kickoff Fest",
+    "categoria": "Festival du coup d'envoi de MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC Learn",
+    "categoria": "MEXC Learn",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Learn UGC Creator Program",
+    "categoria": "Programme de créateurs UGC de MEXC Learn",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Loans",
+    "categoria": "Prêts MEXC",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "MEXC Mirror Credit",
+    "categoria": "MEXC Mirror Credit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC P2P Merchant Program",
+    "categoria": "Programme de marchands P2P MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Referral Ambassador Program",
+    "categoria": "Programme d'ambassadeur de parrainage MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Referral Program",
+    "categoria": "Programme de parrainage MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Square",
+    "categoria": "MEXC Square",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXC Stock Compare",
+    "categoria": "Comparateur d’actions MEXC",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC User Agreement",
+    "categoria": "Accord d'utilisation MEXC",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MEXC VIP",
+    "categoria": "VIP MEXC",
+    "contexto": "Program"
+  },
+  {
+    "termo": "MEXC Win",
+    "categoria": "MEXC Win",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MEXC × ether.fi Card",
+    "categoria": "Carte MEXC × ether.fi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "MEXC-AI",
+    "categoria": "IA MEXC",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "MEXCer",
+    "categoria": "Utilisateur de MEXC",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize every payment",
+    "categoria": "MEXCimisez chaque paiement",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your access",
+    "categoria": "MEXCimisez votre accès",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your earnings",
+    "categoria": "MEXCimisez vos gains",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your liquidity",
+    "categoria": "MEXCimisez votre liquidité",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your opportunities",
+    "categoria": "MEXCimisez vos opportunités",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MEXCmize your predictions",
+    "categoria": "MEXCimisez vos prédictions",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MStars",
+    "categoria": "MStars",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "MX Point",
+    "categoria": "Point MX",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "MX Zone",
+    "categoria": "Zone MX",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "MXSOL",
+    "categoria": "MXSOL",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Main account",
+    "categoria": "Compte principal",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Mainnet merge",
+    "categoria": "Fusion du réseau principal",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Maintenance margin",
+    "categoria": "Marge de maintenance",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maintenance margin rate (MMR)",
+    "categoria": "Taux de marge de maintenance (MMR)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maker",
+    "categoria": "Maker",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Manual release",
+    "categoria": "Libération manuelle",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Manually create",
+    "categoria": "Créer manuellement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "March",
+    "categoria": "Mars",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Margin call LTV",
+    "categoria": "LTV d'appel de marge",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Margin ratio",
+    "categoria": "Taux de marge",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Margin utilization",
+    "categoria": "Utilisation de la marge",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mark price",
+    "categoria": "Prix de référence",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market",
+    "categoria": "Marché",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market cap",
+    "categoria": "Capitalisation boursière",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market cap change over {time}",
+    "categoria": "Variation de la capitalisation boursière sur {time}",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market maker",
+    "categoria": "Market maker",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Market maker account",
+    "categoria": "Compte de market maker",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Market order",
+    "categoria": "Ordre Market",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Markets",
+    "categoria": "Marchés",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Master account",
+    "categoria": "Compte principal",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Masters of Prediction",
+    "categoria": "Maîtres des prédictions",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Matched PNL",
+    "categoria": "P&L apparié",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Matched orders",
+    "categoria": "Ordres appariés",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maturity date",
+    "categoria": "Date de maturité",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Max.",
+    "categoria": "Maximum",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Maximum drawdown (Max. drawdown)",
+    "categoria": "Drawdown maximal (Drawdown max.)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maximum sell ratio restriction (Max. sell ratio restriction)",
+    "categoria": "Restriction du ratio de vente maximal (Restriction du ratio de vente max.)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Maximum supply (Max. supply)",
+    "categoria": "Offre maximale (Offre max.)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "May",
+    "categoria": "Mai",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Maybe Later",
+    "categoria": "Peut-être plus tard",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Medium risk",
+    "categoria": "Risque moyen",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Mega Cash Reward",
+    "categoria": "Méga récompense en espèces",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Meme+",
+    "categoria": "Meme+",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant",
+    "categoria": "Marchand",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant Center",
+    "categoria": "Centre des marchands",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merchant Portal",
+    "categoria": "Portail marchand",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Merkle tree",
+    "categoria": "Arbre de Merkle",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "MetaMask",
+    "categoria": "Metamask",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Metals",
+    "categoria": "Métaux",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Metaverse",
+    "categoria": "Métavers",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mid-term volatility",
+    "categoria": "Volatilité à moyen terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Midterm Market Rush",
+    "categoria": "",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Mining pool",
+    "categoria": "Pool de minage",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Mintable",
+    "categoria": "Mintable",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Mobile sign-up",
+    "categoria": "Inscription par téléphone mobile",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Modifiable balances",
+    "categoria": "Soldes modifiables",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Momentum indicator",
+    "categoria": "Indicateur de momentum",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Monday",
+    "categoria": "Lundi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moneyline",
+    "categoria": "Pari sur le vainqueur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "More",
+    "categoria": "Plus",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Move to Earn",
+    "categoria": "Bougez pour gagner",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moving Average",
+    "categoria": "Moyenne mobile (MA)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Moving Average Convergence/Divergence",
+    "categoria": "Convergence/Divergence des moyennes mobiles (MACD)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Multi-account operation",
+    "categoria": "Opération multi-comptes",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Multi-asset",
+    "categoria": "Multi-actifs",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-asset margin",
+    "categoria": "Marge multi-actifs",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-asset mode",
+    "categoria": "Mode multi-actifs",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Multi-level commission system",
+    "categoria": "Système de commissions multiniveau",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Multi-signature wallet",
+    "categoria": "Portefeuille multi-signature",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "My Rewards",
+    "categoria": "Mes récompenses",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "My holdings",
+    "categoria": "Mes avoirs",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Mystery box",
+    "categoria": "Boîte mystère",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Negative balance",
+    "categoria": "Solde négatif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Negative funding rate",
+    "categoria": "Taux de financement négatif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Net deposit",
+    "categoria": "Dépôt net",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Net transfer",
+    "categoria": "Transfert net",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Neutral",
+    "categoria": "Neutre",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "No lock-up period",
+    "categoria": "Aucune période de verrouillage",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Nominal value",
+    "categoria": "Valeur nominale",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-freezable",
+    "categoria": "Non verrouillable",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-fungible token (NFT)",
+    "categoria": "Token non fongible (NFT)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-instant payment",
+    "categoria": "Paiement non instantané",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Non-lockup system",
+    "categoria": "Système sans verrouillage",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Non-mintable",
+    "categoria": "Non mintable",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "November",
+    "categoria": "Novembre",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "OI",
+    "categoria": "OI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "October",
+    "categoria": "Octobre",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Offboarding",
+    "categoria": "Désactivation du compte",
+    "contexto": "Account"
+  },
+  {
+    "termo": "On-Chain",
+    "categoria": "On-chain",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "On-Chain Earn",
+    "categoria": "Épargne on-chain",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "One-Cancels-the-Other (OCO)",
+    "categoria": "One-Cancels-the-Other (OCO)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "One-way mode",
+    "categoria": "Mode unidirectionnel",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open grid orders",
+    "categoria": "Ordres de grille ouverts",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open interest",
+    "categoria": "Open interest",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open long",
+    "categoria": "Ouvrir long",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open order",
+    "categoria": "Ordre ouvert",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open position",
+    "categoria": "Position ouverte",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Open short",
+    "categoria": "Ouvrir short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Opportunity Compass",
+    "categoria": "Compas d'opportunités",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Order functions",
+    "categoria": "Fonctions d'ordre",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Order history",
+    "categoria": "Historique des ordres",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Outstanding",
+    "categoria": "En cours",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Overbought",
+    "categoria": "Suracheté",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Overriding commission",
+    "categoria": "Commission d'override",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Oversold",
+    "categoria": "Survendu",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Owner percentage",
+    "categoria": "Pourcentage du propriétaire",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "P/E ratio",
+    "categoria": "Ratio cours/bénéfice (PER)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "P2P",
+    "categoria": "P2P",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "P2P discount coupon",
+    "categoria": "Coupon de remise P2P",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "P2P trading",
+    "categoria": "Trading P2P",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL",
+    "categoria": "P&L",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL margin",
+    "categoria": "Marge P&L",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PNL rate",
+    "categoria": "Taux de P&L",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "PPI",
+    "categoria": "IPP",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Palm recognition",
+    "categoria": "Reconnaissance palmaire",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Partial position",
+    "categoria": "Position partielle",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Passkey",
+    "categoria": "Clé d'accès",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Pause",
+    "categoria": "Pause",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Payout",
+    "categoria": "Paiement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Payout amount",
+    "categoria": "Montant du paiement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Performance metrics",
+    "categoria": "Indicateurs de performance",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Personal remaining quota",
+    "categoria": "Quota restant personnel",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Phishing",
+    "categoria": "Hameçonnage",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Photo identification",
+    "categoria": "Vérification d'identité par photo",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Pizza Day",
+    "categoria": "Pizza Day",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Play to Earn",
+    "categoria": "Jouez pour gagner",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Pocket Card",
+    "categoria": "Carte de poche",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Point",
+    "categoria": "Point",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Point booster",
+    "categoria": "Booster de points",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Position",
+    "categoria": "Position",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position Limit Multiplier",
+    "categoria": "Multiplicateur de limite de position",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position PNL",
+    "categoria": "P&L de position",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position airdrop",
+    "categoria": "Airdrop de position",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Position margin",
+    "categoria": "Marge de position",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position mode",
+    "categoria": "Mode de position",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Position size",
+    "categoria": "Taille de position",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Position value",
+    "categoria": "Valeur de position",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Positive funding rate",
+    "categoria": "Taux de financement positif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Post-only",
+    "categoria": "Post-only",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Power Card",
+    "categoria": "Carte de puissance",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Pre-IPO",
+    "categoria": "",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pre-Market",
+    "categoria": "Pré-ouverture",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pre-crediting",
+    "categoria": "Pré-crédit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Predict BTC & ETH Moves",
+    "categoria": "Prédire les mouvements de BTC et ETH",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Prediction",
+    "categoria": "Prédiction",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prediction Markets",
+    "categoria": "Marchés de prédiction",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prediction result",
+    "categoria": "Résultat de prédiction",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Premier",
+    "categoria": "Premium",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Premium Hustle",
+    "categoria": "Grind Premium",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Price Insights",
+    "categoria": "Analyse des prix",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Price protection",
+    "categoria": "Protection des prix",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price quote",
+    "categoria": "Cotation de prix",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price range",
+    "categoria": "Plage de prix",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Price-to-earnings ratio",
+    "categoria": "Ratio cours/bénéfice (PER)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Primary KYC",
+    "categoria": "Vérification d'identité primaire (KYC)",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Prime Merchant",
+    "categoria": "Marchand Prime",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Principal",
+    "categoria": "Capital",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Privacy Fever",
+    "categoria": "Fièvre de la confidentialité",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Privacy token",
+    "categoria": "Token privé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Prize pool",
+    "categoria": "Cagnotte",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Profit share ratio",
+    "categoria": "Taux de partage des profits",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Proof of Stake (PoS)",
+    "categoria": "Proof of Stake (PoS)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proof of Trust (PoT)",
+    "categoria": "Proof of Trust (PoT)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proof of Work (PoW)",
+    "categoria": "Proof of Work (PoW)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Protocol",
+    "categoria": "Protocole",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Proxy contract",
+    "categoria": "Contrat proxy",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Public chain",
+    "categoria": "Chaîne publique",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Public sale",
+    "categoria": "Vente publique",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Pulse",
+    "categoria": "Vibe de",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Purchase price",
+    "categoria": "Prix d'achat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Put",
+    "categoria": "Put",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quantity",
+    "categoria": "Quantité",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Quick Commit",
+    "categoria": "Engagement rapide",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Quick buy",
+    "categoria": "Achat rapide",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quick copy",
+    "categoria": "Copie rapide",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Quick stake",
+    "categoria": "Staking rapide",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Quote unit",
+    "categoria": "Unité de cotation",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "ROI",
+    "categoria": "ROI",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RSI",
+    "categoria": "RSI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Race pass",
+    "categoria": "Passe",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Race to Zero",
+    "categoria": "Course vers zéro",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Real Stocks, Real Friends",
+    "categoria": "Actions réelles, amis réels",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Real-World Assets (RWA)",
+    "categoria": "Actifs du monde réel (RWA)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Real-time principal",
+    "categoria": "Capital en temps réel",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "RealStocks",
+    "categoria": "RealStocks",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RealStocks Fixed Investment",
+    "categoria": "Investissement programmé RealStocks",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "RealStocks RWA",
+    "categoria": "RealStocks RWA",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Realized PNL",
+    "categoria": "P&L réalisé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Rebase",
+    "categoria": "Rebase",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Rebate",
+    "categoria": "Remise",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rebate",
+    "categoria": "Remise",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Recommended products",
+    "categoria": "Produits recommandés",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Redeem",
+    "categoria": "Racheter",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeem early",
+    "categoria": "Rachat anticipé",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeemed",
+    "categoria": "Racheté",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redeeming",
+    "categoria": "En cours de rachat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redemption failed",
+    "categoria": "Échec du rachat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Redemption time",
+    "categoria": "Période de rachat",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Reducible margin",
+    "categoria": "Marge réductible",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Refer",
+    "categoria": "Parrainer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Refer & Earn",
+    "categoria": "Parrainez et gagnez",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referee",
+    "categoria": "Filleul",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral activity alerts",
+    "categoria": "Alertes d'activité de parrainage",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral code",
+    "categoria": "Code de parrainage",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral link",
+    "categoria": "Lien de parrainage",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral profile tags",
+    "categoria": "Étiquettes de profil de parrainage",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Referral reward",
+    "categoria": "Récompense de parrainage",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referral task",
+    "categoria": "Tâche de parrainage",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Referrer",
+    "categoria": "Parrain",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Reg time",
+    "categoria": "Temps réglementaire",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Register",
+    "categoria": "S'inscrire",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Register Now",
+    "categoria": "S'inscrire maintenant",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Registered",
+    "categoria": "Inscrit(e)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Relative Strength Index",
+    "categoria": "Indice de force relative (RSI)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Repayment",
+    "categoria": "Remboursement",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Reset security verification",
+    "categoria": "Réinitialiser la vérification de sécurité",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Resistance level",
+    "categoria": "Niveau de résistance",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse conversion rate",
+    "categoria": "Taux de conversion inversé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse exchange",
+    "categoria": "Échange inversé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse position",
+    "categoria": "Position inverse",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse position protection",
+    "categoria": "Protection de position inverse",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reverse splits",
+    "categoria": "Division inversée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Reward distribution",
+    "categoria": "Distribution des récompenses",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rewards Hub",
+    "categoria": "Espace des récompenses",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Rewards and conversion rate",
+    "categoria": "Récompenses et taux de conversion",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Rising Pool",
+    "categoria": "Cagnotte de croissance",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Risk Disclosure",
+    "categoria": "Divulgation des risques",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Risk control",
+    "categoria": "Contrôle des risques",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Risk limit",
+    "categoria": "Limite de risque",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Risk review",
+    "categoria": "Révision des risques",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Robinhood",
+    "categoria": "Robinhood",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Rollback",
+    "categoria": "Rollback",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Round",
+    "categoria": "Manche",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Running duration",
+    "categoria": "Durée de fonctionnement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Running mode",
+    "categoria": "Mode de fonctionnement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Running {grid_number}",
+    "categoria": "{grid_number} en cours d'exécution",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "SEPA Instant",
+    "categoria": "SEPA instantané",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "SMS verification",
+    "categoria": "Vérification par SMS",
+    "contexto": "Account"
+  },
+  {
+    "termo": "SMS-based dynamic verification",
+    "categoria": "Vérification dynamique par SMS",
+    "contexto": "Account"
+  },
+  {
+    "termo": "SOL staking",
+    "categoria": "Staking SOL",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "ST",
+    "categoria": "ST",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "SafePal sub-account",
+    "categoria": "Sous-compte SafePal",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Saturday",
+    "categoria": "Samedi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Scale-in order",
+    "categoria": "Ordre d'entrée échelonnée",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Security deposit",
+    "categoria": "Dépôt de garantie",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Seed phrase",
+    "categoria": "Phrase mnémonique",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Select stock cash voucher",
+    "categoria": "Coupon de cash pour actions sélectionnées",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Self-destruct",
+    "categoria": "Auto-destruction",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell High",
+    "categoria": "Vendre haut",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Sell if Touched",
+    "categoria": "Vente si seuil atteint",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell price",
+    "categoria": "Prix de vente",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sell to close long",
+    "categoria": "Vendre pour clôturer une position longue",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sell to open short",
+    "categoria": "Vendre pour ouvrir une position courte",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "September",
+    "categoria": "Septembre",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Settlement amount",
+    "categoria": "Montant de règlement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Settlement currency",
+    "categoria": "Devise de règlement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Settlement interest rate",
+    "categoria": "Taux d'intérêt de règlement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Settlement time",
+    "categoria": "Heure de règlement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sharpe ratio",
+    "categoria": "Ratio de Sharpe",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Short",
+    "categoria": "Short",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Short-to-mid term volatility",
+    "categoria": "Volatilité court à moyen terme",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sign Up",
+    "categoria": "S'inscrire",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Silver",
+    "categoria": "Argent",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Silver chest",
+    "categoria": "Coffre argent",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Simple mode",
+    "categoria": "Mode simple",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Single-asset margin",
+    "categoria": "Marge mono-actif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Single-asset mode",
+    "categoria": "Mode mono-actif",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Slippage",
+    "categoria": "Slippage",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart Candles",
+    "categoria": "Bougies intelligentes",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart Chart",
+    "categoria": "Graphique intelligent",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart DCA",
+    "categoria": "DCA intelligent",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart Picks",
+    "categoria": "Sélection intelligente",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "Smart contract",
+    "categoria": "Contrat intelligent",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Smart copy",
+    "categoria": "Smart copy",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Smart money",
+    "categoria": "Smart money",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Smart ratio",
+    "categoria": "Smart ratio",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Snapshot",
+    "categoria": "Snapshot",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Sold out",
+    "categoria": "Épuisé",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Sort",
+    "categoria": "Trier",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Spinfest",
+    "categoria": "Spinfest",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Split buys",
+    "categoria": "Achats fractionnés",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot",
+    "categoria": "Au comptant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot DCA",
+    "categoria": "DCA au comptant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot Grid",
+    "categoria": "Grille au comptant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot USDT Auto-Cover",
+    "categoria": "Couverture automatique en USDT au comptant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spot airdrop",
+    "categoria": "Airdrop au comptant",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Spot grid bot",
+    "categoria": "Bot de grille au comptant",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spread",
+    "categoria": "Spread",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Spread",
+    "categoria": "Spread",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stablecoin",
+    "categoria": "Stablecoin",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stake",
+    "categoria": "Staker",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staked amount",
+    "categoria": "Montant staké",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking confirmation",
+    "categoria": "Confirmation du staking",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking limit reached",
+    "categoria": "Limite de staking atteinte",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking paused",
+    "categoria": "Staking en pause",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking pool",
+    "categoria": "Pool de staking",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Staking successful",
+    "categoria": "Staking réussi",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Staking time",
+    "categoria": "Durée de staking",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Standard",
+    "categoria": "Standard",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Standard",
+    "categoria": "Standard",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Standard account",
+    "categoria": "Compte standard",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Standard sub-account",
+    "categoria": "Sous-compte standard",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Star Points",
+    "categoria": "Star points",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Starter Pool",
+    "categoria": "Cagnotte initiale",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "StochRSI",
+    "categoria": "StochRSI",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stochastic Relative Strength Index",
+    "categoria": "Indice de force relative stochastique",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stock Futures",
+    "categoria": "Contrats à terme sur actions",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stock cash voucher",
+    "categoria": "Coupon de cash pour actions",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stock index",
+    "categoria": "Indice boursier",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Stock redemption voucher",
+    "categoria": "Coupon de réclamation d'actions",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stock splits",
+    "categoria": "Division d'actions",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stock voucher",
+    "categoria": "Coupon d'actions",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Stocks",
+    "categoria": "Actions",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stop-limit order",
+    "categoria": "Ordre Stop-Limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stop-loss (SL)",
+    "categoria": "Stop-Loss (SL)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Stopped",
+    "categoria": "Arrêté",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Strategy sub-account",
+    "categoria": "Sous-compte de stratégie",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Sub-account",
+    "categoria": "Sous-compte",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Sub-affiliate",
+    "categoria": "Sous-affilié",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Sunday",
+    "categoria": "Dimanche",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Super X-Game",
+    "categoria": "Super X-Game",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Support level",
+    "categoria": "Niveau de support",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Supreme chest",
+    "categoria": "Coffre suprême",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "T-bill",
+    "categoria": "T-bill",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "T-bond",
+    "categoria": "T-bond",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Tail digit",
+    "categoria": "Dernier chiffre",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Take-profit (TP)",
+    "categoria": "Take-Profit (TP)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Taker",
+    "categoria": "Taker",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Tax burn",
+    "categoria": "Tax burn",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Team up, trade stocks, and claim victory with 0 fees.",
+    "categoria": "Formez une équipe, tradez des actions et remportez la victoire avec 0 frais.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Template Center",
+    "categoria": "Centre des modèles",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Term",
+    "categoria": "Durée",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Terminate",
+    "categoria": "Terminer",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Threshold",
+    "categoria": "Seuil",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Thursday",
+    "categoria": "Jeudi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Ticket",
+    "categoria": "Ticket",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Ticket tier",
+    "categoria": "Niveau de ticket",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Tie-breaker",
+    "categoria": "Départage",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Timestamp",
+    "categoria": "Horodatage",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "To Advance",
+    "categoria": "Se qualifier",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "To be committed",
+    "categoria": "À engager",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "To be repaid",
+    "categoria": "À rembourser",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Today's total PNL",
+    "categoria": "P&L total du jour",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Token migration",
+    "categoria": "Migration de token",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Token swap",
+    "categoria": "Swap de token",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Token voucher",
+    "categoria": "Coupon de token",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Tokenomics",
+    "categoria": "Tokenomics",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Top Up",
+    "categoria": "Recharger",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total",
+    "categoria": "Total",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Total assets (USDT)",
+    "categoria": "Actifs totaux (USDT)",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total buy",
+    "categoria": "Total des achats",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total commission",
+    "categoria": "Commission totale",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Total commission sharing",
+    "categoria": "Taux de partage des commissions",
+    "contexto": "Program"
+  },
+  {
+    "termo": "Total funding fees",
+    "categoria": "Total des frais de financement",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total investment",
+    "categoria": "Investissement total",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total market cap",
+    "categoria": "Capitalisation boursière totale",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Total sell",
+    "categoria": "Total des ventes",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total strategy equity",
+    "categoria": "Valeur totale de la stratégie",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Total value locked (TVL)",
+    "categoria": "Valeur totale verrouillée (TVL)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Total withdrawals",
+    "categoria": "Total des retraits",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Touch ID",
+    "categoria": "Touch ID",
+    "contexto": "Account"
+  },
+  {
+    "termo": "TradFi",
+    "categoria": "TradFi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Trade",
+    "categoria": "Trader",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade amount",
+    "categoria": "Montant de trading",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade for team triumph. Powered by 0-fee stock trading.",
+    "categoria": "Tradez pour le triomphe de l'équipe. Propulsé par le trading d'actions à 0 frais.",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trade history",
+    "categoria": "Historique de trading",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade type",
+    "categoria": "Type de trading",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trade volume",
+    "categoria": "Volume de trading",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Trader",
+    "categoria": "Trader",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading Takes Two: Meet Your MEXC AI Trading Companion",
+    "categoria": "Le trading se joue à deux : découvrez votre compagnon de trading IA MEXC",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trading bot",
+    "categoria": "Bot de trading",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading frequency",
+    "categoria": "Fréquence de trading",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trading volume ranking",
+    "categoria": "Classement par volume de trading",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Trail to Buy",
+    "categoria": "Achat suiveur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trail to Sell",
+    "categoria": "Vente suiveuse",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trail variance",
+    "categoria": "Variance de suivi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trailing delta",
+    "categoria": "Delta de suivi",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trailing stop",
+    "categoria": "Stop suiveur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Transfer",
+    "categoria": "Transfert",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Transfer pausable",
+    "categoria": "Transfert suspendable",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Travel Rule",
+    "categoria": "Règle de voyage",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Treasury Bill",
+    "categoria": "Bon du trésor",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Treasury Bond",
+    "categoria": "Obligation du trésor",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Trigger order",
+    "categoria": "Ordre trigger",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger price",
+    "categoria": "Prix de déclenchement",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger-limit",
+    "categoria": "Trigger-limit",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Trigger-market",
+    "categoria": "Trigger-market",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Tuesday",
+    "categoria": "Mardi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Two-factor authentication",
+    "categoria": "Authentification à deux facteurs",
+    "contexto": "Account"
+  },
+  {
+    "termo": "TxID",
+    "categoria": "ID de transaction (TxID)",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "U.S. stocks",
+    "categoria": "Actions américaines",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "USDC-M",
+    "categoria": "USDC-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "USDT-M",
+    "categoria": "USDT-M",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Ultimate Pool",
+    "categoria": "Cagnotte ultime",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Uncredited Deposit Return Application",
+    "categoria": "Demande de retour de dépôt non crédité",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Uncredited deposit",
+    "categoria": "Dépôt non crédité",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Under appeal",
+    "categoria": "En litige",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Underwriter",
+    "categoria": "Souscripteur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Underwriting fee",
+    "categoria": "Frais de souscription",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Universal stock cash voucher",
+    "categoria": "Coupon de cash pour actions universel",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Unmatched PNL",
+    "categoria": "P&L non apparié",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Unrealized PNL",
+    "categoria": "P&L non réalisé",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Up",
+    "categoria": "Hausse",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Up payout",
+    "categoria": "Paiement à la hausse",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upgradable transfer fees",
+    "categoria": "Frais de transfert évolutifs",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upper limit",
+    "categoria": "Limite supérieure",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Upper stop price",
+    "categoria": "Prix stop supérieur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "VPA",
+    "categoria": "VPA",
+    "contexto": "Account"
+  },
+  {
+    "termo": "VVIP",
+    "categoria": "VVIP",
+    "contexto": ""
+  },
+  {
+    "termo": "Value date",
+    "categoria": "Date de valeur",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Verification code",
+    "categoria": "Code de vérification",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Verified Merchant",
+    "categoria": "Marchand vérifié",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Video identification",
+    "categoria": "Vérification d'identité par vidéo",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Video morning brief",
+    "categoria": "Briefing vidéo matinal",
+    "contexto": "MEXC AI"
+  },
+  {
+    "termo": "View AI Plans",
+    "categoria": "Voir les plans IA",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "View AI Review",
+    "categoria": "Voir l'analyse IA",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "View More",
+    "categoria": "Voir plus",
+    "contexto": "UI Element"
+  },
+  {
+    "termo": "Virtual payment address",
+    "categoria": "Adresse de paiement virtuelle",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Voice input",
+    "categoria": "Entrée vocale",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Voucher Center",
+    "categoria": "Centre de coupons",
+    "contexto": "Reward"
+  },
+  {
+    "termo": "Wash sale rule",
+    "categoria": "Règle du wash sale",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Wash trading",
+    "categoria": "Wash trading",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Watchlist",
+    "categoria": "Liste de suivi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "We See You",
+    "categoria": "We See You",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Wednesday",
+    "categoria": "Mercredi",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "White Zone",
+    "categoria": "Zone blanche",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Whitelist",
+    "categoria": "Liste blanche",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Williams %R",
+    "categoria": "Williams %R",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Win rate",
+    "categoria": "Taux de réussite",
+    "contexto": "Trade"
+  },
+  {
+    "termo": "Withdrawal Protection",
+    "categoria": "Protection des retraits",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal history",
+    "categoria": "Historique des retraits",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal network",
+    "categoria": "Réseau de retrait",
+    "contexto": "Account"
+  },
+  {
+    "termo": "Withdrawal runs",
+    "categoria": "Retraits en cours",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Yesterday's Interest",
+    "categoria": "Intérêts d'hier",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Yield farming",
+    "categoria": "Farming de rendement",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Yield rate",
+    "categoria": "Taux de rendement",
+    "contexto": "Earn"
+  },
+  {
+    "termo": "Your 0-fee gateway to infinite opportunities",
+    "categoria": "Votre passerelle à 0 frais vers des opportunités infinies",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "Your Easiest Way to Crypto",
+    "categoria": "Votre voie la plus facile vers la cryptomonnaie",
+    "contexto": "Brand"
+  },
+  {
+    "termo": "ZK rollup",
+    "categoria": "ZK rollup",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "ZKP",
+    "categoria": "ZKP",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "Zero-Fee Gala",
+    "categoria": "Gala 0 frais",
+    "contexto": "Campaign"
+  },
+  {
+    "termo": "Zero-Knowledge Proof",
+    "categoria": "Zero Knowledge proof (ZKP)",
+    "contexto": "Generic"
+  },
+  {
+    "termo": "{s}-leg combo",
+    "categoria": "Combo à {s} sélections",
+    "contexto": "Trade"
+  }
+]
